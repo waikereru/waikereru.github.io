@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Steve Salmond"
+  name             : "Waikereru Ecosanctuary"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Webmaster for the Waikereru Ecosanctuary"
-  location         : "Auckland, NZ"
-  email            :
+  bio              : "A haven for native birds, plants and animals"
+  location         : "Gisborne, NZ"
+  email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
