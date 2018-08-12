@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Waikereru Ecosanctuary"
 title_separator          : "-"
 name                     : "Waikereru Ecosanctuary"
-description              : "A haven for native birds, plants and animals"
+description              : "A haven for native birds, plants and animals."
 url                      : http://www.waikereru.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Waikereru Ecosanctuary"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A haven for native birds, plants and animals"
-  location         : "Gisborne, NZ"
+  bio              : "A haven for native birds, plants and animals."
+  location         : "Gisborne, New Zealand"
   email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
