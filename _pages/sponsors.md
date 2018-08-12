@@ -47,11 +47,11 @@ Many thanks!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="PMWFG9GZWEDGW">
-  <a href="#" class="btn btn--primary" name="submit">Donate</a>
+  <a href="#" class="btn btn--primary" onclick="$(this).closest('form').submit()">Donate</a>
   <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" hidden="" style="display: none !important;">
 </form>
 
-PayPal - The safer, easier way to pay online!  
+
 Alternatively, you can send a cheque to:
 The Treasurer, 
 Longbush Ecological Trust, 
