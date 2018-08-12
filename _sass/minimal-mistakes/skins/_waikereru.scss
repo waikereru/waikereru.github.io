@@ -40,3 +40,12 @@ $base0f: #cc6633 !default;
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $primary-color;
+}
