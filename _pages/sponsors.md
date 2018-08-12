@@ -6,7 +6,7 @@ tagline: The project has benefitted from generous help and sponsorship from many
 author_profile: true
 
 header:
-  image: /assets/images/panorama_pa_hill_2007.jpg
+  image: /assets/images/splash/splash_home.jpg
 ---
 
 The project has benefitted from generous help and sponsorship from many people and organisations in Gisborne and elsewhere.
