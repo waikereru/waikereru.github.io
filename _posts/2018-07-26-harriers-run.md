@@ -2,13 +2,9 @@
 title: "Harriers test track upgrades"
 excerpt: "Many thanks to the Eastland Community Trust for funding an upgrade to our signage and the tracks around the Welcome Shelter."
 layout: single
-excerpt: We made it, thanks everyone!
 author: Steve Salmond
 categories:
   - News
-tags:
-  - conference
-  - gamedev
 ---
 
 Many thanks to the Eastland Community Trust for funding an upgrade to our signage and the tracks around the Welcome Shelter. The Gisborne Harriers immediately put the tracks to good use, having a fantastic day at Waikereru.
