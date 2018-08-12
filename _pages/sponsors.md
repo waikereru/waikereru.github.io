@@ -53,7 +53,8 @@ Many thanks!
 
 
 Alternatively, you can send a cheque to:
-The Treasurer, 
+
+**The Treasurer**, 
 Longbush Ecological Trust, 
 14 Glen Road, 
 Stanley Bay, 
