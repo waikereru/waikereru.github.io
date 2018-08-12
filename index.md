@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 
 header:
-  image: /assets/images/splash_home.jpg
+  image: /assets/images/splash/splash_home.jpg
 
 sidebar:
   - image: http://placehold.it/350x250
