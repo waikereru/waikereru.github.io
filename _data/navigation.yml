@@ -1,4 +1,6 @@
 # main links
 main:
+  - title: "News"
+    url: /news/
   - title: "Sponsors"
     url: /sponsors/
