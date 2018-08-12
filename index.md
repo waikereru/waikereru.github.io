@@ -1,6 +1,6 @@
 ---
 layout: splash
-author_profile: false
+author_profile: true
 
 header:
   image: /assets/images/panorama_pa_hill_2007.jpg
