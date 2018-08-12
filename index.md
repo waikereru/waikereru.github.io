@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 
 header:
-  image: /assets/images/panorama_pa_hill_2007.jpg
+  image: /assets/images/splash_home.jpg
 
 sidebar:
   - image: http://placehold.it/350x250
