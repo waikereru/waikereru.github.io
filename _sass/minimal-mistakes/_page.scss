@@ -4,7 +4,6 @@
 
 .initial-content {
   position: relative;
-  margin-top: 2em;
   min-height: 100%;
   background-image: url($backdrop-image); 
   background-attachment: fixed;
@@ -15,8 +14,8 @@
 #main {
   @include clearfix;
   margin-left: auto;
-  margin-top: 2em;
   margin-right: auto;
+  padding-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
   -webkit-animation: $intro-transition;
