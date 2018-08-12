@@ -54,8 +54,8 @@ Many thanks!
 
 Alternatively, you can send a cheque to:
 
-**The Treasurer**,\
-Longbush Ecological Trust,\
-14 Glen Road,\
-Stanley Bay,\
+**The Treasurer**,<br/>
+Longbush Ecological Trust,<br/>
+14 Glen Road,<br/>
+Stanley Bay,<br/>
 Auckland 0624
