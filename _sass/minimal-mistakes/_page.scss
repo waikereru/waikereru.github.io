@@ -4,6 +4,7 @@
 
 .initial-content {
   position: relative;
+  margin-top: 2em;
   min-height: 100%;
   background-image: url($backdrop-image); 
   background-attachment: fixed;
@@ -136,7 +137,7 @@
 
 .page__hero {
   position: relative;
-  margin-bottom: 2em;
+  margin-bottom: 0em;
   @include clearfix;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
