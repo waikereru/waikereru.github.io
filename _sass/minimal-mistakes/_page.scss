@@ -2,6 +2,15 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+.page__backdrop {
+  position: relative;
+  min-height: 100%;
+  background-image: url($backdrop-image); 
+  background-attachment: fixed;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+}
+
 #main {
   @include clearfix;
   margin-left: auto;
