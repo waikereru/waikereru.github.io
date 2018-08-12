@@ -1,8 +1,9 @@
 ---
 layout: splash
 author_profile: false
+header:
+  image: /assets/images/panorama_pa_hill_2007.jpg
 ---
-
 
 Welcome to the **Waikereru Ecosanctuary** - an Ark in the Bush. The Ecosanctuary is a haven for rare and endangered species of native birds, plants and animals. It is reached by a winding gravel road up an inland valley, just 9 kilometres from Gisborne city on the Tai Rawhiti / East Coast of New Zealand.
 
@@ -11,10 +12,6 @@ Waikereru Ecosanctuary is a fine example of ecological restoration in the Tai Ra
 
 ## Nau mai, haere mai!
 
-Visitors are very welcome at Longbush Reserve (to the right up Riverside Road), which is open to the public.
+Visitors are very welcome at Longbush Reserve (to the right up Riverside Road), which is open to the public. Please stay on the track, be careful around electric fences, traps and streams, and take care of our precious bush.
 
-Please stay on the track, be careful around electric fences, traps and streams, and take care of our precious bush.
-
-Waikereru Ecosanctuary (including the Welcome Shelter and 1769 Garden) can be [visited by arrangement](longbush.reserve@gmail.com). We treat it like a marae – visitors very welcome, but the trustees need to know you’re coming!
-
-The Waikereru Hills are actively managed, with trapping and shooting.  For health and safety reasons, access by arrangement only.
+Waikereru Ecosanctuary (including the Welcome Shelter and 1769 Garden) can be [visited by arrangement](longbush.reserve@gmail.com). We treat it like a marae – visitors very welcome, but the trustees need to know you’re coming!  The Waikereru Hills are actively managed, with trapping and shooting.  For health and safety reasons, access by arrangement only.
