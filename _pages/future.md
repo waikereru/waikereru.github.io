@@ -4,7 +4,7 @@ permalink: /future/
 title: The Future
 tagline: The Longbush Ecosanctuary has many advantages for long-term ecological restoration. 
 author_profile: true
-
+classes: wide
 header:
   image: /assets/images/splash/splash_future.jpg
 

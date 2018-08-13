@@ -4,7 +4,7 @@ permalink: /history/
 title: History
 tagline: In the Longbush Ecosanctuary, one can see a microcosm of the history of the East Coast / Tai Rawhiti.
 author_profile: true
-
+classes: wide
 header:
   image: /assets/images/splash/splash_history.jpg
 

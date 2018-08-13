@@ -4,7 +4,7 @@ permalink: /sponsors/
 title: Sponsors
 tagline: The project has benefitted from generous help and sponsorship from many people and organisations in Gisborne and elsewhere.
 author_profile: true
-
+classes: wide
 header:
   image: /assets/images/splash/splash_kowhai.jpg
 ---

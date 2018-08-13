@@ -4,7 +4,7 @@ permalink: /shelter/
 title: The Welcome Shelter
 tagline: The Welcome Shelter at the Longbush Ecosanctuary is the brainchild of a remarkable young architect, Sarosh Mulla.
 author_profile: true
-
+classes: wide
 header:
   image: /assets/images/splash/splash_shelter.jpg
 

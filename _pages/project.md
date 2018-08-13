@@ -4,7 +4,7 @@ permalink: /project/
 title: The Project
 tagline: There is a very great environmental need for such a project in the Tai Rawhiti region.
 author_profile: true
-
+classes: wide
 header:
   image: /assets/images/splash/splash_planting.jpg
 

@@ -4,7 +4,7 @@ permalink: /trust/
 title: The Trust
 tagline: The Longbush Ecological Trust is dedicated to creating a haven for rare and endangered species of native plants and animals at and around Longbush.
 author_profile: true
-
+classes: wide
 header:
   image: /assets/images/splash/splash_tui.jpg
 
