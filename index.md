@@ -1,6 +1,5 @@
 ---
-layout: collection
-collection: posts
+layout: home
 entries_layout: grid
 author_profile: true
 header:
