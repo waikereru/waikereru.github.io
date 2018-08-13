@@ -1,6 +1,6 @@
 ---
 layout: collection
-collection: news
+collection: posts
 entries_layout: grid
 author_profile: true
 header:
