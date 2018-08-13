@@ -11,6 +11,4 @@ categories:
 
 Pete and Elle Jarratt talking about the Wild Lab with our visitors from Hawkes Bay DOC & Cape to City.
 
-<figure>
-    <a href="/assets/images/news/hawkes-bay-doc.jpg"><img src="/assets/images/news/hawkes-bay-doc.jpg"></a>
-</figure>
+{% include figure image_path="/assets/images/news/hawkes-bay-doc.jpg" caption="Chatting on the Waitui Bridge" %}
