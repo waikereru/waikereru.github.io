@@ -1,6 +1,5 @@
 ---
-layout: collection
-collection: posts
+layout: posts
 entries_layout: grid
 author_profile: true
 header:
@@ -17,3 +16,5 @@ Waikereru Ecosanctuary is a fine example of ecological restoration in the Tai Ra
 Visitors are very welcome at Longbush Reserve (to the right up Riverside Road), which is open to the public. Please stay on the track, be careful around electric fences, traps and streams, and take care of our precious bush.
 
 Waikereru Ecosanctuary (including the Welcome Shelter and 1769 Garden) can be [visited by arrangement](mailto:longbush.reserve@gmail.com). We treat it like a marae – visitors very welcome, but the trustees need to know you’re coming!  The Waikereru Hills are actively managed, with trapping and shooting.  For health and safety reasons, access by arrangement only.
+
+## News
