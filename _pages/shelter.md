@@ -6,7 +6,7 @@ tagline: The Welcome Shelter at the Longbush Ecosanctuary is the brainchild of a
 author_profile: true
 
 header:
-  image: /assets/images/splash/splash_home.jpg
+  image: /assets/images/splash/splash_home_no_logo.jpg
 
 ---
 

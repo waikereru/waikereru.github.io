@@ -12,7 +12,7 @@ header:
 
 In the Longbush Ecosanctuary, one can see a microcosm of the history of the East Coast / Tai Rawhiti. The hills that encircle the site are geologically young, formed by uplift and earthquakes. When the first Europeans arrived in the district, the flats and foothills in the Waimata valley were covered with fern or gardens, with dense lowland bush and trees in the high valleys and inland.
 
-{% include figure image_path="/assets/images/history/riverside-bush-justine-ward.jpg" caption="Riverside bush (Justine Ward)" %}
+{% include figure image_path="/assets/images/history/riverside-bush.jpg" caption="Riverside bush (Justine Ward)" %}
 
 The remains of a small unfortified village stands on a low hill at Longbush (Pa Hill), looking up and down the Waimata River valley, with pits for kumara or possibly potatoes dug into the summit and one of the terraced spurs.
 

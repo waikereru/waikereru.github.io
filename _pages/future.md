@@ -6,7 +6,7 @@ tagline: The Longbush Ecosanctuary has many advantages for long-term ecological 
 author_profile: true
 
 header:
-  image: /assets/images/splash/splash_home.jpg
+  image: /assets/images/splash/splash_home_no_logo.jpg
 
 ---
 

@@ -6,7 +6,7 @@ tagline: There is a very great environmental need for such a project in the Tai 
 author_profile: true
 
 header:
-  image: /assets/images/splash/splash_home.jpg
+  image: /assets/images/splash/splash_home_no_logo.jpg
 
 ---
 
