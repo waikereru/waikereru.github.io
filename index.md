@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: home
 collection: posts
 entries_layout: grid
 author_profile: true
