@@ -2,6 +2,7 @@
 layout: posts
 entries_layout: grid
 author_profile: true
+classes: wide
 header:
   image: /assets/images/splash/splash_home_no_logo.jpg
 ---
