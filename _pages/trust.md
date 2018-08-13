@@ -8,17 +8,6 @@ author_profile: true
 header:
   image: /assets/images/splash/splash_home_no_logo.jpg
 
-galleryTrustMembers:
-  - url: /assets/images/people/PeopleAnneSalmond.jpg
-    image_path: /assets/images/people/PeopleAnneSalmond.jpg
-    alt: "Dame Anne Salmond"
-  - url: /assets/images/people/PeopleJeremySalmond.jpg
-    image_path: /assets/images/people/PeopleJeremySalmond.jpg
-    alt: "Jeremy Salmond"
-  - url: /assets/images/people/PeopleSteveSawyer.jpg
-    image_path: /assets/images/people/PeopleSteveSawyer.jpg
-    alt: "Steve Sawyer"
-
 ---
 
 The **Longbush Ecological Trust** is dedicated to creating a haven for rare and endangered species of native plants and animals at and around Longbush.
@@ -27,16 +16,13 @@ The trust is [registered with the Charities Commission](http://www.register.char
 
 The Trust deed is [available for download here](/assets/documents/SignedTrustDeed.pdf).
 
-{% include gallery id="galleryTrustMembers" %}
-
 ## The founders
 
 When Anne and Jeremy Salmond first visited Longbush together in 1970 after a family picnic at Longbush Reserve, they were struck by its beauty.
 
-**[Jeremy Salmond](https://salmondreed.co.nz/about#jeremy-salmond)** is a conservation architect and founding partner of [Salmond Reed Architects](http://salmondreed.co.nz/) in Auckland. He is the author of Old New Zealand Houses 1800-1940 and is a former Chairman of [ICOMOS](http://www.icomos.org.nz/) (International Commission of Monuments and Sites) in New Zealand.
+![image-left](/assets/images/people/PeopleJeremySalmond.jpg){: .align-left} **[Jeremy Salmond](https://salmondreed.co.nz/about#jeremy-salmond)** is a conservation architect and founding partner of [Salmond Reed Architects](http://salmondreed.co.nz/) in Auckland. He is the author of Old New Zealand Houses 1800-1940 and is a former Chairman of [ICOMOS](http://www.icomos.org.nz/) (International Commission of Monuments and Sites) in New Zealand.
 
-**[Dame Anne Salmond](http://en.wikipedia.org/wiki/Anne_Salmond)** is a [writer](http://www.bookcouncil.org.nz/writers/salmondanne.html) and [scholar](https://en.wikipedia.org/wiki/Anne_Salmond), and a Distinguished Professor in Maori Studies at the [University of Auckland](http://www.auckland.ac.nz/uoa/). She is a former Pro Vice-Chancellor at the University and Chairman of the [New Zealand Historic Places Trust](http://www.historic.org.nz/). She is the patron of the [Whinray Ecological Trust](http://www.kiwisforkiwi.org/what-we-do/who-are-kiwis-for-kiwi/community-efforts/east-coast/whinray/) in Gisborne.
-
+![image-left](/assets/images/people/PeopleAnneSalmond.jpg){: .align-left} **[Dame Anne Salmond](http://en.wikipedia.org/wiki/Anne_Salmond)** is a [writer](http://www.bookcouncil.org.nz/writers/salmondanne.html) and [scholar](https://en.wikipedia.org/wiki/Anne_Salmond), and a Distinguished Professor in Maori Studies at the [University of Auckland](http://www.auckland.ac.nz/uoa/). She is a former Pro Vice-Chancellor at the University and Chairman of the [New Zealand Historic Places Trust](http://www.historic.org.nz/). She is the patron of the [Whinray Ecological Trust](http://www.kiwisforkiwi.org/what-we-do/who-are-kiwis-for-kiwi/community-efforts/east-coast/whinray/) in Gisborne.
 
 ## The trustees
 
@@ -53,7 +39,7 @@ Each trustee is responsible for an aspect of the overall project:
 
 ## Our ecological expert
 
-At the end of 2002, Anne and Jeremy contacted **[Steve Sawyer](/assets/documents/TheBirdWhispererSteveSawyer.pdf)** ([PDF]((/assets/documents/TheBirdWhispererSteveSawyer.pdf))), who was about to leave the Department of Conservation to set up his own ecological restoration business, [Ecoworks NZ](http://www.ecoworks.co.nz/). Steve is a vital part of the Longbush project, bringing vision and expertise to its execution. He is responsible for its high ecological standards, the writing of grant applications, and many initiatives and ideas.
+![image-left](/assets/images/people/PeopleSteveSawyer.jpg){: .align-left} At the end of 2002, Anne and Jeremy contacted **[Steve Sawyer](/assets/documents/TheBirdWhispererSteveSawyer.pdf)** ([PDF]((/assets/documents/TheBirdWhispererSteveSawyer.pdf))), who was about to leave the Department of Conservation to set up his own ecological restoration business, [Ecoworks NZ](http://www.ecoworks.co.nz/). Steve is a vital part of the Longbush project, bringing vision and expertise to its execution. He is responsible for its high ecological standards, the writing of grant applications, and many initiatives and ideas.
 
 Steve specialises in the recovery of endangered species and has worked with the Chatham Island black robin, royal albatross, tuatara, taiko, North Island brown and great spotted kiwi, tokoeka, blue duck, shore plover, parea, Buller's mollymawk, kokako, kakapo, Deuvacel's gecko and many more. 
 
