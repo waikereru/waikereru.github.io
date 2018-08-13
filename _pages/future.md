@@ -10,7 +10,7 @@ header:
 
 ---
 
-In 2005, Longbush Reserve was recognised as a Priority 1 RAP (recommended area for protection) by the Department of Conservation.
+In 2005, Longbush Reserve was recognised as a **Priority 1 RAP** (recommended area for protection) by the Department of Conservation.
 
 The Longbush Ecosanctuary has many advantages for long-term ecological restoration. The riverside bush and the hill area are protected by QEII covenants, with several other large QEII covenanted blocks across the western ridge, making this a viable habitat for many species.
 
