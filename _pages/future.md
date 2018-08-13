@@ -22,6 +22,6 @@ The **[Longbush Ecological Trust](/trust/)**, which is responsible for the resto
 
 Medium-term initiatives include [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), a community project to restore bush to the banks of the Waimata River; and **Friends of the Waimata**, a community network which aims to return the waters feeding the Waimata to their original state, with clear, slow-flowing streams and ponds, full of life and indigenous freshwater species.
 
-### A five year plan for Longbush Ecosanctuary
+## A five year plan for Longbush Ecosanctuary
 
 [A five year plan for the Ecosanctuary](/assets/documents/LongbushFiveYearPlan.pdf) until 2019, the 250th anniversary of the first meetings between Maori and Europeans at the mouth of the Waimata River.
