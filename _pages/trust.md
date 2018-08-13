@@ -27,6 +27,7 @@ The trust is [registered with the Charities Commission](http://www.register.char
 
 The Trust deed is [available for download here](/assets/documents/SignedTrustDeed.pdf).
 
+{% include gallery id="galleryTrustMembers" %}
 
 ## The founders
 
