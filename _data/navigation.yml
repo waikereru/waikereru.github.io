@@ -8,3 +8,11 @@ main:
     url: /trust/
   - title: "History"
     url: /history/
+  - title: "The Project"
+    url: /project/
+  - title: "Future"
+    url: /future/
+  - title: "Waimata River"
+    url: /river/
+  - title: "Welcome Shelter"
+    url: /shelter/
