@@ -6,7 +6,7 @@ tagline: The Waimata is one of the most significant rivers in New Zealand.
 author_profile: true
 
 header:
-  image: /assets/images/splash/splash_home_no_logo.jpg
+  image: /assets/images/splash/splash_river.jpg
 
 ---
 

@@ -6,11 +6,13 @@ tagline: The Welcome Shelter at the Longbush Ecosanctuary is the brainchild of a
 author_profile: true
 
 header:
-  image: /assets/images/splash/splash_home_no_logo.jpg
+  image: /assets/images/splash/splash_shelter.jpg
 
 ---
 
 The Welcome Shelter at the Longbush Ecosanctuary is the brainchild of a remarkable young architect, [Sarosh Mulla](http://www.saroshmulla.com/).
+
+{% include figure image_path="/assets/images/shelter/welcome-shelter.jpg" caption="The Welcome Shelter" %}
 
 Sarosh, [recipient of an AMP National Scholarship](http://architecturenow.co.nz/articles/scholarship-recipient-gives-to-charity/), has already exhibited his work at the Guggenheim Museum in New York. The Welcome Shelter is part of his PhD at the University of Auckland, on relations between built structures and the environment.
 
