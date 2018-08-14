@@ -6,7 +6,7 @@ tagline: The Longbush Ecological Trust is dedicated to creating a haven for rare
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/splash/splash_tui.jpg
+  image: /assets/images/splash/splash_kereru.jpg
 
 ---
 
