@@ -27,6 +27,8 @@ The project has benefitted from generous help and sponsorship from many people a
 
 {% include gallery id="gallerySponsors" %}
 
+## About the Sponsors
+
 [Longbush Wines](http://www.longbushwines.com/), owned by award-winning winemaker John Thorpe, has dedicated a royalty from four of his premium Longbush wines to the restoration of Longbush Reserve. Each of the premium wines is associated with one of the native birds in the bush.
 
 The [Waimata Cheese Company](http://www.waimatacheese.co.nz/), owned by Richard and Carol Thorpe, makers of the award-winning Longbush cheeses, also supports the project. John and Richard share family memories of bike rides to Longbush Reserve, and picnics beside the Waimata River.
