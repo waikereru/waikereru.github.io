@@ -20,9 +20,11 @@ In the mid 1860s Raharuhi Rukupo, one of the leading rangatira (chiefs) in the d
 
 When legal title to the land was established in 1869, the local chiefs settled its ownership among themselves, and its Maori history was not recorded by the Poverty Bay Commission. The rangatira included Raharuhi Rukupo, the chieftainess Riparata Kahutia and the Aitanga-a-Māhaki chief Hirini te Kani. Longbush lies in that part of the block associated with Te Aitanga-a-Māhaki, a local iwi or descent group.
 
-{% include figure image_path="/assets/images/history/arboretum-july-05.jpg" caption="Arboretum, circa 2005" %}
+{% include figure image_path="/assets/images/history/ford-1999.jpg" caption="Pre-planting, July 1999" %}
 
 In 1885 the ownership of the Whataupoko No.9 block passed to the New Zealand Native Land Settlement Company, which subdivided the land and sold part of it to John Dunlop. From that time, the Longbush Station (3300 acres) was worked as a pastoral farm, with two families, the Donners and the Hegartys, running the farm from 1895 to 1990.
+
+{% include figure image_path="/assets/images/history/arboretum-july-05.jpg" caption="Arboretum, circa 2005" %}
 
 The Hegartys created a pond below Pa Hill, and planted a stand of Italian poplars. By 1989 the hills had been cleared, leaving only a strip of lowland bush alongside the Waimata River. This was known as Longbush, a favourite picnic spot for local families (including the Thorpes, Anne’s family). After the trees on the land were felled, the slopes became vulnerable to erosion. During Cyclone Bola in 1988, there was severe slumping in the foothills, and large quantities of sediment were dumped in the Waimata River.
 
@@ -30,4 +32,4 @@ The Hegartys created a pond below Pa Hill, and planted a stand of Italian poplar
 
 In 2000 when the land was purchased, Longbush Ecosanctuary was under severe ecological threat. Cattle grazed the hills and the riverside bush, and the forest floor was barren. Garden rubbish and other refuse including cars were dumped in the gullies or beside the river.
 
-{% include figure image_path="/assets/images/history/ford-1999.jpg" caption="Pre-planting, July 1999" %}
+{% include figure image_path="/assets/images/history/april-2018-from-eastern-hills.jpg" caption="View from the eastern hills, April 2018" %}
