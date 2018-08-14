@@ -9,16 +9,16 @@ header:
   image: /assets/images/splash/splash_kowhai.jpg
 
 gallerySponsors:
-  - image_path: /assets/images/longbush-wines.jpg
-  - image_path: /assets/images/he-kura-taiao.jpg
-  - image_path: /assets/images/eit.jpg
-  - image_path: /assets/images/QEII.jpg
-  - image_path: /assets/images/wwf.jpg
-  - image_path: /assets/images/gdc.jpg
-  - image_path: /assets/images/lion-foundation.jpg
-  - image_path: /assets/images/ec-community-trust.jpg
-  - image_path: /assets/images/ecoworks.jpg
-  - image_path: /assets/images/lottery-grants-board.jpg
+  - image_path: /assets/images/sponsors/longbush-wines.jpg
+  - image_path: /assets/images/sponsors/he-kura-taiao.jpg
+  - image_path: /assets/images/sponsors/eit.jpg
+  - image_path: /assets/images/sponsors/QEII.jpg
+  - image_path: /assets/images/sponsors/wwf.jpg
+  - image_path: /assets/images/sponsors/gdc.jpg
+  - image_path: /assets/images/sponsors/lion-foundation.jpg
+  - image_path: /assets/images/sponsors/ec-community-trust.jpg
+  - image_path: /assets/images/sponsors/ecoworks.jpg
+  - image_path: /assets/images/sponsors/lottery-grants-board.jpg
 ---
 
 The project has benefitted from generous help and sponsorship from many people and organisations in Gisborne and elsewhere.
