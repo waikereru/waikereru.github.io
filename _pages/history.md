@@ -29,3 +29,5 @@ The Hegartys created a pond below Pa Hill, and planted a stand of Italian poplar
 {% include figure image_path="/assets/images/history/Early-days-at-the-Pond.jpg" caption="Early days at the pond" %}
 
 In 2000 when the land was purchased, Longbush Ecosanctuary was under severe ecological threat. Cattle grazed the hills and the riverside bush, and the forest floor was barren. Garden rubbish and other refuse including cars were dumped in the gullies or beside the river.
+
+{% include figure image_path="/assets/images/history/ford-1999.jpg" caption="Pre-planting, July 1999" %}
