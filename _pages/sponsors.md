@@ -7,6 +7,18 @@ author_profile: true
 classes: wide
 header:
   image: /assets/images/splash/splash_kowhai.jpg
+
+gallerySponsors:
+  - image_path: /assets/images/longbush-wines.jpg
+  - image_path: /assets/images/he-kura-taiao.jpg
+  - image_path: /assets/images/eit.jpg
+  - image_path: /assets/images/QEII.jpg
+  - image_path: /assets/images/wwf.jpg
+  - image_path: /assets/images/gdc.jpg
+  - image_path: /assets/images/lion-foundation.jpg
+  - image_path: /assets/images/ec-community-trust.jpg
+  - image_path: /assets/images/ecoworks.jpg
+  - image_path: /assets/images/lottery-grants-board.jpg
 ---
 
 The project has benefitted from generous help and sponsorship from many people and organisations in Gisborne and elsewhere.
@@ -16,6 +28,9 @@ The project has benefitted from generous help and sponsorship from many people a
 The [Waimata Cheese Company](http://www.waimatacheese.co.nz/), owned by Richard and Carol Thorpe, makers of the award-winning Longbush cheeses, also supports the project. John and Richard share family memories of bike rides to Longbush Reserve, and picnics beside the Waimata River.
 
 In the case of our first titi translocation, because the titi chicks stayed longer in their burrows than intended, and the fence was a mission to build, the funding ran short.  The brilliant [Ecoworks team](http://www.ecoworks.co.nz/) fed the chicks and did it all anyway - a heroic effort, and a generous gift  to the project.
+
+
+{% include gallery id="gallerySponsors" %}
 
 In addition, the Longbush Ecosanctuary project is supported by:
 
