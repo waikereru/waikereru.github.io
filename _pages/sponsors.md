@@ -9,28 +9,29 @@ header:
   image: /assets/images/splash/splash_kowhai.jpg
 
 gallerySponsors:
-  - image_path: /assets/images/sponsors/longbush-wines.jpg
-  - image_path: /assets/images/sponsors/he-kura-taiao.jpg
-  - image_path: /assets/images/sponsors/eit.jpg
+  - image_path: /assets/images/sponsors/doc.jpg
   - image_path: /assets/images/sponsors/QEII.jpg
   - image_path: /assets/images/sponsors/wwf.jpg
-  - image_path: /assets/images/sponsors/gdc.jpg
-  - image_path: /assets/images/sponsors/lion-foundation.jpg
-  - image_path: /assets/images/sponsors/ec-community-trust.jpg
   - image_path: /assets/images/sponsors/ecoworks.jpg
+  - image_path: /assets/images/sponsors/gdc.jpg
+  - image_path: /assets/images/sponsors/eit.jpg
+  - image_path: /assets/images/sponsors/lion-foundation.jpg
+  - image_path: /assets/images/sponsors/he-kura-taiao.jpg
+  - image_path: /assets/images/sponsors/ec-community-trust.jpg
   - image_path: /assets/images/sponsors/lottery-grants-board.jpg
+  - image_path: /assets/images/sponsors/longbush-wines.jpg
+  - image_path: /assets/images/sponsors/waimata-cheese.jpg
 ---
 
 The project has benefitted from generous help and sponsorship from many people and organisations in Gisborne and elsewhere.
+
+{% include gallery id="gallerySponsors" %}
 
 [Longbush Wines](http://www.longbushwines.com/), owned by award-winning winemaker John Thorpe, has dedicated a royalty from four of his premium Longbush wines to the restoration of Longbush Reserve. Each of the premium wines is associated with one of the native birds in the bush.
 
 The [Waimata Cheese Company](http://www.waimatacheese.co.nz/), owned by Richard and Carol Thorpe, makers of the award-winning Longbush cheeses, also supports the project. John and Richard share family memories of bike rides to Longbush Reserve, and picnics beside the Waimata River.
 
 In the case of our first titi translocation, because the titi chicks stayed longer in their burrows than intended, and the fence was a mission to build, the funding ran short.  The brilliant [Ecoworks team](http://www.ecoworks.co.nz/) fed the chicks and did it all anyway - a heroic effort, and a generous gift  to the project.
-
-
-{% include gallery id="gallerySponsors" %}
 
 In addition, the Longbush Ecosanctuary project is supported by:
 
