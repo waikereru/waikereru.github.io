@@ -3,6 +3,14 @@
    ========================================================================== */
 
 /* Colors */
+$link-color: #489856 !default;
+$link-color-hover: mix(#000, $link-color, 25%) !default;
+$link-color-visited: mix(#fff, $link-color, 25%) !default;
+
+$primary-color: #FB0303 !default;
+
+
+/*
 $background-color: #000000 !default;
 $text-color: #eaeaea !default;
 $primary-color: #FB0303 !default;
@@ -17,8 +25,10 @@ $link-color-visited: mix(#000, $link-color, 25%) !default;
 $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+*/
 
 /* dark syntax highlighting (base16) */
+/*
 $base00: #ffffff !default;
 $base01: #e0e0e0 !default;
 $base02: #d0d0d0 !default;
@@ -35,6 +45,7 @@ $base0c: #1faaaa !default;
 $base0d: #3777e6 !default;
 $base0e: #ad00a1 !default;
 $base0f: #cc6633 !default;
+*/
 
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons .svg-inline--fa {
