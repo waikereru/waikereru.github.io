@@ -3,14 +3,17 @@
    ========================================================================== */
 
 /* Colors */
-$link-color: #489856 !default;
-$link-color-hover: mix(#000, $link-color, 25%) !default;
-$link-color-visited: mix(#fff, $link-color, 25%) !default;
+$link-color: #1d4023 !default;
+$link-color-hover: #489856 !default;
+$link-color-visited: mix(#fff, $link-color, 20%) !default;
 
 $primary-color: #FB0303 !default;
 
+$background-color: #fff !default;
 $main-background-color: rgba(255,255,255,0.55);
 $masthead-background-color: #000 !default;
+
+$text-color: #000 !default;
 
 
 /*
