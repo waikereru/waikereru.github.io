@@ -39,8 +39,11 @@
 }
 
 .site-logo {
-  width: 40px; 
-  height: 40px; 
+  display: -webkit-box;
+  display: flex;
+  align-self: stretch;
+  align-items: stretch;
+  padding-right: 0.5rem;
 }
 
 .site-title {
