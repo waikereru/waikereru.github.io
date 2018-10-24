@@ -11,6 +11,9 @@
   margin-bottom: 1em;
 
   @include breakpoint(max-width $large) {
+
+    display: none;
+
     /* fix z-index order of follow links */
     position: relative;
     z-index: 10;
