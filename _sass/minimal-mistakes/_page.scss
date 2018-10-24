@@ -25,10 +25,6 @@
   animation-delay: 0.15s;
   background:$main-background-color;
 
-  @include breakpoint(max-width $large) {
-    padding-top: 1em;
-  }
-
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
