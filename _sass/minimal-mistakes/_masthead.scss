@@ -41,9 +41,13 @@
 .site-logo {
   display: -webkit-box;
   display: flex;
-  align-self: stretch;
-  align-items: stretch;
+  align-self: center;
+  align-items: center;
   padding-right: 0.5rem;
+
+  img {
+    height: 100%;
+  }  
 }
 
 .site-title {
