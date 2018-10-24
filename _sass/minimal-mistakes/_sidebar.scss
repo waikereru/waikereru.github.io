@@ -9,7 +9,6 @@
 .sidebar {
   @include clearfix();
   margin-bottom: 1em;
-  background-color: $sidebar-background-color;
 
   @include breakpoint(max-width $large) {
     /* fix z-index order of follow links */
@@ -22,7 +21,6 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    background-color: $sidebar-background-color-left;
 
     /*
     opacity: 0.75;

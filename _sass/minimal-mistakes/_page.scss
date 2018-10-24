@@ -15,7 +15,7 @@
   @include clearfix;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 0em;
+  padding-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
   -webkit-animation: $intro-transition;
@@ -25,14 +25,9 @@
   animation-delay: 0.15s;
   background:$main-background-color;
 
-  @include breakpoint($large) {
-    padding-top: 2em;
-  }
-
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
-  
 }
 
 .page {
