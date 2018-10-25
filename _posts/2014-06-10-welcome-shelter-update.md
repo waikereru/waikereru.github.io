@@ -1,4 +1,3 @@
-
 ---
 title: "Welcome Shelter update"
 layout: single

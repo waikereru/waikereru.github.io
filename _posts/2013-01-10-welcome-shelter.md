@@ -1,4 +1,3 @@
-
 ---
 title: "Welcome Shelter / Workers' Shed"
 layout: single

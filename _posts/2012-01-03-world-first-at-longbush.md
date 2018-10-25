@@ -1,4 +1,3 @@
-
 ---
 title: "World first at Longbush"
 layout: single

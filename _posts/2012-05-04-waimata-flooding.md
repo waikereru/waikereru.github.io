@@ -1,4 +1,3 @@
-
 ---
 title: "The Waimata turns to a river of mud"
 layout: single

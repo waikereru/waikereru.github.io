@@ -1,4 +1,3 @@
-
 ---
 title: "Hot News from Longbush - a Robin Courtship"
 layout: single

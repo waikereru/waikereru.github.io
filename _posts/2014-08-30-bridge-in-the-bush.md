@@ -1,4 +1,3 @@
-
 ---
 title: "A bridge in the bush"
 layout: single

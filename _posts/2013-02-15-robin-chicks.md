@@ -1,4 +1,3 @@
-
 ---
 title: "After 150 years, robin chicks at Longbush"
 layout: single

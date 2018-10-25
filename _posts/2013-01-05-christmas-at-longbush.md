@@ -1,4 +1,3 @@
-
 ---
 title: "Christmas at Longbush"
 layout: single

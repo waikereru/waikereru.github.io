@@ -1,4 +1,3 @@
-
 ---
 title: "Welcome to the Welcome Shelter"
 layout: single

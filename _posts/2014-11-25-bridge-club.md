@@ -1,4 +1,3 @@
-
 ---
 title: "The Bridge Club"
 layout: single

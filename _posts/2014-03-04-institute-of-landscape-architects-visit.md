@@ -1,4 +1,3 @@
-
 ---
 title: "Institute of Landscape Architects visit"
 layout: single

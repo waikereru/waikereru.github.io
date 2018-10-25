@@ -1,4 +1,3 @@
-
 ---
 title: "Earth to Longbush"
 layout: single

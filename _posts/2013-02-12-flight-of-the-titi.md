@@ -1,4 +1,3 @@
-
 ---
 title: "The Flight of the Titi"
 layout: single
