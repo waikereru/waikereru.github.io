@@ -3,7 +3,7 @@ title: "Christmas at Longbush"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/waimata-flooding.jpg
+  teaser: /assets/images/news/native-robins.jpg
 categories:
   - News
 ---
