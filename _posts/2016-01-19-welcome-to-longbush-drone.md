@@ -10,4 +10,4 @@ categories:
 
 Check out Ian Ruru's fabulous drone video of Longbush!
 
-<iframe src="https://drive.google.com/file/d/0Bypl3D9Jld_DdUJVdndkRXJmaDg/preview" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/0Bypl3D9Jld_DdUJVdndkRXJmaDg/preview" width="100%" frameborder="0" allowfullscreen></iframe>
