@@ -43,10 +43,11 @@ Longbush Ecological Trust,<br/>
 14 Glen Road,<br/>
 Stanley Bay,<br/>
 Auckland 0624
-The project has benefitted from generous help and sponsorship from many people and organisations in Gisborne and elsewhere.
 
 
 # Sponsors
+
+The project has benefitted from generous help and sponsorship from many people and organisations in Gisborne and elsewhere.
 
 {% include gallery id="gallerySponsors" %}
 
