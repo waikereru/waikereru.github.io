@@ -26,9 +26,7 @@ gallerySponsors:
   - image_path: /assets/images/sponsors/air-new-zealand.jpg
 ---
 
-You can support the work of the Waikereru Ecosanctuary by making a tax-deductible donation to The Longbush Ecological Trust.  The trust is [registered with the Charities Commission](http://www.register.charities.govt.nz/CharitiesRegister/ViewCharity?accountId=4a114aba-0cc6-df11-bb8e-00155d741101&searchId=29d19fe4-563e-4a6c-adc0-e853b545662f&isGroup=False) (CC45848) and IRD.  Just press the 'Donate' button below to get started.
-
-Many thanks!
+You can support the work of the Waikereru Ecosanctuary by making a tax-deductible donation to The Longbush Ecological Trust.  The trust is [registered with the Charities Commission](http://www.register.charities.govt.nz/CharitiesRegister/ViewCharity?accountId=4a114aba-0cc6-df11-bb8e-00155d741101&searchId=29d19fe4-563e-4a6c-adc0-e853b545662f&isGroup=False) (CC45848) and IRD.  Just press the 'Donate' button below to get started. Many thanks!
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_s-xclick">
@@ -81,5 +79,4 @@ In addition, the Longbush Ecosanctuary project is supported by:
 - The **[Pacific Development and Conservation Trust](https://www.communitymatters.govt.nz/pacific-development-and-conservation-trust)**, which helps to support the Orchiston Harakeke collection.
 - The **[Air New Zealand Environment Trust](https://www.airnewzealand.co.nz/sustainability)**, for fabulous support of the Wild Lab and our collaboration with Eastland Institute of Technology.
 - The **[Queen Elizabeth II Trust](https://qeiinationaltrust.org.nz/)**, for their grant towards the Kohanga Kiwi via the Stephenson Fund.
-
 - The **80 or so other sponsors**, and the 80 volunteers who made the Welcome Shelter possible (see our posts on the Welcome Shelter)
