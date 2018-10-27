@@ -10,11 +10,13 @@ header:
 
 ---
 
+<!--
 The **Longbush Ecological Trust** is dedicated to creating a haven for rare and endangered species of native plants and animals at and around Longbush.
 
 The trust is [registered with the Charities Commission](http://www.register.charities.govt.nz/CharitiesRegister/ViewCharity?accountId=4a114aba-0cc6-df11-bb8e-00155d741101&searchId=bcc3d78c-b2c2-4e64-a530-e13cbc2928da) (CC45848) and IRD. 
 
 The Trust deed is [available for download here](/assets/documents/SignedTrustDeed.pdf).
+-->
 
 ## The founders
 
