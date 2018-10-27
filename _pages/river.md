@@ -65,3 +65,5 @@ Watch [Dan Hikuroa talk about Te Awaroa](https://www.newsroom.co.nz/@future-lear
 The Te Awaroa team have conducted a case study of the Waimata River, producing reports on its geomorphology, Maori and settler histories, and the ecology of the from the mountains to the sea (See [report on the ecology of the Waimata](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf)).
 
 The next stage is to share these insights into the past and present of the Waimata River with the community, and seek to ensure that it returns to a state of ora (well-being, abundance). 
+
+{% include figure image_path="/assets/images/river/te-awaroa-poster.png" %}
