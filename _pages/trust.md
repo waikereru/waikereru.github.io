@@ -20,46 +20,66 @@ The Trust deed is [available for download here](/assets/documents/SignedTrustDee
 
 When Anne and Jeremy Salmond first visited Longbush together in 1970 after a family picnic at Longbush Reserve, they were struck by its beauty.
 
-**[Jeremy Salmond](https://salmondreed.co.nz/about#jeremy-salmond)** is a conservation architect and founding partner of [Salmond Reed Architects](http://salmondreed.co.nz/) in Auckland. He is the author of Old New Zealand Houses 1800-1940 and is a former Chairman of [ICOMOS](http://www.icomos.org.nz/) (International Commission of Monuments and Sites) in New Zealand.
+**[Jeremy Salmond](https://salmondreed.co.nz/about#jeremy-salmond)** is a conservation architect and founding partner of [Salmond Reed Architects](http://salmondreed.co.nz/) in Auckland. He is the author of Old New Zealand Houses 1800-1940 and is a former Chairman of [ICOMOS](http://www.icomos.org.nz/) (International Commission of Monuments and Sites) in New Zealand, and has been awarded the Queen’s Service Order and the NZIA Gold Medal.
 
 {% include figure image_path="/assets/images/people/PeopleJeremySalmond.jpg" %}
 
-**[Dame Anne Salmond](http://en.wikipedia.org/wiki/Anne_Salmond)** is a [writer](http://www.bookcouncil.org.nz/writers/salmondanne.html) and [scholar](https://en.wikipedia.org/wiki/Anne_Salmond), and a Distinguished Professor in Maori Studies at the [University of Auckland](http://www.auckland.ac.nz/uoa/). She is a former Pro Vice-Chancellor at the University and Chairman of the [New Zealand Historic Places Trust](http://www.historic.org.nz/). She is the patron of the [Whinray Ecological Trust](http://www.kiwisforkiwi.org/what-we-do/who-are-kiwis-for-kiwi/community-efforts/east-coast/whinray/) in Gisborne.
+**[Dame Anne Salmond](http://en.wikipedia.org/wiki/Anne_Salmond)** is a [writer](http://www.bookcouncil.org.nz/writers/salmondanne.html) and [scholar](https://en.wikipedia.org/wiki/Anne_Salmond), and a Distinguished Professor in Maori Studies at the [University of Auckland](http://www.auckland.ac.nz/uoa/). She is a former Pro Vice-Chancellor at the University and Chairman of the [New Zealand Historic Places Trust](http://www.historic.org.nz/). She is the winner of the Royal Society’s Rutherford Medal, and was the 2013 New Zealander of the Year.
 
 {% include figure image_path="/assets/images/people/PeopleAnneSalmond.jpg" %}
 
 
 ## The trustees
 
-The founding Trustees of the Longbush Ecological Trust are all long-standing contributors to Longbush Ecosanctuary. They are: Dame Anne Salmond, Chairperson; Jeremy Salmond, Treasurer; Meikle McNab, secretary; Steve Sawyer and John Thorpe.
+The Trustees of the Longbush Ecological Trust are all long-standing contributors to Longbush Ecosanctuary. They are: Dame Anne Salmond, Chairperson; Jeremy Salmond, Treasurer; Steve Sawyer; Tim Salmond; Abigail Salmond; Jennie Harre-Hindmarsh and Steve Salmond.
 
-Each trustee is responsible for an aspect of the overall project:
+Each trustee is responsible for one aspect of the overall project:
 
 - **Dame Anne** is the sponsor for [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), which aims to extend Longbush Reserve along the banks of the Waimata River.
 - **Jeremy Salmond** is the sponsor for Walk Longbush, creating a network of tracks through the bush.
-- **Meikle McNab** is the sponsor for the [Orchiston Harakeke Collection](http://www.landcareresearch.co.nz/research/biosystematics/plants/harakeke/) ([PDF](/assets/documents/Harakeke.pdf)).
 - **Steve Sawyer** is the sponsor for the [Titi Colony](/assets/documents/LongbushTitiColony.pdf) and the **Kiwi Haven** in the Longbush Ecosanctuary.
-- **John Thorpe** is the sponsor for **Friends of the Waimata**, which aims to restore the Waimata River and its tributaries.
+- **Tim Salmond** is the sponsor for Walk Longbush, creating a network of tracks through the bush.
+- **Jennie Harre-Hindmarsh** is the sponsor for the Wild Lab educational programme for local children.
+- **Abigail Salmond** is the ecological advisor for the Waimata River restoration project.
+- **Steve Salmond** is Webmaster and IT advisor for the Waikereru Ecosanctuary.
 
 
-## Our ecological expert
+## Our ecological experts
 
-At the end of 2002, Anne and Jeremy contacted **[Steve Sawyer](/assets/documents/TheBirdWhispererSteveSawyer.pdf)** ([PDF]((/assets/documents/TheBirdWhispererSteveSawyer.pdf))), who was about to leave the Department of Conservation to set up his own ecological restoration business, [Ecoworks NZ](http://www.ecoworks.co.nz/). Steve is a vital part of the Longbush project, bringing vision and expertise to its execution. He is responsible for its high ecological standards, the writing of grant applications, and many initiatives and ideas.
+### Steve Sawyer
+
+At the end of 2002, Anne and Jeremy contacted **[Steve Sawyer](/assets/documents/TheBirdWhispererSteveSawyer.pdf)** ([PDF]((/assets/documents/TheBirdWhispererSteveSawyer.pdf))), who was about to leave the Department of Conservation to set up his own ecological restoration business, [Ecoworks NZ](http://www.ecoworks.co.nz/). Steve is a vital part of the Longbush project, bringing vision and expertise to its execution.
 
 {% include figure image_path="/assets/images/people/PeopleSteveSawyer.jpg" %}
 
-Steve specialises in the recovery of endangered species and has worked with the Chatham Island black robin, royal albatross, tuatara, taiko, North Island brown and great spotted kiwi, tokoeka, blue duck, shore plover, parea, Buller's mollymawk, kokako, kakapo, Deuvacel's gecko and many more. 
+Steve coordinates the Kiwi Recovery Programme in the Gisborne-East Coast Region. He is an expert in pest and weed control, and native reptile and seabird restoration. He and his Ecoworks NZ team were the first in the world to successfully use acoustic attraction methods to establish breeding grey faced petrel and fluttering shearwater (at Young Nick’s Head), and a breeding colony of gannets.
 
-He began work with the New Zealand Wildlife Service in 1987, when he was 17. He later worked for the [Department of Conservation](http://www.doc.govt.nz/) at Mt Bruce, in Hawkes Bay, on the Chatham Islands for five years, Motu and Gisborne as a Biodiversity Ranger and then Programme Manager until 2003 when he established Ecoworks NZ Ltd. 
+### Abigail Salmond
 
-Steve has worked in many of New Zealand's wilderness areas including Fiordland, Coromandel's offshore islands, Murchison, Ruahine, Raukumara, Hurunui and Kaweka Ranges, Little Barrier, Tongariro, Te Urewera, the Chatham's including many trips to South-East, Mangere, the Sisters and Forty-Fours Islands.
+Abigail is a senior ecologist, formerly at Auckland Regional Council and Gisborne District Council, who now works for Wildlands Consultancy.
 
-Steve and his wife Robyn established the [Whinray Ecological Trust](https://www.kiwisforkiwi.org/what-we-do/who-are-kiwis-for-kiwi/community-efforts/east-coast/whinray/) during 2000.  Steve coordinates the Kiwi Recovery Programme in the Gisborne-East Coast Region, writing funding applications, surveying and catching kiwi and coordinating the Operation Nest Egg side of the project.
+{% include figure image_path="/assets/images/people/PeopleAbigailSalmond.jpg" caption="Abigail (left) and colleagues restoring a riverbank" %}
 
-Steve and his Ecoworks NZ team were the first in the world to successfully use acoustic attraction methods to establish breeding grey faced petrel and fluttering shearwater (at Young Nick's Head), and visual and acoustic attraction to establish a breeding colony of gannets.  Papers on these world firsts are being published in _Notornis_.
+Abi has initiated the Predator-Free Wainui project, and produced a fine report on the ecology of the Waimata River catchment. Abigail has a passion for protecting and restoring wetlands, and an expert knowledge of ecological restoration.
 
-[**New Zealand Geographic Profile**: Steve Sawyer - The Bird Whispererer](/assets/documents/TheBirdWhispererSteveSawyer.pdf)
+### Malcolm Rutherford
 
+Malcolm is the Queen Elizabeth II Trust representative for Tairāwhiti, and a horticulturalist and ecological restoration specialist who trained at the University of Oxford Botanic Gardens.
+
+{% include figure image_path="/assets/images/people/PeopleMalcolmRutherford.jpg" %}
+
+Malcolm is a skilled photographer and hunter, who keeps finding rare native plants in the hills and bush at Waikereru. We’re very lucky to have him as the part-time Curator of the 1769 Garden.
+
+### Graeme Atkins
+
+Graeme is a tohunga taiao, an expert in mātauranga taiao (ancestral knowledge relating to the natural world), and a Biodiversity Ranger for the Department of Conservation. https://ngatiporou.com/article/graham-atkins-true-tangata-whenua
+
+{% include figure image_path="/assets/images/people/PeopleGraemeAtkins.jpg" %}
+
+Graeme has an unrivalled knowledge of Tairāwhiti native plants, animals, fish and reptiles. He’s our go-to-man for rare and endangered species of plants for the 1769 Garden, and advisor on mātauranga taiao for Waikereru Ecosanctuary.
+
+
+<!--
 
 ## Key contributors
 
@@ -100,3 +120,5 @@ Plants for the restoration of the Longbush Ecosanctuary are provided by **Nigel 
 **[Ben Hartley](mailto:ben-hartley@live.com)** designed an elegant and appealing booklet on the Ecosanctuary for our funders and supporters.
 
 **Dr. Mark Smale**, Senior Ecologist, Landcare [wrote an excellent report](/assets/documents/LongbushEcosanctuaryFloraAndVegetationByLandform.pdf) on the indigenous plant species by land form at Longbush, sponsored by GDC and Envirolink
+
+-->
