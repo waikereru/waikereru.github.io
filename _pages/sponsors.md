@@ -31,7 +31,7 @@ You can support the work of the Waikereru Ecosanctuary by making a tax-deductibl
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="PMWFG9GZWEDGW">
-  <a href="#" class="btn btn--primary" onclick="$(this).closest('form').submit()">Donate</a>
+  <a href="#" class="btn btn--primary btn--x-large" onclick="$(this).closest('form').submit()">Donate</a>
   <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" hidden="" style="display: none !important;">
 </form>
 
