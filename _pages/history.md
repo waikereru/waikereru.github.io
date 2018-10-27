@@ -67,7 +67,7 @@ The second stage in the restoration of the Longbush Ecosanctuary was to create w
 
 This stage began in 2000 with a planting by members of the Thorpe family, followed by plantings by the Conservation Corps at Tai Rawhiti Polytechnic from 2001-6. In 2006 the Biodiversity Fund awarded a grant to support this stage in the programme, followed by a three year grant over 2007-9.
 
-{% include figure image_path="/assets/images/history/early-planting.jpg" caption="Initial plantings" %}
+{% include figure image_path="/assets/images/history/early-planting.jpg" caption="Initial Wildlife corridor plantings" %}
 
 Since 2000, wildlife corridors have been created along the three streams which run down the valleys from the high western ridges, across the flats and down to the Waimata River. The most southerly of these corridors has been achieved by natural regeneration, while those along the middle and most northerly streams are created by fencing and planting.
 
