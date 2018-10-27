@@ -21,7 +21,7 @@ When legal title to the land was established in 1869, the local chiefs settled i
 
 In 1885 the ownership of the Whataupoko No.9 block passed to the New Zealand Native Land Settlement Company, which sold part of it to John Dunlop. From that time, the Waikereru Station (3300 acres) was worked as a pastoral farm, with two families, the Donners and the Hegartys, running the farm from 1895 to 1990.
 
-{% include figure image_path="/assets/images/history/site-1942.jpg" caption="Aerial photography, 1942" %}
+{% include figure image_path="/assets/images/history/site-panorama-1942.jpg" caption="The site as it looked in 1942" %}
 
 The Hegartys created a pond below Pa Hill, and planted a stand of Italian poplars. By 1989 the hills had been cleared, leaving only a strip of lowland bush alongside the Waimata River. This was known as Longbush, a favourite picnic spot for local families (including the Thorpes, Anne’s family).
 
@@ -66,6 +66,8 @@ The Longbush Ecosanctuary is now the only area in the Turanga Ecological Distric
 The second stage in the restoration of the Longbush Ecosanctuary was to create wildlife corridors between the Reserve and regenerating bush in the valleys, which are themselves adjacent to large QEII covenanted areas on several other properties across the western ridge.
 
 This stage began in 2000 with a planting by members of the Thorpe family, followed by plantings by the Conservation Corps at Tai Rawhiti Polytechnic from 2001-6. In 2006 the Biodiversity Fund awarded a grant to support this stage in the programme, followed by a three year grant over 2007-9.
+
+{% include figure image_path="/assets/images/history/early-planting.jpg" caption="Initial plantings" %}
 
 Since 2000, wildlife corridors have been created along the three streams which run down the valleys from the high western ridges, across the flats and down to the Waimata River. The most southerly of these corridors has been achieved by natural regeneration, while those along the middle and most northerly streams are created by fencing and planting.
 
