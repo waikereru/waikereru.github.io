@@ -13,7 +13,7 @@ From high hill ridges to the west, three streams tumble down steep valleys and a
 
 Waikereru Ecosanctuary is a fine example of ecological restoration in the Tai Rawhiti district, whose biodiversity is at extreme risk from land clearance, erosion and introduced plants and animals.  Here's a chant for Waikereru, composed by Merimeri Penfold:
 
-{% include figure image_path="/assets/images/home/chant.png" %}
+{% include figure image_path="/assets/images/home/karanga-meri-meri.png" %}
 
 ## Nau mai, haere mai!
 
