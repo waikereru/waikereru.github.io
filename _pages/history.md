@@ -21,6 +21,8 @@ When legal title to the land was established in 1869, the local chiefs settled i
 
 In 1885 the ownership of the Whataupoko No.9 block passed to the New Zealand Native Land Settlement Company, which sold part of it to John Dunlop. From that time, the Waikereru Station (3300 acres) was worked as a pastoral farm, with two families, the Donners and the Hegartys, running the farm from 1895 to 1990.
 
+{% include figure image_path="/assets/images/history/site-1942.jpg" caption="Aerial photography, 1942" %}
+
 The Hegartys created a pond below Pa Hill, and planted a stand of Italian poplars. By 1989 the hills had been cleared, leaving only a strip of lowland bush alongside the Waimata River. This was known as Longbush, a favourite picnic spot for local families (including the Thorpes, Anne’s family).
 
 {% include figure image_path="/assets/images/history/Early-days-at-the-Pond.jpg" caption="Early days at the pond" %}
@@ -37,6 +39,12 @@ In 2000 when the land was purchased by the Salmonds, Waikereru was under severe 
 ## Stage one - Longbush Reserve
 
 In 2001 the project begain when Longbush Reserve, the riverside bush, was fenced and placed under a QEII covenant.
+
+<figure class="half">
+    <a href="/assets/images/news/initial-fencing-2003.jpg"><img src="/assets/images/news/initial-fencing-2003.jpg"></a>
+    <a href="/assets/images/news/initial-fencing-02-2003.jpg"><img src="/assets/images/news/initial-fencing-02-2003.jpg"></a>
+    <figcaption>Initial fencing and planting work</figcaption>
+</figure>
 
 The following year, Steve Sawyer of [Ecoworks](http://www.ecoworks.co.nz/) began an intensive programme of weed control and trapping opossums, rats, stoats, weasels and wild cats.
 
@@ -77,6 +85,8 @@ This is by far the most ambitious phase of the project to date, aiming to restor
 This will be the largest fully protected area in the Tai Rawhiti region (from Opotiki to Wairoa, including the hinterland) with the sustained predator and weed control that allows these species to survive and flourish.
 
 During 2011, a small predator-free enclosure was built in the hills, and five titi chicks were successfully translocated and reared, and flew off to the Pacific ([see attached report](/assets/documents/FirstYearTitiProjectReport.pdf)). During 2012, ten chicks were reared at Longbush, and 16 chicks in 2016, flying off on their Pacific migration.
+
+{% include figure image_path="/assets/images/history/titi-enclosure.jpg" caption="Titi rearing at Longbush" %}
 
 These are the first steps towards establishing an inland titi [grey-faced petrel] colony at Longbush - a world first. Although titi and other seabirds were a traditional source of guano to feed the native plants and trees, inland colonies of titi (once numerous) are now rare in New Zealand.
 
