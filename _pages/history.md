@@ -41,8 +41,8 @@ In 2000 when the land was purchased by the Salmonds, Waikereru was under severe 
 In 2001 the project begain when Longbush Reserve, the riverside bush, was fenced and placed under a QEII covenant.
 
 <figure class="half">
-    <a href="/assets/images/news/initial-fencing-2003.jpg"><img src="/assets/images/news/initial-fencing-2003.jpg"></a>
-    <a href="/assets/images/news/initial-fencing-02-2003.jpg"><img src="/assets/images/news/initial-fencing-02-2003.jpg"></a>
+    <a href="/assets/images/history/initial-fencing-2003.jpg"><img src="/assets/images/history/initial-fencing-2003.jpg"></a>
+    <a href="/assets/images/history/initial-fencing-02-2003.jpg"><img src="/assets/images/history/initial-fencing-02-2003.jpg"></a>
     <figcaption>Initial fencing and planting work</figcaption>
 </figure>
 
