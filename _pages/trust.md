@@ -52,7 +52,7 @@ Steve coordinates the Kiwi Recovery Programme in the Gisborne-East Coast Region.
 
 Abigail is a senior ecologist, formerly at Auckland Regional Council and Gisborne District Council, who now works for Wildlands Consultancy.
 
-{% include figure image_path="/assets/images/people/PeopleAbigailSalmond.jpg" caption="Abigail (left) and colleagues restoring a riverbank" %}
+{% include figure image_path="/assets/images/people/PeopleAbigailSalmond.jpg" %}
 
 Abi has initiated the Predator-Free Wainui project, and produced a fine report on the ecology of the Waimata River catchment. Abigail has a passion for protecting and restoring wetlands, and an expert knowledge of ecological restoration.
 
