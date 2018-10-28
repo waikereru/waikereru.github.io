@@ -29,10 +29,10 @@ Waikereru Ecosanctuary is a fine example of ecological restoration in the Tai Ra
 > 
 > Welcome, welcome to Waikereru  
 > Cherish my ancestral lore  
-> Take care of Tane [the god of trees, birds and flax],  
-> Tangaroa [the god of rivers, sea and fish],  
-> Tawhiri-matea [the wind god], and  
-> Haumia-tiketike [the god of wild food]!  
+> Take care of Tane (the ancestor of trees, birds and flax),  
+> Tangaroa (the ancestor of rivers, sea and fish),  
+> Tawhiri-matea (the wind ancestor), and  
+> Haumia-tiketike (the ancestor of wild food)!  
 >  
 > Clothe me, care for me  
 > For ever.
