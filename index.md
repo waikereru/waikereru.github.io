@@ -24,4 +24,6 @@ Visitors are very welcome at Longbush Reserve (to the right up Riverside Road), 
 
 Waikereru Ecosanctuary (including the Welcome Shelter and 1769 Garden) can be [visited by arrangement](mailto:longbush.reserve@gmail.com). We treat it like a marae – visitors very welcome, but the trustees need to know you’re coming!  The Waikereru Hills are actively managed, with trapping and shooting.  For health and safety reasons, access by arrangement only.
 
+{% include social-share.html %}
+
 ## News
