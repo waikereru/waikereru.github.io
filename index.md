@@ -13,29 +13,10 @@ From high hill ridges to the west, three streams tumble down steep valleys and a
 
 Waikereru Ecosanctuary is a fine example of ecological restoration in the Tai Rawhiti district, whose biodiversity is at extreme risk from land clearance, erosion and introduced plants and animals.  Here's a chant for Waikereru, composed by Merimeri Penfold:
 
-> **Na Papa-tuanuku te karanga**
->  
-> Nau mai, haere mai ki Waikereru  
-> Mirimiria nga tikanga ki runga i au  
-> Ki a Tane-mahuta  
-> Ki a Tangaroa  
-> Ki a Tawhiri-matea  
-> Ki a Haumia-tiketike!
->  
-> Kakahutia, manakitia,  
-> Mo ake tonu e.  
-
-> **This is the call of Papa-tuanuku (the Earth Mother)**
-> 
-> Welcome, welcome to Waikereru  
-> Cherish my ancestral lore  
-> Take care of Tane (the ancestor of trees, birds and flax),  
-> Tangaroa (the ancestor of rivers, sea and fish),  
-> Tawhiri-matea (the wind ancestor), and  
-> Haumia-tiketike (the ancestor of wild food)!  
->  
-> Clothe me, care for me  
-> For ever.
+<figure class="half">
+    <a href="/assets/images/home/karanga-meri-meri-01.png"><img src="/assets/images/home/karanga-meri-meri-01.png"></a>
+    <a href="/assets/images/home/karanga-meri-meri-02.png"><img src="/assets/images/home/karanga-meri-meri-02.png"></a>
+</figure>
 
 ## Nau mai, haere mai!
 
