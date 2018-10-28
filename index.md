@@ -13,7 +13,29 @@ From high hill ridges to the west, three streams tumble down steep valleys and a
 
 Waikereru Ecosanctuary is a fine example of ecological restoration in the Tai Rawhiti district, whose biodiversity is at extreme risk from land clearance, erosion and introduced plants and animals.  Here's a chant for Waikereru, composed by Merimeri Penfold:
 
-{% include figure image_path="/assets/images/home/karanga-meri-meri.png" caption="By Merimeri Penfold, for Longbush" %}
+> **Na Papa-tuanuku te karanga**
+>  
+> Nau mai, haere mai ki Waikereru
+> Mirimiria nga tikanga ki runga i au
+> Ki a Tane-mahuta
+> Ki a Tangaroa
+> Ki a Tawhiri-matea
+> Ki a Haumia-tiketike!
+>  
+> Kakahutia, manakitia,
+> Mo ake tonu e.
+
+> **This is the call of Papa-tuanuku (the Earth Mother)**
+> 
+> Welcome, welcome to Waikereru
+> Cherish my ancestral lore 
+> Take care of Tane [the god of trees, birds and flax],
+> Tangaroa [the god of rivers, sea and fish],
+> Tawhiri-matea [the wind god], and
+> Haumia-tiketike [the god of wild food]!
+>  
+> Clothe me, care for me
+> For ever.
 
 ## Nau mai, haere mai!
 
