@@ -14,8 +14,6 @@ header:
 
 The waters of the Waimata run past the places where our shared history began. Fed by springs and streams, its headwaters rise in the hills north-east of Gisborne and run down to the city, with its harbour and port.
 
-{% include figure image_path="/assets/images/river/river-source-preview.jpg" %}
-
 Opposite the Waikanae Stream, a sacred rock, Te Toka-a-Taiau (now underwater) marks the arrival of the voyaging canoes Horouta and Takitimu. At the river mouth, Captain James Cook and his companions stepped ashore in October 1769, the first Europeans to land in New Zealand.
 
 Many people live on the banks of the Waimata - farming families in the high country and urban dwellers in town. Its winding valley gives access by road to the hinterland, with its forests and farms.
