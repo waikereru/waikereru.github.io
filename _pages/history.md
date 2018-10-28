@@ -21,7 +21,7 @@ When legal title to the land was established in 1869, the local chiefs settled i
 
 In 1885 the ownership of the Whataupoko No.9 block passed to the New Zealand Native Land Settlement Company, which sold part of it to John Dunlop. From that time, the Waikereru Station (3300 acres) was worked as a pastoral farm, with two families, the Donners and the Hegartys, running the farm from 1895 to 1990.
 
-{% include figure image_path="/assets/images/history/site-panorama-1942.jpg" caption="The site as it looked in 1942" %}
+{% include figure image_path="/assets/images/history/site-panorama-1942.jpg" caption="The site as it looked in 1942, Malcom Rutherford" %}
 
 The Hegartys created a pond below Pa Hill, and planted a stand of Italian poplars. By 1989 the hills had been cleared, leaving only a strip of lowland bush alongside the Waimata River. This was known as Longbush, a favourite picnic spot for local families (including the Thorpes, Anne’s family).
 
