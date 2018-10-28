@@ -15,26 +15,26 @@ Waikereru Ecosanctuary is a fine example of ecological restoration in the Tai Ra
 
 > **Na Papa-tuanuku te karanga**
 >  
-> Nau mai, haere mai ki Waikereru
-> Mirimiria nga tikanga ki runga i au
-> Ki a Tane-mahuta
-> Ki a Tangaroa
-> Ki a Tawhiri-matea
+> Nau mai, haere mai ki Waikereru  
+> Mirimiria nga tikanga ki runga i au  
+> Ki a Tane-mahuta  
+> Ki a Tangaroa  
+> Ki a Tawhiri-matea  
 > Ki a Haumia-tiketike!
 >  
-> Kakahutia, manakitia,
-> Mo ake tonu e.
+> Kakahutia, manakitia,  
+> Mo ake tonu e.  
 
 > **This is the call of Papa-tuanuku (the Earth Mother)**
 > 
-> Welcome, welcome to Waikereru
-> Cherish my ancestral lore 
-> Take care of Tane [the god of trees, birds and flax],
-> Tangaroa [the god of rivers, sea and fish],
-> Tawhiri-matea [the wind god], and
-> Haumia-tiketike [the god of wild food]!
+> Welcome, welcome to Waikereru  
+> Cherish my ancestral lore  
+> Take care of Tane [the god of trees, birds and flax],  
+> Tangaroa [the god of rivers, sea and fish],  
+> Tawhiri-matea [the wind god], and  
+> Haumia-tiketike [the god of wild food]!  
 >  
-> Clothe me, care for me
+> Clothe me, care for me  
 > For ever.
 
 ## Nau mai, haere mai!
