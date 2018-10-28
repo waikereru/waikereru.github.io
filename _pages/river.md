@@ -20,7 +20,7 @@ Many people live on the banks of the Waimata - farming families in the high coun
 
 Kayakers, rowers, waka ama paddlers, kids on rafts and fishers all use the river. In the city, the Waimata and the Taraheru carved out the harbour on which the port, the marina, the fishing club and many cafes are built.
 
-{% include figure image_path="/assets/images/river/river-swimming.jpg" %}
+{% include figure image_path="/assets/images/river/river-swimming.jpg" caption="Photo by Malcolm Rutherford" %}
 
 ## The Waimata is in trouble
 

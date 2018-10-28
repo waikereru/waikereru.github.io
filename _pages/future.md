@@ -22,7 +22,7 @@ The **[Longbush Ecological Trust](/trust/)**, which is responsible for the resto
 
 Medium-term initiatives include [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), a community project to restore bush to the banks of the Waimata River; and Guardians of the Waimata, a community network which aims to restore the waters feeding the Waimata to their original state, with clear, slow-flowing streams and ponds, full of life and indigenous freshwater species.
 
-{% include figure image_path="/assets/images/river/river-source-preview.jpg" %}
+{% include figure image_path="/assets/images/river/river-source-preview.jpg" caption="Photo by Malcolm Rutherford" %}
 
 
 ## A five year plan for Waikereru Ecosanctuary
