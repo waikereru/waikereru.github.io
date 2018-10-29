@@ -8,9 +8,7 @@ categories:
   - News
 ---
 
-Hi Everyone,
-
-It is time for an update on the Longbush Welcome Shelter. As we head into winter, preparations are being made at Longbush for the onset of some wetter weather. Our stormwater drains are all working well thanks to much help from our friends at Mico. We now have enclosed interiors and I'll be moving on to fixing our joinery and cladding soon.
+It's time for an update on the Longbush Welcome Shelter. As we head into winter, preparations are being made at Longbush for the onset of some wetter weather. Our stormwater drains are all working well thanks to much help from our friends at Mico. We now have enclosed interiors and I'll be moving on to fixing our joinery and cladding soon.
 
 I've also been working on the drawbridge structure and hinge arrangement. This key part of the project will allow the ecologist and his team to run volunteer demonstrations across a large level platform - from inside to out. 
 
