@@ -15,7 +15,7 @@ header:
 - [Research Report 1](/assets/documents/WaimataReport1.pdf) (Landscapes and Rivers of the Waimata)
 - [Research Report 2](/assets/documents/WaimataReport2.pdf) (Native Land Court Records of Blocks on the Waimata)
 - [Research Report 3](/assets/documents/WaimataReport3.pdf) (Settler History post 1880)
-- [Te Awaroa Report](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Biodiversity int the Waimata)
+- [Research Report 4](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Biodiversity in the Waimata)
 
 
 ## Waimata River
