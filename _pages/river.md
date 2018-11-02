@@ -10,6 +10,13 @@ header:
 
 ---
 
+## Waimata River Reports
+
+- [Research Report 1](/assets/documents/WaimataReport1.pdf) (Landscapes and Rivers of the Waimata)
+- [Research Report 2](/assets/documents/WaimataReport2.pdf) (Native Land Court Records of Blocks on the Waimata)
+- [Research Report 3](/assets/documents/WaimataReport3.pdf) (Settler History post 1880)
+
+
 ## Waimata River
 
 The waters of the Waimata run past the places where our shared history began. Fed by springs and streams, its headwaters rise in the hills north-east of Gisborne and run down to the city, with its harbour and port.
