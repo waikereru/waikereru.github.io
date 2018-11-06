@@ -16,7 +16,8 @@ header:
 - [Research Report 2](/assets/documents/WaimataReport2.pdf) (Native Land Court Records of Blocks on the Waimata)
 - [Research Report 3](/assets/documents/WaimataReport3.pdf) (Settler History post 1880)
 - [Research Report 4](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Biodiversity in the Waimata)
-
+- [Research Report 5](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (A Place Belonging to the Heart)
+- [Report-back on meeting with Gisborne District Council and DoC](/assets/documents/ListeningToTheWaimataRiverNov2018.pdf) (November 5th, 2018)
 
 ## Waimata River
 
