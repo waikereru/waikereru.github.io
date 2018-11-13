@@ -13,4 +13,4 @@ Great news - our founder Jeremy Salmond has been awarded the NZIA Gold Medal, an
 Check out this lovely short documentary:
 {% include video id="299541771" provider="vimeo" %}
 
-{% include figure image_path="/assets/images/news/nzia-acceptance-speech.jpg" caption="Jeremy giving his acceptance speech at the NZIA awards ceremony.%}
+{% include figure image_path="/assets/images/news/nzia-acceptance-speech.jpg" caption="Jeremy giving his acceptance speech at the NZIA awards ceremony." %}
