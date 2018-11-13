@@ -1,5 +1,5 @@
 ---
-title: "Waikereru goes for Gold"
+title: "NZIA Gold Medal"
 layout: single
 classes: wide
 header:
