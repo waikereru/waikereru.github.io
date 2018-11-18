@@ -95,3 +95,25 @@ These are the first steps towards establishing an inland titi [grey-faced petrel
 A predator-free fence in the Waikereru hills for kiwi, kakariki, kaka and rifleman is also planned, with a kiwi creche behind the Welcome Shelter – the **Longbush Kiwi Haven**.  In front of the Welcome Shelter, the 1769 Garden has been established, with tracks around Pa Hill and the pond.
 
 In 2019, the Wild Lab educational programme for local kids will get under way, after a series of trial workshops. Key events since 2012 are covered in the ‘News’ section of the website.
+
+
+## The Future
+
+In 2005, Longbush Reserve was recognised as a **Priority 1 RAP** (recommended area for protection) by the Department of Conservation.
+
+Waikereru Ecosanctuary has many advantages for long-term ecological restoration. The riverside bush and the hill area are protected by QEII covenants, with several other large QEII covenanted blocks across the western ridge.
+
+The corridors for wildlife are already in place, with good seed stocks and established populations of many species of native birds in the Ecosanctuary and the PMA across the river. Three creeks run from the ridgelines across the flats to the Waimata River, providing a variety of habitats.
+
+The Waikereru Ecosanctuary is close to Gisborne City, an ideal site for educational programmes. 
+
+The **[Longbush Ecological Trust](/trust/)**, which is responsible for the restoration of both Longbush Reserve and Waikereru Ecosanctuary, has been set up to manage and restore the covenanted areas. A [Management Plan](/assets/documents/LongbushAndWaikereruManagementPlan.pdf) has been produced outlining future opportunities for the conservation of Longbush Reserve and Waikereru Ecosanctuary.
+
+Medium-term initiatives include [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), a community project to restore bush to the banks of the Waimata River; and Guardians of the Waimata, a community network which aims to restore the waters feeding the Waimata to their original state, with clear, slow-flowing streams and ponds, full of life and indigenous freshwater species.
+
+{% include figure image_path="/assets/images/river/river-source-preview.jpg" caption="Photo by Malcolm Rutherford" %}
+
+
+## A five year plan for Waikereru Ecosanctuary
+
+[A five year plan for the Ecosanctuary](/assets/documents/LongbushFiveYearPlan.pdf) until 2019, the 250th anniversary of the first meetings between Maori and Europeans at the mouth of the Waimata River.

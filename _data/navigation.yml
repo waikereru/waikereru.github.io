@@ -8,8 +8,6 @@ main:
     url: /trust/
   - title: "History"
     url: /history/
-  - title: "Future"
-    url: /future/
   - title: "Wild Lab"
     url: /wildlab/
   - title: "Waimata River"
