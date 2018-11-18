@@ -71,3 +71,11 @@ Graeme is a tohunga taiao, an expert in mātauranga taiao (ancestral knowledge r
 {% include figure image_path="/assets/images/people/PeopleGraemeAtkins.jpg" %}
 
 Graeme has an unrivalled knowledge of Tairāwhiti native plants, animals, fish and reptiles. He’s our go-to-man for rare and endangered species of plants for the 1769 Garden, and advisor on mātauranga taiao for Waikereru Ecosanctuary.
+
+## Head Gardener
+
+Gavin Boulter was brought up in Southland, and trained in horticulture at Cromwell Polytechnic.  He's also worked in orchards, garden centres and landscaping firms. With ​his Dad David, Gavin is a partner in Ataahua Landscapes.  
+
+Gavin looks after the wider landscape at Waikereru, mulching and weeding new plantings, helping to maintain the Orchiston Harakeke collection, the 1769 Garden, the kauri spiral and many of our other specialist plantings, and mowing the grassy areas.​
+
+{% include figure image_path="/assets/images/people/PeopleGavinBoulter.jpg" %}
