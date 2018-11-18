@@ -66,7 +66,9 @@ Malcolm is a skilled photographer and hunter, who keeps finding rare native plan
 
 ### Graeme Atkins
 
-Graeme is a tohunga taiao, an expert in mātauranga taiao (ancestral knowledge relating to the natural world), and a Biodiversity Ranger for the Department of Conservation. https://ngatiporou.com/article/graham-atkins-true-tangata-whenua
+Graeme is a tohunga taiao, an expert in mātauranga taiao (ancestral knowledge relating to the natural world), and a Biodiversity Ranger for the Department of Conservation.
+
+[https://ngatiporou.com/article/graham-atkins-true-tangata-whenua](https://ngatiporou.com/article/graham-atkins-true-tangata-whenua)
 
 {% include figure image_path="/assets/images/people/PeopleGraemeAtkins.jpg" %}
 
@@ -74,7 +76,9 @@ Graeme has an unrivalled knowledge of Tairāwhiti native plants, animals, fish a
 
 ## Head Gardener
 
-Gavin Boulter was brought up in Southland, and trained in horticulture at Cromwell Polytechnic.  He's also worked in orchards, garden centres and landscaping firms. With ​his Dad David, Gavin is a partner in Ataahua Landscapes.  
+### Gavin Boulter
+
+Gavin was brought up in Southland, and trained in horticulture at Cromwell Polytechnic.  He's also worked in orchards, garden centres and landscaping firms. With ​his Dad David, Gavin is a partner in Ataahua Landscapes.  
 
 Gavin looks after the wider landscape at Waikereru, mulching and weeding new plantings, helping to maintain the Orchiston Harakeke collection, the 1769 Garden, the kauri spiral and many of our other specialist plantings, and mowing the grassy areas.​
 
