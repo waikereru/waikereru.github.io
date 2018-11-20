@@ -24,8 +24,6 @@ In the mid 1860s Raharuhi Rukupō, one of the leading rangatira (chiefs) in the 
 
 When legal title to the land was established in 1869, the local chiefs settled its ownership among themselves. They included Raharuhi Rukupō, the chieftainess Riparata Kahutia and the Aitanga-ā-Māhaki chief [Hirini te Kani](https://teara.govt.nz/en/biographies/1t40/te-kani-hirini). Longbush lies in that part of the block associated with Te Aitanga-ā -Māhaki, a local iwi or descent group.
 
-{% include figure image_path="/assets/images/history/hirini-te-kani-cropped.jpg" caption="Hirini Te Kani, Te Aitanga-ā-Māhaki" %}
-
 In 1885 the ownership of the Whataupoko No.9 block passed to the New Zealand Native Land Settlement Company, which sold part of it to John Dunlop. From that time, the Waikereru Station (3300 acres) was worked as a pastoral farm, with two families, the Donners and the Hegartys, running the farm from 1895 to 1990.
 
 {% include figure image_path="/assets/images/history/site-panorama-1942.jpg" caption="The site as it looked in 1942, Malcom Rutherford" %}
