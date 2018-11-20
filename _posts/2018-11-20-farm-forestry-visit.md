@@ -1,5 +1,5 @@
 ---
-title: "Farm Forestry group share ideas about carbon farming & restoration of steep, erodible hills"
+title: "Farm Forestry group share ideas"
 layout: single
 classes: wide
 header:
