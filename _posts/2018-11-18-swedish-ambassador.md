@@ -3,7 +3,7 @@ title: "The Swedish Ambassador visits Waikereru"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/par-and-jer.jpg
+  teaser: /assets/images/news/par-and-jer-cropped.jpg
 categories:
   - News
 ---
