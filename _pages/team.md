@@ -91,6 +91,6 @@ Gavin looks after the wider landscape at Waikereru, mulching and weeding new pla
 
 ​Janine Te Reo from Ngāti Porou takes care of the Orchiston Pā Harakeke, our collection of more than 60 different named varieties of harakeke (native flax), almost from the time it was planted in 2003.  She teaches raranga / weaving at Te Wā​nanga o Aotearoa in Gisborne.
 
-{% include figure image_path="/assets/images/history/janine-te-reo.jpg" caption="Janine Te Reo, kai-tiaki, Orchiston Pā Harakeke" %}
+{% include figure image_path="/assets/images/people/PeopleJanineTeReo.jpg" %}
 
 With Meikle McNab, also from Ngāti Porou, formerly the trustee responsible for the Pā, Janine ensures that the bushes are trimmed and cared for according to ancestral tikanga.
