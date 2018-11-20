@@ -18,7 +18,7 @@ The corridors for wildlife are already in place, with good seed stocks and estab
 
 The Waikereru Ecosanctuary is close to Gisborne City, an ideal site for educational programmes. 
 
-The **[Longbush Ecological Trust](/trust/)**, which is responsible for the restoration of both Longbush Reserve and Waikereru Ecosanctuary, has been set up to manage and restore the covenanted areas. A [Management Plan](/assets/documents/LongbushAndWaikereruManagementPlan.pdf) has been produced outlining future opportunities for the conservation of Longbush Reserve and Waikereru Ecosanctuary.
+The **[Longbush Ecological Trust](/team/)**, which is responsible for the restoration of both Longbush Reserve and Waikereru Ecosanctuary, has been set up to manage and restore the covenanted areas. A [Management Plan](/assets/documents/LongbushAndWaikereruManagementPlan.pdf) has been produced outlining future opportunities for the conservation of Longbush Reserve and Waikereru Ecosanctuary.
 
 Medium-term initiatives include [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), a community project to restore bush to the banks of the Waimata River; and Guardians of the Waimata, a community network which aims to restore the waters feeding the Waimata to their original state, with clear, slow-flowing streams and ponds, full of life and indigenous freshwater species.
 

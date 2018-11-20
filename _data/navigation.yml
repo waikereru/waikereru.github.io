@@ -4,8 +4,8 @@ main:
     url: /news/
   - title: "Sponsors"
     url: /sponsors/
-  - title: "The Trust"
-    url: /trust/
+  - title: "Team"
+    url: /team/
   - title: "History"
     url: /history/
   - title: "Wild Lab"

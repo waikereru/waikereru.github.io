@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /trust/
-title: The Trust
+permalink: /team/
+title: Our Team
 tagline: The Longbush Ecological Trust is dedicated to creating a haven for rare and endangered species of native plants and animals at and around Longbush.
 author_profile: true
 classes: wide
@@ -83,3 +83,14 @@ Gavin was brought up in Southland, and trained in horticulture at Cromwell Polyt
 Gavin looks after the wider landscape at Waikereru, mulching and weeding new plantings, helping to maintain the Orchiston Harakeke collection, the 1769 Garden, the kauri spiral and many of our other specialist plantings, and mowing the grassy areas.​
 
 {% include figure image_path="/assets/images/people/PeopleGavinBoulter.jpg" %}
+
+
+## Kai tiaki, Rene Orchiston Pā Harakeke
+
+### ​Janine Te Reo
+
+​Janine Te Reo from Ngāti Porou takes care of the Orchiston Pā Harakeke, our collection of more than 60 different named varieties of harakeke (native flax), almost from the time it was planted in 2003.  She teaches raranga / weaving at Te Wā​nanga o Aotearoa in Gisborne.
+
+{% include figure image_path="/assets/images/history/janine-te-reo.jpg" caption="Janine Te Reo, kai-tiaki, Orchiston Pā Harakeke" %}
+
+With Meikle McNab, also from Ngāti Porou, formerly the trustee responsible for the Pā, Janine ensures that the bushes are trimmed and cared for according to ancestral tikanga.
