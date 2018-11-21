@@ -10,7 +10,7 @@ header:
 
 ---
 
-The Welcome Shelter at the Longbush Ecosanctuary is the brainchild of a remarkable young architect, [Sarosh Mulla](http://www.saroshmulla.com/).
+The Welcome Shelter at the Longbush Ecosanctuary is the brainchild of a remarkable young architect, [Sarosh Mulla](https://bestawards.co.nz/spatial/emerging-designer/sarosh-mulla-design/longbush-ecosanctuary-welcome-shelter/).
 
 {% include figure image_path="/assets/images/shelter/welcome-shelter.jpg" caption="The Welcome Shelter" %}
 
