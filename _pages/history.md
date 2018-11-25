@@ -87,7 +87,7 @@ Groves of berry-bearing trees (titoki, karaka, pūriri and taraire) and the [Ren
 {% include figure image_path="/assets/images/history/janine-te-reo.jpg" caption="Janine Te Reo, kai-tiaki, Orchiston Pā Harakeke" %}
 
 
-## Stage three - The Longbush Ecosanctuary
+## Stage three - The Waikereru Ecosanctuary
 
 In 2005, Longbush Reserve was recognised as a **Priority 1 RAP** (recommended area for protection) by the Department of Conservation.
 
@@ -126,6 +126,6 @@ In 2019, the Wild Lab educational programme for local kids will get under way, a
 
 {% include figure image_path="/assets/images/history/april-2018-from-eastern-hills.jpg" caption="View from the eastern hills, April 2018: Malcolm Rutherford" %}
 
-In 2017 the trustees devised a [10 year plan](/assets/documents/LongbushTrustTenYearPlanning2017-2027.pdf) to guide the future development of the Waikereru Ecosanctuary.
+In 2017 the trustees met to discuss a [10 year plan](/assets/documents/WaikereruEcosanctuaryTenYearPlan2017To2027.pdf) to guide the future development of the Waikereru Ecosanctuary.
 
-[Ten year plan for Waikereru Ecosanctuary: 2017-2027](/assets/documents/LongbushTrustTenYearPlanning2017-2027.pdf)
+[Ten year plan for Waikereru Ecosanctuary: 2017-2027](/assets/documents/WaikereruEcosanctuaryTenYearPlan2017To2027.pdf)
