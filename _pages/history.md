@@ -126,6 +126,6 @@ In 2019, the Wild Lab educational programme for local kids will get under way, a
 
 {% include figure image_path="/assets/images/history/april-2018-from-eastern-hills.jpg" caption="View from the eastern hills, April 2018: Malcolm Rutherford" %}
 
-In 2017 the trustees met to discuss a [10 year plan](/assets/documents/WaikereruEcosanctuaryTenYearPlan2017To2027.pdf) to guide the future development of the Waikereru Ecosanctuary.
+In 2017 the trustees met to discuss a [10 year plan](/assets/documents/TenYearPlan2017To2027Minutes.pdf) to guide the future development of the Waikereru Ecosanctuary.
 
-[Ten year plan for Waikereru Ecosanctuary: 2017-2027](/assets/documents/WaikereruEcosanctuaryTenYearPlan2017To2027.pdf)
+[Ten year plan for Waikereru Ecosanctuary: 2017-2027](/assets/documents/TenYearPlan2017To2027.pdf)
