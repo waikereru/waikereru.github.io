@@ -11,11 +11,11 @@ header:
 
 **The Wild Lab Tiaki Taiao** aims to inspire young people in Te Tairāwhiti (East Coast) in a creative, science-based quest to understand what has happened to local ecosystems since human arrival, and to take part in restoring these to a state of ora (health, well-being).
 
-{% include figure image_path="/assets/images/wildlab/wildlab-tiaki-taiao.jpg" %}
+{% include figure image_path="/assets/images/wildlab/wildlab-oi.jpg" %}
 
 Here, leading experts in scientific disciplines interact with experts in Māori ancestral knowledge, in workshops for young people designed and delivered by inspiring teachers.
 
-{% include figure image_path="/assets/images/wildlab/wildlab-oi.jpg" %}
+{% include figure image_path="/assets/images/wildlab/wildlab-welcome-shelter.jpg" %}
 
 Mātauranga, Science, Arts and Technology are taken into the wilderness, resulting in real world, immersive learning that is vivid and unforgettable. 
 
@@ -26,9 +26,6 @@ Mātauranga, Science, Arts and Technology are taken into the wilderness, resulti
 </figure>
 
 The Wild Lab Tiaki Taiao is delivered by Pete and Elle Jarratt at the Welcome Shelter, our award-winning hub.
-
-{% include figure image_path="/assets/images/wildlab/wildlab-welcome-shelter.jpg" %}
-
 
 <figure class="half">
     <a href="/assets/images/news/wild-lab-workshop.jpg"><img src="/assets/images/news/wild-lab-workshop.jpg"></a>
