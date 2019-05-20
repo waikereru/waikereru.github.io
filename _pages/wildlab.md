@@ -36,7 +36,7 @@ The Wild Lab Tiaki Taiao is delivered by Pete and Elle Jarratt at the Welcome Sh
     <figcaption>Wild Lab Tiaki Taiao workshop at the Welcome Shelter</figcaption>
 </figure>
 
-### Facebook Page
+### Our Facebook Page
 
 Check out the latest Wild Lab Tiaki Taiao news on our [Facebook page](https://www.facebook.com/wildlabcommunity/)!
 
