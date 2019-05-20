@@ -11,7 +11,7 @@ header:
 
 **The Wild Lab Tiaki Taiao** aims to inspire young people in Te Tairāwhiti (East Coast) in a creative, science-based quest to understand what has happened to local ecosystems since human arrival, and to take part in restoring these to a state of ora (health, well-being).
 
-[Find out more about the Wild Lab Tiaki Taiao on Facebook!](https://www.facebook.com/wildlabcommunity/)
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fwildlabcommunity%2F&tabs&width=340&height=180&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 {% include figure image_path="/assets/images/wildlab/wildlab-tiaki-taiao.jpg" %}
 {% include figure image_path="/assets/images/wildlab/wildlab-oi.jpg" %}
