@@ -9,10 +9,11 @@ header:
 
 ---
 
-{% include figure image_path="/assets/images/wildlab/wildlab-tiaki-taiao.jpg" %}
-
 **The Wild Lab Tiaki Taiao** aims to inspire young people in Te Tairāwhiti (East Coast) in a creative, science-based quest to understand what has happened to local ecosystems since human arrival, and to take part in restoring these to a state of ora (health, well-being).
 
+[Find out more about the Wild Lab Tiaki Taiao on Facebook!](https://www.facebook.com/wildlabcommunity/)
+
+{% include figure image_path="/assets/images/wildlab/wildlab-tiaki-taiao.jpg" %}
 {% include figure image_path="/assets/images/wildlab/wildlab-oi.jpg" %}
 
 Here, leading experts in scientific disciplines interact with experts in Māori ancestral knowledge, in workshops for young people designed and delivered by inspiring teachers.
