@@ -81,5 +81,5 @@ In addition, the Longbush Ecosanctuary project is supported by:
 - The **[Air New Zealand Environment Trust](https://www.airnewzealand.co.nz/sustainability)**, for fabulous support of the Wild Lab and our collaboration with Eastland Institute of Technology.
 - The **[Queen Elizabeth II Trust](https://qeiinationaltrust.org.nz/)**, for their grant towards the Kohanga Kiwi via the Stephenson Fund.
 - The **Clark Trust**, for their sustained sponsorship of the restoration of the Waikereru Hills.​
-- **[UNESCO](https://en.unesco.org/)** and the **[Sunshine Foundation](https://www.sunrisefoundation.org.nz/)**, for supporting our work with the Wild Lab.
+- **[UNESCO](https://en.unesco.org/)** and the **[Sunshine Foundation](https://www.sunrisefoundation.org.nz/)**, for supporting our work with the Wild Lab Tiaki Taiao.
 - The **80 or so other sponsors**, and the 80 volunteers who made the Welcome Shelter possible (see our posts on the Welcome Shelter)

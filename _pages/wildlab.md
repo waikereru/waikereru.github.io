@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /wildlab/
-title: Wild Lab
+title: Wild Lab Tiaki Taiao
 author_profile: true
 classes: wide
 header:
@@ -9,7 +9,9 @@ header:
 
 ---
 
-**The Wild Lab** aims to inspire young people in Te Tairāwhiti (East Coast) in a creative, science-based quest to understand what has happened to local ecosystems since human arrival, and to take part in restoring these to a state of ora (health, well-being).
+{% include figure image_path="/assets/images/wildlab/wildlab-tiaki-taiao.jpg" %}
+
+**The Wild Lab Tiaki Taiao** aims to inspire young people in Te Tairāwhiti (East Coast) in a creative, science-based quest to understand what has happened to local ecosystems since human arrival, and to take part in restoring these to a state of ora (health, well-being).
 
 {% include figure image_path="/assets/images/wildlab/wildlab-oi.jpg" %}
 
@@ -25,11 +27,11 @@ Mātauranga, Science, Arts and Technology are taken into the wilderness, resulti
     <figcaption>Kids' art exhibition in Longbush Reserve</figcaption>
 </figure>
 
-The Wild Lab is delivered by Pete and Elle Jarratt at the Welcome Shelter, our award-winning hub.
+The Wild Lab Tiaki Taiao is delivered by Pete and Elle Jarratt at the Welcome Shelter, our award-winning hub.
 
 <figure class="half">
     <a href="/assets/images/news/wild-lab-workshop.jpg"><img src="/assets/images/news/wild-lab-workshop.jpg"></a>
     <a href="/assets/images/news/wild-lab-intro.jpg"><img src="/assets/images/news/wild-lab-intro.jpg"></a>
-    <figcaption>Wild Lab workshop at the Welcome Shelter</figcaption>
+    <figcaption>Wild Lab Tiaki Taiao workshop at the Welcome Shelter</figcaption>
 </figure>
 

@@ -119,7 +119,7 @@ These are the first steps towards establishing an inland oi [grey-faced petrel] 
 
 A predator-free fence in the Waikereru hills for Eastern brown kiwi, kākāriki, kākā and rifleman is also planned, with a kiwi creche behind the Welcome Shelter – the **Kohanga Kiwi / Kiwi Haven**. In front of the Welcome Shelter, the 1769 Garden has been established, with tracks around Pā Hill and the pond.
 
-In 2019, the Wild Lab educational programme for local kids will get under way, after a series of trial workshops. Key events since 2012 are covered in the ‘News’ section of the website.
+In 2019, the Wild Lab Tiaki Taiao educational programme for local kids will get under way, after a series of trial workshops. Key events since 2012 are covered in the ‘News’ section of the website.
 
 
 ## A ten year plan for Waikereru Ecosanctuary

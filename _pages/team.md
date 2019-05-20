@@ -33,7 +33,7 @@ Each trustee is responsible for one aspect of the overall project:
 - **Jeremy Salmond** is the Chief Designer for the Waikereru Ecosanctuary.
 - **Steve Sawyer** is the sponsor for the [Titi Colony](/assets/documents/LongbushTitiColony.pdf) and the **Kiwi Haven** in the Longbush Ecosanctuary.
 - **Tim Salmond** is the sponsor for Walk Longbush, creating a network of tracks through the bush.
-- **Jennie Harre-Hindmarsh** is the sponsor for the Wild Lab educational programme for local children.
+- **Jennie Harre-Hindmarsh** is the sponsor for the Wild Lab Tiaki Taiao educational programme for local children.
 - **Abigail Salmond** is the ecological advisor for the Waimata River restoration project.
 - **Steve Salmond** is Webmaster and IT advisor for the Waikereru Ecosanctuary.
 
