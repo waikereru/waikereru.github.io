@@ -3,7 +3,7 @@ title: "Latest Pest-control Technology"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/splash/splash_squirrel.jpg
+  teaser: /assets/images/news/flying-squirrels.jpg
 categories:
   - News
 ---
