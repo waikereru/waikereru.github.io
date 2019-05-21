@@ -1,13 +1,13 @@
 ---
-title: "BGANZ visit the 1769 Garden"
+title: "Wild Lab: Makaraka School"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/bganz-at-1769-garden.jpg
+  teaser: /assets/images/news/makaraka-school-wild-lab.jpg
 categories:
   - News
 ---
 
-Fantastic to see the experts turning up to inspect the 1769 Garden. Malcolm Rutherford, its curator, showing the Garden off to delegates from [BGANZ, Botanical Gardens of Australia and New Zealand](https://www.bganz.org.au/).
+Thanks to funding support from Air NZ Environment Trust, the Sunshine Trust and UNESCO, the [Wild Lab / Tiaki Taio](/wildlab/) wilderness programme for local kids is going from strength to strength.  Our trustee Jennie Harre-Hindmarsh is doing a brilliant job of keeping everything on track.
 
-{% include figure image_path="/assets/images/news/bganz-at-1769-garden.jpg" %}
+{% include figure image_path="/assets/images/news/makaraka-school-wild-lab.jpg" %}

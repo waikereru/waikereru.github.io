@@ -1,13 +1,13 @@
 ---
-title: "BGANZ visit the 1769 Garden"
+title: "Wild Lab: Makauri School"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/bganz-at-1769-garden.jpg
+  teaser: /assets/images/news/makauri-school-wild-lab.jpg
 categories:
   - News
 ---
 
-Fantastic to see the experts turning up to inspect the 1769 Garden. Malcolm Rutherford, its curator, showing the Garden off to delegates from [BGANZ, Botanical Gardens of Australia and New Zealand](https://www.bganz.org.au/).
+The [Wild Lab / Tiaki Taiao](/wildlab/) wilderness programme for local kids is taking off like a rocket, thanks to Pete and Elle Jarratt. Waikereru is full of their laughter.
 
-{% include figure image_path="/assets/images/news/bganz-at-1769-garden.jpg" %}
+{% include figure image_path="/assets/images/news/makauri-school-wild-lab.jpg" %}
