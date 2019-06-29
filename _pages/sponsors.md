@@ -70,11 +70,11 @@ In addition, the Longbush Ecosanctuary project is supported by:
 - The **[Queen Elizabeth II National Trust](http://www.qe2.org.nz/)** (with thanks to Malcolm Piper)
 - The **[Gisborne District Council](http://www.gdc.govt.nz/)** (with thanks to His Worship Meng Foon, the Mayor of the Gisborne / Tai Rawhiti District Council, and CE Judy Campbell)
 - **[Turanga Ararau](http://turanga-ararau.org.nz/)** Iwi Tertiary Education Provider (with thanks to Kojak Oterangi Kutia and his team)
-- The **[World Wildlife Fund](http://www.wwf.org.nz/)** (with thanks to Marc Slade), for supporting the restoration of native robins to Longbush.
+- The **[World Wildlife Fund](http://www.wwf.org.nz/)** for supporting the restoration of native robins and Manu Huna (Eastern brown kiwi) to Longbush.
 - The **[Lion Foundation](http://www.lionfoundation.org.nz/)** is supporting our work in the Orchiston Harakeke collection & Arboretum, and the Welcome Shelter. 
 - The **[Eastern & Central Community Trust](http://www.ecct.org.nz/)**
 - The **Les Renner Trust**, which has given a generous donation to make the ongoing titi project possible.
-- The **[Lotteries Commission](http://www.communitymatters.govt.nz/)** has given a generous grant for pest and weed control at Longbush.
+- The **[Lotteries Commission](http://www.communitymatters.govt.nz/)** has given a generous grant for pest and weed control, and another to upgrade the perimeter fence to exclude deer & goats, and to​ finish the 1769 Garden.
 - The **[Sir John Logan Campbell Trust](http://www.jlcampbell.co.nz/)** and the **[Chartwell Trust](http://www.chartwell.org.nz/)**, which contributed to the Welcome Shelter.
 - The **[Eastland Community Trust](http://www.ect.org.nz/)**, for their generous contribution to the Welcome Shelter, the 1769 Garden and adjoining tracks.
 - The **[Pacific Development and Conservation Trust](https://www.communitymatters.govt.nz/pacific-development-and-conservation-trust)**, which helps to support the Orchiston Harakeke collection.
