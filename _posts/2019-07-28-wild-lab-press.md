@@ -10,6 +10,6 @@ categories:
 
 Awesome, Wild Lab! Great story in the Gisborne Herald.
 
-[Where the wild things are - Gisborn Herald](http://gisborneherald.co.nz/localnews/4195342-135/where-the-wild-things-are)
+[Where the wild things are - Gisborne Herald](http://gisborneherald.co.nz/localnews/4195342-135/where-the-wild-things-are)
 
-{% include figure image_path="/assets/images/news/where-the-wild-things-are" caption="Picture by Liam Clayton, courtesy of Gisborne Herald" %}
+{% include figure image_path="/assets/images/news/where-the-wild-things-are.jpg" caption="Picture by Liam Clayton, courtesy of Gisborne Herald" %}
