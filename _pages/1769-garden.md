@@ -4,10 +4,6 @@ permalink: /1769-garden/
 title: 1769 Garden
 author_profile: false
 classes: wide
-toc: true
-toc_label: "Contents"
-toc_icon: "id-card"
-toc_sticky: true
 header:
     image: /assets/images/splash/splash_kowhai.jpg
 sidebar:
