@@ -4,12 +4,14 @@ permalink: /1769-garden/
 title: 1769 Garden
 author_profile: false
 classes: wide
+toc: true
+toc_label: "1769 Garden"
+toc_icon: "id-card"
+toc_sticky: true
 header:
   image: /assets/images/splash/splash_kowhai.jpg
 
 ---
-
-{% include toc icon="id-card"  title="1769 Garden" %}
 
 The **1769 Garden** commemorates a turning point in the history of Aotearoa New Zealand, when the *Endeavour* commanded by James Cook arrived at the mouth of the Waimata River in October 1769.  It features plants that grew in the Tairawhiti, and were familiar to local Māori at that time.
 
