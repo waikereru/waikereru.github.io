@@ -64,3 +64,5 @@ When they came ashore in Turanganui, Joseph Banks was sure they had found Terra 
 There they were sketched by **Sydney Parkinson**, the Quaker artist; classified and described by Banks and Solander using the Linnaean method of (counting the pistels and stamens on their flowers); and pressed between pages of a commentary on Milton’s Paradise Lost.  Many of these pressed plants still survive in herbaria collections in the United Kingdom, Australia and New Zealand.
 
 Banks and Solander collected 73 new species of plants in Turanganui-a-Kiwa; 115 in Anaura Bay; and 193 in Uawa (Tolaga Bay).
+
+## Importance of plants to Māori
