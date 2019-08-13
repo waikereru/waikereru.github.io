@@ -65,4 +65,4 @@ There they were sketched by **Sydney Parkinson**, the Quaker artist; classified 
 
 Banks and Solander collected 73 new species of plants in Turanganui-a-Kiwa; 115 in Anaura Bay; and 193 in Uawa (Tolaga Bay).
 
-## Importance of plants to Māori
+## Importance of plants to Maori
