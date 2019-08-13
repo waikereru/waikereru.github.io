@@ -28,7 +28,7 @@ In the [**Wild Lab / Tiaki Taiao**](/wildlab), delivered by Pete and Elle Jarrat
 ### Philip Smith, O2 Landscapes, Designer
 The 1769 Garden was designed by Philip Smith to evoke the experiences of Banks and Solander during their visit to Tairawhiti, taking inspiration from their collections and the observations they made at the time. 
 
-Planting the garden began in  2 June 2015, and continues to evolve, guided by Philip, Malcolm and Graeme..
+Planting the garden began in  2 June 2015, and continues to evolve, guided by Philip, Malcolm and Graeme.
 
 ### A blaze of yellow
 From the car park you are greeted by a grove of Kowhai (Sophora tetraptera).  When Banks and Solander first arrived in Turanganui-a-Kiwa (Gisborne) on October 8 1769, the kowhai trees were in flower.
