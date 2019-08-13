@@ -31,20 +31,20 @@ The 1769 Garden was designed by Philip Smith to evoke the experiences of Banks a
 Planting the garden began in  2 June 2015, and continues to evolve, guided by Philip, Malcolm and Graeme.
 
 ### A blaze of yellow
-From the car park you are greeted by a grove of Kowhai (Sophora tetraptera).  When Banks and Solander first arrived in Turanganui-a-Kiwa (Gisborne) on October 8 1769, the kowhai trees were in flower.
+From the car park you are greeted by a grove of Kowhai (*Sophora tetraptera*).  When Banks and Solander first arrived in Turanganui-a-Kiwa (Gisborne) on October 8 1769, the Kowhai trees were in flower.
 
 {% include figure image_path="/assets/images/1769/kowhai-flower.jpg" caption="Kowhai tree in bloom" %}
 
 ### Native as exotic
 Local flora and fauna, familiar to Māori, seemed very exotic to Banks and Solander.  This was the first time that plants from Aotearoa had been seen, collected and studied by Europeans.
 
-As you cross the bridge with its poutama pattern (based on tukutuku woven panels in meeting-houses) and enter the 1769 Garden, the plants seem unfamiliar or exotic - with bright pops of the green foliage and white flowers of Scandia rosifolia (NZ angelica), strange forms of Coprosma rhamnoides, and as you walk up the paths, a land of tall shadowy columns created by the threatened plant Pittosporum obcordatum.
+As you cross the bridge with its poutama pattern (based on tukutuku woven panels in meeting-houses) and enter the 1769 Garden, the plants seem unfamiliar or exotic - with bright pops of the green foliage and white flowers of *Scandia rosifolia* (NZ angelica), strange forms of *Coprosma rhamnoides*, and as you walk up the paths, a land of tall shadowy columns created by the threatened plant *Pittosporum obcordatum*.
 
 {% include figure image_path="/assets/images/1769/pittosporum-obcordatum.jpg" caption="Pittosporum obcordatum" %}
 
 
 ### Intersecting groves
-The lower garden is designed as a pattern of intersecting groves, first Kowhai, then Pittosporum obcordatum. On the upland path, this runs into a kahikatea grove, intersecting the existing kanuka forest. 
+The lower garden is designed as a pattern of intersecting groves, first Kowhai, then *Pittosporum obcordatum*. On the upland path, this runs into a kahikatea grove, intersecting the existing kanuka forest. 
 
 The Kahikatea trees in the forest grove are planted to appear as individual trees in the distance from the entrance (for at least the first 50 years or so). Banks mentioned “fine groves” of large trees on the flats at Turanganui, almost certainly kahikatea.
 
@@ -55,7 +55,7 @@ The stone rows are inspired by those found at Palliser Bay, where stone walls di
 
 The stone mounds are set out in a quincunx pattern (like the five on a dice), noted by Joseph Banks in the kumara gardens in Anaura Bay. In the 1769 Garden they’ve been laid out using pegged strings to create the precise geometry - the same method recorded by Banks.  
 
-In the 1769 garden the stone rows and mounds are used to showcase rare and interesting plants, for instance Coprosma acerosa, Plantago raoulii, Pelargonium inodorum, Geranium retrorsum. 
+In the 1769 garden the stone rows and mounds are used to showcase rare and interesting plants, for instance *Coprosma acerosa*, *Plantago raoulii*, *Pelargonium inodorum*, *Geranium retrorsum*. 
 
 {% include figure image_path="/assets/images/1769/stone-rows-and-mounds.jpg" caption="Stone rows and mounds" %}
 
@@ -69,8 +69,15 @@ The *Endeavour*, commanded by Lieutenant James Cook, had been sent by the Royal 
 
 When they came ashore in Turanganui, Joseph Banks was sure they had found Terra Australis, and in great excitement he and Dr Solander began collecting specimens of new and unfamiliar plants which they took back to the *Endeavour*’s Great Cabin  
 
-There they were sketched by **Sydney Parkinson**, the Quaker artist; classified and described by Banks and Solander using the Linnaean method of (counting the pistels and stamens on their flowers); and pressed between pages of a commentary on Milton’s Paradise Lost.  Many of these pressed plants still survive in herbaria collections in the United Kingdom, Australia and New Zealand.
+There they were sketched by **Sydney Parkinson**, the Quaker artist; classified and described by Banks and Solander using the Linnaean method of (counting the pistels and stamens on their flowers); and pressed between pages of a commentary on Milton’s *Paradise Lost*.  Many of these pressed plants still survive in herbaria collections in the United Kingdom, Australia and New Zealand.
 
 Banks and Solander collected 73 new species of plants in Turanganui-a-Kiwa; 115 in Anaura Bay; and 193 in Uawa (Tolaga Bay).
 
 ## Importance of plants to Maori
+*Work in progress*
+
+## Key Interest Plants
+*Work in progress*
+
+## Full Plant List
+*Work in progress*
