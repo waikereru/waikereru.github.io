@@ -14,3 +14,21 @@ main:
     url: /river/
   - title: "Welcome Shelter"
     url: /shelter/
+garden:
+  - title: "Design"
+    url: /1769-garden/#design-of-the-garden
+    children:
+      - title: "Philip Smith"
+        url: /1769-garden/#philip-smith-o2-landscapes-designer
+      - title: "A blaze of yellow"
+        url: /1769-garden/#a-blaze-of-yellow
+      - title: "Native as exotic"
+        url: /1769-garden/#native-as-exotic
+      - title: "Intersecting groves"
+        url: /1769-garden/#intersecting-groves
+      - title: "Stone rows and mounds"
+        url: /1769-garden/#stone-rows-and-mounds
+  - title: "Banks and Solander"
+    url: /1769-garden/#banks-and-solander
+        
+
