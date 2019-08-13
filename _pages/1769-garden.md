@@ -5,7 +5,7 @@ title: 1769 Garden
 author_profile: false
 classes: wide
 header:
-    image: /assets/images/splash/splash_kowhai.jpg
+    image: /assets/images/splash/splash_1769_garden.jpg
 sidebar:
     nav: "garden"
 
@@ -19,6 +19,8 @@ Malcolm Rutherford, trained at the Oxford Botanic Gardens, and Graeme Atkins, to
 
 The [**Welcome Shelter**](/shelter) above the garden was designed by Sarosh Mulla as his PhD project and featured in an exhibition at the Venice Biennale. Built by volunteers with aroha and materials and funding donated by sponsors, the Welcome Shelter serves as a base for our wilderness education programme for children, Wild Lab / Tiaki Taiao.
 
+{% include figure image_path="/assets/images/1769/welcome-shelter.jpg" caption="The Welcome Shelter" %}
+
 In the [**Wild Lab / Tiaki Taiao**](/wildlab), delivered by Pete and Elle Jarratt and co-designed with Longbush Trustees, scientists and matauranga experts, stories are told about local landscapes and their plant and animal inhabitants. Rare and endangered species are celebrated through ancestral knowledge, science, art and immersive experience, and a sense of wonder and fun.
 
 ## Design of the garden
@@ -31,10 +33,15 @@ Planting the garden began in  2 June 2015, and continues to evolve, guided by Ph
 ### A blaze of yellow
 From the car park you are greeted by a grove of Kowhai (Sophora tetraptera).  When Banks and Solander first arrived in Turanganui-a-Kiwa (Gisborne) on October 8 1769, the kowhai trees were in flower.
 
+{% include figure image_path="/assets/images/1769/kowhai-flower.jpg" caption="Kowhai tree in bloom" %}
+
 ### Native as exotic
 Local flora and fauna, familiar to Māori, seemed very exotic to Banks and Solander.  This was the first time that plants from Aotearoa had been seen, collected and studied by Europeans.
 
-As you cross the bridge with its poutama pattern (based on tukutuku woven panels in meeting-houses) and enter the 1769 Garden, the plants seem unfamiliar or exotic - with bright pops of the green foliage and white flowers of Scandia rosifolia (NZ angelica), strange forms of Coprosma rhamnoides, and as you walk up the paths, a land of tall shadowy columns created by the threatened plant Pittosporum obcordatum. 
+As you cross the bridge with its poutama pattern (based on tukutuku woven panels in meeting-houses) and enter the 1769 Garden, the plants seem unfamiliar or exotic - with bright pops of the green foliage and white flowers of Scandia rosifolia (NZ angelica), strange forms of Coprosma rhamnoides, and as you walk up the paths, a land of tall shadowy columns created by the threatened plant Pittosporum obcordatum.
+
+{% include figure image_path="/assets/images/1769/pittosporum-obcordatum.jpg" caption="Pittosporum obcordatum" %}
+
 
 ### Intersecting groves
 The lower garden is designed as a pattern of intersecting groves, first Kowhai, then Pittosporum obcordatum. On the upland path, this runs into a kahikatea grove, intersecting the existing kanuka forest. 
@@ -46,10 +53,11 @@ The stone rows and mounds are designed to evoke the fine geometry of Māori gard
 
 The stone rows are inspired by those found at Palliser Bay, where stone walls dictated the edges of gardens. 
 
-
 The stone mounds are set out in a quincunx pattern (like the five on a dice), noted by Joseph Banks in the kumara gardens in Anaura Bay. In the 1769 Garden they’ve been laid out using pegged strings to create the precise geometry - the same method recorded by Banks.  
 
 In the 1769 garden the stone rows and mounds are used to showcase rare and interesting plants, for instance Coprosma acerosa, Plantago raoulii, Pelargonium inodorum, Geranium retrorsum. 
+
+{% include figure image_path="/assets/images/1769/stone-rows-and-mounds.jpg" caption="Stone rows and mounds" %}
 
 ## Banks and Solander 
 
