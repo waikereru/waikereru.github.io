@@ -16,7 +16,7 @@ main:
     url: /shelter/
 garden:
   - title: "Introduction"
-    url: /1769-garden/
+    url: /1769-garden/#page-title
   - title: "Design"
     url: /1769-garden/#design-of-the-garden
     children:
