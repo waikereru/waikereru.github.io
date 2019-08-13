@@ -5,7 +5,7 @@ title: 1769 Garden
 author_profile: false
 classes: wide
 toc: true
-toc_label: "1769 Garden"
+toc_label: "Contents"
 toc_icon: "id-card"
 toc_sticky: true
 header:
