@@ -82,4 +82,4 @@ Banks and Solander collected 73 new species of plants in Turanganui-a-Kiwa; 115 
 ## Full Plant List
 *Work in progress*
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3WUYq4cH1kFeVSZvmtzuL26HtGYJa-oG6TP1O4o49MmY4Kl_OsorT_xddm8q6rudXTFoBVNYM9qtq/pubhtml?gid=1322585317&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="800" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3WUYq4cH1kFeVSZvmtzuL26HtGYJa-oG6TP1O4o49MmY4Kl_OsorT_xddm8q6rudXTFoBVNYM9qtq/pubhtml?gid=1322585317&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
