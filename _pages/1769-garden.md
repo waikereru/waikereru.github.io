@@ -82,96 +82,96 @@ Banks and Solander collected 73 new species of plants in Turanganui-a-Kiwa; 115 
 ## Full Plant List
 *Work in progress*
 
-| Genus            | Species                                    | Maori Name           | Also Known As             | Key Plant |
-| ---------------- | ------------------------------------------ | -------------------- | ------------------------- | --------- |
-| *Anemanthele*    | *lessoniana*                               | -                    | -                         |           |
-| *Apium*          | *prostratum*                               |                      |                           |           |
-| *Arthropodium *  | *cirratum*                                 | Rengarenga           | Rengarenga                |           |
-| *Brachyglottis * | *repanda*                                  |                      |                           |           |
-| *Carex*          | *flagellifera*                             | -                    | -                         | y         |
-| *Carex*          | *solandri*                                 | -                    | -                         | y         |
-| *Carmichaelia*   | *australis*                                | -                    | -                         |           |
-| *Carpodetus*     | *serratus*                                 | putaputaweta         | marble leaf               |           |
-| *Chionochloa*    | *conspicua*                                | hunangamoho          | broad leaved bush tussock |           |
-| *Clematis*       | *forsteri*                                 | -                    | Forster's clematis        |           |
-| *Clematis*       | *paniculata*                               | puawananga           | white clematis            | y         |
-| *Clianthus*      | *maximus*                                  | kowhai ngutu-kaka    | Kaka beak                 | y         |
-| *Coprosma*       | *acerosa*                                  | -                    | -                         |           |
-| *Coprosma*       | *areolata*                                 | -                    | -                         | y         |
-| *Coprosma*       | *crassifolia*                              | -                    | -                         | y         |
-| *Coprosma*       | *lucida*                                   | Karamu               | Karamu                    | y         |
-| *Coprosma*       | *pedicellata*                              | -                    | -                         | y         |
-| *Coprosma*       | *rhamnoides*                               | -                    | -                         | y         |
-| *Coprosma*       | *spathulata*                               | -                    | -                         |           |
-| *Cordyline*      | *australis*                                | ti kouaka            | Cabbage tree              |           |
-| *Corynocarpus*   | *laevigatus*                               | karaka               | Karaka                    | y         |
-| *Dacrycarpus*    | *dacrydioides*                             | kahikatea            | Kahiaktea                 | y         |
-| *Dichelachne*    | *crinita*                                  | -                    | long-hair plume grass     |           |
-| *Dichondra*      | *repens*                                   | -                    | -                         |           |
-| *Discaria*       | *toumatou*                                 | matagouri            | Matagouri                 | y         |
-| *Dysoxylum*      | *spectabile*                               | Kohekohe             | Kohekohe                  | y         |
-| *Entelea *       | *arborescens*                              | whau                 | whau                      |           |
-| *Euphorbia*      | *glauca*                                   |                      |                           |           |
-| *Freycinetia*    | *banksii*                                  | keikei               | keikei                    |           |
-| *Fuchsia *       | *excorticata*                              | kotukutuku           | Fuschia                   |           |
-| *Fuscospora*     | *solandrii*                                | -                    | black beech               |           |
-| *Geniostoma *    | *rupestre*                                 | Hangehange           | Hangehange                |           |
-| *Geranium*       | *retrorsum*                                | -                    | -                         | y         |
-| *Griselinia *    | *lucida*                                   | puka                 | broadleaf                 |           |
-| *Haloragis *     | *erecta*                                   | toatoa               |                           |           |
-| *Hebe*           | *tairawhiti*                               | Korimiko             | Hebe                      | y         |
-| *Hedycarya *     | *arborea*                                  | Porokaiwhiri         | Pigeonwood                |           |
-| *Hibiscus*       | *richardsonii*                             | puarangi             | Native Hibiscus           | y         |
-| *Hierochloe*     | *redolens*                                 | Karetu               | Holy grass                | y         |
-| *Hoheria*        | *sexstylosa*                               | Houhere              | Lacebark                  | y         |
-| *Hydrocotyle*    | *elongata*                                 | -                    | -                         |           |
-| *Jovellana*      | *sinclairii*                               | -                    | NZ calceolaria            |           |
-| *Knightia*       | *excelsa*                                  |                      |                           |           |
-| *Kunzea*         | *robusta*                                  | kanuka               | kanuka                    | y         |
-| *Lagenophora *   | *pumila*                                   |                      |                           |           |
-| *Laurelia*       | *novaezelandiae*                           | Pukatea              | pukatea                   |           |
-| *Leptopsermum *  | *scoparium*                                | Manuka               | Manuka                    | y         |
-| *Leptostigma*    | *setulosum*                                | -                    | -                         | y         |
-| *Leucopogon*     | *fasciculatus*                             | Mingimingi           | tall mingimingi           |           |
-| *Libertia*       | *cranwelliae*                              | -                    | Cranwell's Iris           | y         |
-| *Lobelia*        | *angulata*                                 | -                    | Pratia                    | y         |
-| *Lophomyrtus*    | *obcordata*                                | Rohutu               | Rohutu                    | y         |
-| *Mazus*          | *novaezeelandiae ssp. impolitus f. hirtus* | -                    | swamp musk                |           |
-| *Melicope*       | *ternata*                                  | Wharangi             | Wharangi                  |           |
-| *Melicytus *     | *ramiflorus*                               | Mahoe                | Mahoe                     |           |
-| *Melicytus*      | *micranthus*                               | -                    | Swamp mahoe               |           |
-| *Metrosideros*   | *perforata*                                | Akatea               | Akatea                    |           |
-| *Metrosideros*   | *robusta*                                  | Rata                 | Northern rata             | y         |
-| *Microlaena*     | *stipoides*                                | -                    | meadow rice grass         |           |
-| *Microsorum*     | *pustulatum*                               | kowaowao, paraharaha | hounds tongue             |           |
-| *Muehlenbeckia*  | *complexa*                                 | pohuehue             | pohuehue                  | y         |
-| *Myosotis*       | *pottsiana*                                | -                    | -                         |           |
-| *Nestegis*       | *lanceolata*                               | maire                | White maire               |           |
-| *Nestegis*       | *montana*                                  | maire                | Narrow-leaved maire       |           |
-| *Pelargonium*    | *inodorum*                                 | kopata               | kopata                    | y         |
-| *Pennantia*      | *corymbosa*                                | Kaikomako            | Kaikomako                 |           |
-| *Pimelea *       | *prostrata*                                | pinatoro             | NZ Daphne                 |           |
-| *Pimelea*        | *longifolia*                               | -                    | Long-leaved pimelea       |           |
-| *Piper*          | *excelsum*                                 | Kawakawa             | Kawakawa                  |           |
-| *Pittosporum*    | *obcordatum*                               |                      | heart leaved kohuhu       | y         |
-| *Pittosporum*    | *ralphii*                                  | karo                 |                           | y         |
-| *Pittosporum*    | *tenuifolium*                              | kohuhu               | black matipo              |           |
-| *Poa*            | *anceps*                                   |                      | Broad-leaved poa          | y         |
-| *Podocarpus*     | *laetus*                                   |                      | Halls Totara              |           |
-| *Prumnopitys*    | *taxifolia*                                | Matai                | matai                     | y         |
-| *Pseudopanax*    | *arboreus*                                 | whauwhaupaku         | Fivefinger                | y         |
-| *Pseudowintera*  | *colorata*                                 | horopito             | Alpine peppertree         |           |
-| *Scandia*        | *rosifolia*                                | Koheriki             | NZ angellica              | y         |
-| *Schefflera *    | *digitata*                                 | pate                 | seven finger              |           |
-| *Senecio*        | *banksii*                                  | -                    | -                         |           |
-| *Senecio*        | *quadridentatus*                           | pahokoraka           | cotton fireweed           | y         |
-| *Senecio*        | *rufiglandulosus*                          | -                    | -                         |           |
-| *Sonchus*        | *kirkii*                                   | puha                 | NZ sow thistle            | y         |
-| *Sophora*        | *tetraptera*                               | Kowhai               | large leaved kowhai       | y         |
-| *Streblus*       | *banksii*                                  | turepo               | small leaved milk tree    |           |
-| *Streblus*       | *heterophyllus*                            | turepo               | Large leaved milk tree    |           |
-| *Tetragonia*     | *tetragonoides*                            |                      |                           |           |
-| *Teucridium*     | *parvifolium*                              |                      |                           |           |
-| *Tupeia*         | *antartica*                                | -pirita              | White mistletoe           |           |
-| *Vitex*          | *lucens*                                   | puriri               | puriri                    | y         |
-| *Wahlenbergia*   | *violacea*                                 | -                    | violet harebell           |           |
+| Genus           | Species                                    | Maori Name           | Also Known As             | Key Plant |
+| --------------- | ------------------------------------------ | -------------------- | ------------------------- | --------- |
+| *Anemanthele*   | *lessoniana*                               | -                    | -                         |           |
+| *Apium*         | *prostratum*                               |                      |                           |           |
+| *Arthropodium*  | *cirratum*                                 | Rengarenga           | Rengarenga                |           |
+| *Brachyglottis* | *repanda*                                  |                      |                           |           |
+| *Carex*         | *flagellifera*                             | -                    | -                         | y         |
+| *Carex*         | *solandri*                                 | -                    | -                         | y         |
+| *Carmichaelia*  | *australis*                                | -                    | -                         |           |
+| *Carpodetus*    | *serratus*                                 | putaputaweta         | marble leaf               |           |
+| *Chionochloa*   | *conspicua*                                | hunangamoho          | broad leaved bush tussock |           |
+| *Clematis*      | *forsteri*                                 | -                    | Forster's clematis        |           |
+| *Clematis*      | *paniculata*                               | puawananga           | white clematis            | y         |
+| *Clianthus*     | *maximus*                                  | kowhai ngutu-kaka    | Kaka beak                 | y         |
+| *Coprosma*      | *acerosa*                                  | -                    | -                         |           |
+| *Coprosma*      | *areolata*                                 | -                    | -                         | y         |
+| *Coprosma*      | *crassifolia*                              | -                    | -                         | y         |
+| *Coprosma*      | *lucida*                                   | Karamu               | Karamu                    | y         |
+| *Coprosma*      | *pedicellata*                              | -                    | -                         | y         |
+| *Coprosma*      | *rhamnoides*                               | -                    | -                         | y         |
+| *Coprosma*      | *spathulata*                               | -                    | -                         |           |
+| *Cordyline*     | *australis*                                | ti kouaka            | Cabbage tree              |           |
+| *Corynocarpus*  | *laevigatus*                               | karaka               | Karaka                    | y         |
+| *Dacrycarpus*   | *dacrydioides*                             | kahikatea            | Kahiaktea                 | y         |
+| *Dichelachne*   | *crinita*                                  | -                    | long-hair plume grass     |           |
+| *Dichondra*     | *repens*                                   | -                    | -                         |           |
+| *Discaria*      | *toumatou*                                 | matagouri            | Matagouri                 | y         |
+| *Dysoxylum*     | *spectabile*                               | Kohekohe             | Kohekohe                  | y         |
+| *Entelea*       | *arborescens*                              | whau                 | whau                      |           |
+| *Euphorbia*     | *glauca*                                   |                      |                           |           |
+| *Freycinetia*   | *banksii*                                  | keikei               | keikei                    |           |
+| *Fuchsia*       | *excorticata*                              | kotukutuku           | Fuschia                   |           |
+| *Fuscospora*    | *solandrii*                                | -                    | black beech               |           |
+| *Geniostoma*    | *rupestre*                                 | Hangehange           | Hangehange                |           |
+| *Geranium*      | *retrorsum*                                | -                    | -                         | y         |
+| *Griselinia*    | *lucida*                                   | puka                 | broadleaf                 |           |
+| *Haloragis*     | *erecta*                                   | toatoa               |                           |           |
+| *Hebe*          | *tairawhiti*                               | Korimiko             | Hebe                      | y         |
+| *Hedycarya*     | *arborea*                                  | Porokaiwhiri         | Pigeonwood                |           |
+| *Hibiscus*      | *richardsonii*                             | puarangi             | Native Hibiscus           | y         |
+| *Hierochloe*    | *redolens*                                 | Karetu               | Holy grass                | y         |
+| *Hoheria*       | *sexstylosa*                               | Houhere              | Lacebark                  | y         |
+| *Hydrocotyle*   | *elongata*                                 | -                    | -                         |           |
+| *Jovellana*     | *sinclairii*                               | -                    | NZ calceolaria            |           |
+| *Knightia*      | *excelsa*                                  |                      |                           |           |
+| *Kunzea*        | *robusta*                                  | kanuka               | kanuka                    | y         |
+| *Lagenophora*   | *pumila*                                   |                      |                           |           |
+| *Laurelia*      | *novaezelandiae*                           | Pukatea              | pukatea                   |           |
+| *Leptopsermum*  | *scoparium*                                | Manuka               | Manuka                    | y         |
+| *Leptostigma*   | *setulosum*                                | -                    | -                         | y         |
+| *Leucopogon*    | *fasciculatus*                             | Mingimingi           | tall mingimingi           |           |
+| *Libertia*      | *cranwelliae*                              | -                    | Cranwell's Iris           | y         |
+| *Lobelia*       | *angulata*                                 | -                    | Pratia                    | y         |
+| *Lophomyrtus*   | *obcordata*                                | Rohutu               | Rohutu                    | y         |
+| *Mazus*         | *novaezeelandiae ssp. impolitus f. hirtus* | -                    | swamp musk                |           |
+| *Melicope*      | *ternata*                                  | Wharangi             | Wharangi                  |           |
+| *Melicytus*     | *micranthus*                               | -                    | Swamp mahoe               |           |
+| *Melicytus*     | *ramiflorus*                               | Mahoe                | Mahoe                     |           |
+| *Metrosideros*  | *perforata*                                | Akatea               | Akatea                    |           |
+| *Metrosideros*  | *robusta*                                  | Rata                 | Northern rata             | y         |
+| *Microlaena*    | *stipoides*                                | -                    | meadow rice grass         |           |
+| *Microsorum*    | *pustulatum*                               | kowaowao, paraharaha | hounds tongue             |           |
+| *Muehlenbeckia* | *complexa*                                 | pohuehue             | pohuehue                  | y         |
+| *Myosotis*      | *pottsiana*                                | -                    | -                         |           |
+| *Nestegis*      | *lanceolata*                               | maire                | White maire               |           |
+| *Nestegis*      | *montana*                                  | maire                | Narrow-leaved maire       |           |
+| *Pelargonium*   | *inodorum*                                 | kopata               | kopata                    | y         |
+| *Pennantia*     | *corymbosa*                                | Kaikomako            | Kaikomako                 |           |
+| *Pimelea*       | *longifolia*                               | -                    | Long-leaved pimelea       |           |
+| *Pimelea*       | *prostrata*                                | pinatoro             | NZ Daphne                 |           |
+| *Piper*         | *excelsum*                                 | Kawakawa             | Kawakawa                  |           |
+| *Pittosporum*   | *obcordatum*                               |                      | heart leaved kohuhu       | y         |
+| *Pittosporum*   | *ralphii*                                  | karo                 |                           | y         |
+| *Pittosporum*   | *tenuifolium*                              | kohuhu               | black matipo              |           |
+| *Poa*           | *anceps*                                   |                      | Broad-leaved poa          | y         |
+| *Podocarpus*    | *laetus*                                   |                      | Halls Totara              |           |
+| *Prumnopitys*   | *taxifolia*                                | Matai                | matai                     | y         |
+| *Pseudopanax*   | *arboreus*                                 | whauwhaupaku         | Fivefinger                | y         |
+| *Pseudowintera* | *colorata*                                 | horopito             | Alpine peppertree         |           |
+| *Scandia*       | *rosifolia*                                | Koheriki             | NZ angellica              | y         |
+| *Schefflera*    | *digitata*                                 | pate                 | seven finger              |           |
+| *Senecio*       | *banksii*                                  | -                    | -                         |           |
+| *Senecio*       | *quadridentatus*                           | pahokoraka           | cotton fireweed           | y         |
+| *Senecio*       | *rufiglandulosus*                          | -                    | -                         |           |
+| *Sonchus*       | *kirkii*                                   | puha                 | NZ sow thistle            | y         |
+| *Sophora*       | *tetraptera*                               | Kowhai               | large leaved kowhai       | y         |
+| *Streblus*      | *banksii*                                  | turepo               | small leaved milk tree    |           |
+| *Streblus*      | *heterophyllus*                            | turepo               | Large leaved milk tree    |           |
+| *Tetragonia*    | *tetragonoides*                            |                      |                           |           |
+| *Teucridium*    | *parvifolium*                              |                      |                           |           |
+| *Tupeia*        | *antartica*                                | -pirita              | White mistletoe           |           |
+| *Vitex*         | *lucens*                                   | puriri               | puriri                    | y         |
+| *Wahlenbergia*  | *violacea*                                 | -                    | violet harebell           |           |
