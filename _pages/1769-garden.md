@@ -11,73 +11,118 @@ sidebar:
 
 ---
 
-The **1769 Garden** commemorates a turning point in the history of Aotearoa New Zealand, when the *Endeavour* commanded by James Cook arrived at the mouth of the Waimata River in October 1769.  It features plants that grew in the Tairawhiti, and were familiar to local Māori at that time.
+The **1769 Garden** commemorates a turning point in the history of Aotearoa New Zealand, when the *Endeavour* commanded by James Cook arrived at the mouth of the Waimatā River in October 1769.  It features plants that grew in the Tairāwhiti and were familiar to local Māori at that time.
 
-Many of the species collected by Joseph Banks and Daniel Solander from the Royal Society party of scientists and artists on board the *Endeavour* are now rare or endangered.  The Garden offers a way of exploring the lives of plants and animals in the Tairawhiti before 1769; and how these have changed through time.
+Many of the species collected by Joseph Banks and Daniel Solander from the Royal Society party on board the *Endeavour* are now rare or endangered.  The Garden offers a way of exploring the plants and animals that lived in Tairāwhiti before 1769; and how their lives have changed since that time.
 
-Malcolm Rutherford, trained at the Oxford Botanic Gardens, and Graeme Atkins, tohunga taiao from Ngati Porou, are kai tiaki (guardians) for the garden and its interpretation.
+Malcolm Rutherford, trained at the Oxford Botanic Gardens, and Graeme Atkins, tohunga taiao from Ngāti Porou, are kai tiaki (guardians) for the garden and its interpretation.
 
 The [**Welcome Shelter**](/shelter) above the garden was designed by Sarosh Mulla as his PhD project and featured in an exhibition at the Venice Biennale. Built by volunteers with aroha and materials and funding donated by sponsors, the Welcome Shelter serves as a base for our wilderness education programme for children, Wild Lab / Tiaki Taiao.
 
 {% include figure image_path="/assets/images/1769/welcome-shelter.jpg" caption="The Welcome Shelter" %}
 
-In the [**Wild Lab / Tiaki Taiao**](/wildlab), delivered by Pete and Elle Jarratt and co-designed with Longbush Trustees, scientists and matauranga experts, stories are told about local landscapes and their plant and animal inhabitants. Rare and endangered species are celebrated through ancestral knowledge, science, art and immersive experience, and a sense of wonder and fun.
+In the [**Wild Lab / Tiaki Taiao**](/wildlab), delivered by Pete and Elle Jarratt and co-designed with Longbush Trustees, scientists and mātauranga experts, stories are told about local landscapes and their plant and animal inhabitants. Rare and endangered species are celebrated through ancestral knowledge, science, art and immersive experience, and a sense of wonder and fun.
+
 
 ## Design of the garden
 
-### Philip Smith, O2 Landscapes, Designer
-The 1769 Garden was designed by Philip Smith to evoke the experiences of Banks and Solander during their visit to Tairawhiti, taking inspiration from their collections and the observations they made at the time. 
+## Philip Smith, O2 landscapes, designer
+The 1769 Garden was designed by Philip Smith to evoke the experiences of Banks and Solander during their visit to Tairāwhiti, taking inspiration from the plants themselves, their collections and the observations they made at the time. 
 
-Planting the garden began in  2 June 2015, and continues to evolve, guided by Philip, Malcolm and Graeme.
+Planting the garden began in 2 June 2015, and continues to evolve, guided by Philip, Malcolm and Graeme.
 
-### A blaze of yellow
-From the car park you are greeted by a grove of Kowhai (*Sophora tetraptera*).  When Banks and Solander first arrived in Turanganui-a-Kiwa (Gisborne) on October 8 1769, the Kowhai trees were in flower.
+## A blaze of yellow
+From the car park you are greeted by a grove of Kōwhai (*Sophora tetraptera*).  When Banks and Solander first arrived in Turanganui-a-Kiwa (Gisborne) on October 8 1769, the kōwhai trees were in flower.
 
 {% include figure image_path="/assets/images/1769/kowhai-flower.jpg" caption="Kowhai tree in bloom" %}
 
 ### Native as exotic
 Local flora and fauna, familiar to Māori, seemed very exotic to Banks and Solander.  This was the first time that plants from Aotearoa had been seen, collected and studied by Europeans.
 
-As you cross the bridge with its poutama pattern (based on tukutuku woven panels in meeting-houses) and enter the 1769 Garden, the plants seem unfamiliar or exotic - with bright pops of the green foliage and white flowers of *Scandia rosifolia* (NZ angelica), strange forms of *Coprosma rhamnoides*, and as you walk up the paths, a land of tall shadowy columns created by the threatened plant *Pittosporum obcordatum*.
+As you cross the bridge with its poutama pattern (based on tukutuku woven panels in meeting-houses) and enter the 1769 Garden, the plants seem unfamiliar or exotic - with bright pops of the green foliage and white flowers of Koheriki (*Scandia rosifolia* - NZ angelica), and strange forms of Mingimingi (*Coprosma rhamnoides*). 
+
+As you walk up the paths, you enter a land of tall shadowy columns, created by the threatened plant heart-shaped Kōhūhū (*Pittosporum obcordatum*). 
 
 {% include figure image_path="/assets/images/1769/pittosporum-obcordatum.jpg" caption="Pittosporum obcordatum" %}
 
 
 ### Intersecting groves
-The lower garden is designed as a pattern of intersecting groves, first Kowhai, then *Pittosporum obcordatum*. On the upland path, this runs into a kahikatea grove, intersecting the existing kanuka forest. 
+The lower garden is based on a pattern of intersecting groves, first Kōwhai, then heart-shaped Kōhūhū (*Pittosporum obcordatum*). On the upland path, this runs into a kahikatea grove, intersecting the existing kānuka forest. 
 
-The Kahikatea trees in the forest grove are planted to appear as individual trees in the distance from the entrance (for at least the first 50 years or so). Banks mentioned “fine groves” of large trees on the flats at Turanganui, almost certainly kahikatea.
+The Kahikatea trees in the forest grove are planted as individual trees visible from the entrance (for at least the first 50 years or so). Banks mentioned “fine groves” of large trees on the flats at Tūranganui, almost certainly kahikatea.
+
 
 ### Stone rows and mounds
-The stone rows and mounds are designed to evoke the fine geometry of Māori gardens.
+The stone rows and mounds are designed to evoke the geometry of ancestral Māori gardens.
 
-The stone rows are inspired by those found at Palliser Bay, where stone walls dictated the edges of gardens. 
+The stone rows are inspired by those found at Palliser Bay, where stone walls surrounded the gardens. 
 
-The stone mounds are set out in a quincunx pattern (like the five on a dice), noted by Joseph Banks in the kumara gardens in Anaura Bay. In the 1769 Garden they’ve been laid out using pegged strings to create the precise geometry - the same method recorded by Banks.  
+The stone mounds are set out in a quincunx pattern (like the five on a dice), noted by Joseph Banks in the kūmara gardens in Anaura Bay. In the 1769 Garden they’ve been laid out using pegged strings to create the precise geometry - the same method recorded by Banks.  
 
-In the 1769 garden the stone rows and mounds are used to showcase rare and interesting plants, for instance *Coprosma acerosa*, *Plantago raoulii*, *Pelargonium inodorum*, *Geranium retrorsum*. 
+In the 1769 garden the stone rows and mounds are used to showcase rare and interesting plants, for instance Tarakupenga (*Coprosma acerosa*), Tūkōrehu (*Plantago raoulii*), Kōpata (*Pelargonium inodorum*), Te Auanga (*Geranium retrorsum*).
 
 {% include figure image_path="/assets/images/1769/stone-rows-and-mounds.jpg" caption="Stone rows and mounds" %}
 
 ## Banks and Solander 
 
-**Joseph Banks** was a wealthy young landowner from Lincolnshire who had developed a passion for botany, and sponsored the Royal Society party of scientists and artists on board the *Endeavour*.  He was only 26 years old when the *Endeavour* arrived in Turanga-nui-a-Kiwa / Gisborne in October 1769. 
+**Joseph Banks,** a wealthy young landowner from Lincolnshire, developed a passion for botany and sponsored the Royal Society party of scientists and artists on board the *Endeavour.*  He was only 26 years old when the *Endeavour* arrived in Tūranga-nui-ā-Kiwa / Gisborne) in October 1769. 
 
-Banks was accompanied by **Dr. Daniel Solander**, a favourite student of the great Swedish naturalist Carl Linnaeus who invented binomial taxonomy, a method used to classify and organise the rich variety of new plants and animals that were being observed and collected by European explorers at this time.
+Banks was accompanied by **Dr. Daniel Solander,** a favourite student of the great Swedish naturalist Carl Linnaeus. Linneaus invented binomial taxonomy, a method used to classify and organise the rich variety of new plants and animals that were being encountered by European explorers at this time.
 
-The *Endeavour*, commanded by Lieutenant James Cook, had been sent by the Royal Society of London and the Admiralty into the Pacific to observe the Transit of Venus in Tahiti, and to discover Terra Australis Incognita, the fabled Unknown Southern continent that 18C geographers thought must exist to counterbalance the Northern continents.
+The *Endeavour,* commanded by Lieutenant James Cook, was sent by the Royal Society of London and the Admiralty into the Pacific to observe the Transit of Venus in Tahiti, and to discover Terra Australis Incognita, the fabled Unknown Southern continent that 18th century geographers thought must exist to counter-balance the Northern continents.
 
-When they came ashore in Turanganui, Joseph Banks was sure they had found Terra Australis, and in great excitement he and Dr Solander began collecting specimens of new and unfamiliar plants which they took back to the *Endeavour*’s Great Cabin  
+When they came ashore in Tūranganui, Joseph Banks was sure they had found Terra Australis. In great excitement he and Dr Solander began collecting specimens of new and unfamiliar plants which they took back to the *Endeavour’s* Great Cabin  
 
-There they were sketched by **Sydney Parkinson**, the Quaker artist; classified and described by Banks and Solander using the Linnaean method of (counting the pistels and stamens on their flowers); and pressed between pages of a commentary on Milton’s *Paradise Lost*.  Many of these pressed plants still survive in herbaria collections in the United Kingdom, Australia and New Zealand.
+There they were sketched by **Sydney Parkinson,** the Quaker artist; classified and described by Banks and Solander using the Linnaean method of counting the pistels and stamens on their flowers; and pressed between pages of a commentary on Milton’s *Paradise Lost.*  Many of these pressed plants still survive in herbaria collections in the United Kingdom, Australia and New Zealand.
 
 Banks and Solander collected 73 new species of plants in Turanganui-a-Kiwa; 115 in Anaura Bay; and 193 in Uawa (Tolaga Bay).
 
-## Importance of plants to Maori
-*Work in progress*
 
-## Key Interest Plants
-*Work in progress*
+## Plant Profiles
+
+**Kiekie** (*Freycinetia banksii*) in the 1769 garden is a valued weaving material used for kete (kits), whāriki (fine mats) and tukutuku (woven wall) panels. The fruit of Kiekie is also delicious . For more information on Māori uses of the plant [click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=kiekie&FromSearch=true).
+
+**Northern Rātā** (*Metrosiderous robusta*) - This Northern Rātā will give shelter to those in the Welcome Shelter. It marks the entrance to the rest of Waikereru Ecosanctuary.  In Māori, people of influence are compared to a sheltering rātā (Rātā whakaruruhau).  
+
+**Kāretu** - Holy grass (*Hierochloe redolens*) - This grass grows either side of the bridge as you enter the garden. Found throughout New Zealand, it was collected on Banks and Solander on their first day ashore.  Kāretu is used for weaving necklaces and anklets which can be worn as perfumed decorations. It does not smell much when first picked, but the fresh grassy smell intensifies over the following months. For more information on Māori uses of the plant [click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=karetu&FromSearch=true).
+
+**Tī Kouka,** (*Cordyline australis*). Planted beside the driveway up to the Welcome Shelter, this plant was used as a way-marker along walking trails. It was also used for food, cordage, medicine, weaving and thatching. Here on the East Coast, the heads of tī kouka were used as toboggans for sliding down hills.
+ 
+Māori also described Tī in a binomial fashion. Tī marks the Genus, while other words were used to mark particular varieties  eg tī ngāhere, tI kouaka, tī kapu, tī kupenga, etc. For more information on Māor uses of the plant [click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=cabbage~tree&FromSearch=true).
+
+**Kaikomako** (Ahikōmau - Ngāti Porou) (*Pennantia corymbosa*) - A sharpened dried stick from this tree was rubbed on a soft wood such as Māhoe or Pate to make fire. [Click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=kaikomako&FromSearch=true) for more information.
+
+**Whauwhaupakū** and **Puawhānanga** (*Pseudopanax arboreus* and *Clematis paniculata*) - These are planted together in the Kahikatea grove on the Western side of the garden. They are planted together to recognise the beautiful Maori legend that features these 'stars of the forest'.  
+
+“To some tribes whauwhaupaku (the five finger tree) and puawānanga were the offspring of Puanga (Rigel, the bright star of Orion) and Rehua (Antares, the bright star of Scorpion). Their rising as morning stars signals the approach of summer, the period between these two events (June to November) coinciding with the flowering, first of whauwhaupakū (Pseudopanax arboreus and then puawānanga (Clematis paniculata).” 
+
+The arrival of the star shaped flowers of puawānanga signal the time of year to begin harvesting eels again - an important resource in the Waimatā River.
+
+{% include figure image_path="/assets/images/1769/clematis-paniculata.jpg" caption="Puawānanga in bloom" %}
+
+**Raurōroa** (*Sonchus kirkii*) Shore Puha.
+The indigenous Pūhā which has been largely replaced by introduced sow thistle species that came in with grass seed.  This plant grows in open disturbed land, so with increasing development of farm land, this species is declining.
+
+{% include figure image_path="/assets/images/1769/shore-puha.jpg" caption="Raurōroa" %}
+
+**Heart-leafed Kōhuhu** (*Pittosporum obcordatum*) 2012 - Threatened - Nationally Vulnerable
+~ 40 locations nationwide - Primarily threatened by loss of habitat. The widespread clearance of the easterly, lowland alluvial forests favoured by this species put it at risk.  This decline has continued, even in protected forest remnants, due to subtle changes in forest microclimates and water supply, 
+
+Many populations are also threatened by the spread of aggressive weeds, which suppress (or prevent) regeneration, and smother adult trees. In some places, only single trees are left. Fortunately, like many Pittosporum, plants may be either female, male or sexually inconstant, so some isolated individuals can set seed.
+
+{% include figure image_path="/assets/images/1769/pittosporum-obcordatum.jpg" caption="Pittosporum obcordatum" %}
+
+***Libertia cranwelliae*** - Threatened - Nationally Critical  Recently (2006) rediscovered in the wild by Graeme Atkins at one site near East Cape, where there are c.30 plants growing in coastal forest. 
+
+{% include figure image_path="/assets/images/1769/libertia-cranwelliae.jpg" caption="Libertia cranwelliae" %}
+
+***Geranium retrorsum*** - Threatened - Nationally Vulnerable, now very uncommon throughout most of its North Island range, though it is still common in parts of the eastern South Island (de Lange et al. 2010). In the North Island it is now mainly found on northern offshore islands. It appears to be threatened by browsing animals such as rabbits which avidly dig up plants for the roots. The open habitats it prefers are also now largely dominated by taller growing weeds. It is still said to be common in Australia.
+
+{% include figure image_path="/assets/images/1769/libertia-cranwelliae.JPG" caption="Geranium retrorsum" %}
+
+**Hebe tairāwhiti** (*Veronica tairāwhiti*) At Risk - Naturally Uncommon 
+The distribution of this stunning plant is from Hicks Bay to Wairoa. It is closely related to the more well known Koromiko and shares the same amazing medicinal properties. The leaves from this plant are great at curing stomach upsets. It is so effective that it was dried and sent to the NZ troops in WWI to cure dysentery. [Click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=hebe~stricta&FromSearch=true) for more information.
+
 
 ## Full Plant List
 *Work in progress*
