@@ -118,14 +118,13 @@ Many populations are also threatened by the spread of aggressive weeds, which su
 
 ***Geranium retrorsum*** - Threatened - Nationally Vulnerable, now very uncommon throughout most of its North Island range, though it is still common in parts of the eastern South Island (de Lange et al. 2010). In the North Island it is now mainly found on northern offshore islands. It appears to be threatened by browsing animals such as rabbits which avidly dig up plants for the roots. The open habitats it prefers are also now largely dominated by taller growing weeds. It is still said to be common in Australia.
 
-{% include figure image_path="/assets/images/1769/libertia-cranwelliae.JPG" caption="Geranium retrorsum" %}
+{% include figure image_path="/assets/images/1769/geranium.jpg" caption="Geranium retrorsum" %}
 
 **Hebe tairāwhiti** (*Veronica tairāwhiti*) At Risk - Naturally Uncommon 
 The distribution of this stunning plant is from Hicks Bay to Wairoa. It is closely related to the more well known Koromiko and shares the same amazing medicinal properties. The leaves from this plant are great at curing stomach upsets. It is so effective that it was dried and sent to the NZ troops in WWI to cure dysentery. [Click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=hebe~stricta&FromSearch=true) for more information.
 
 
 ## Full Plant List
-*Work in progress*
 
 | Genus           | Species                                    | Maori Name           | Also Known As             | Key Plant |
 | --------------- | ------------------------------------------ | -------------------- | ------------------------- | --------- |
