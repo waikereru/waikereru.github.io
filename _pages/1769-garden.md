@@ -18,6 +18,13 @@ designer:
     image_path: /assets/images/people/PeoplePhilipSmith.jpg
   - url: /assets/images/1769/1769-garden-plan-large.jpg
     image_path: /assets/images/1769/1769-garden-plan.jpg
+entrance:
+  - url: /assets/images/1769/footbridge.jpg
+    image_path: /assets/images/people/footbridge.jpg
+    caption: "Entrance to the 1769 Garden"
+  - url: /assets/images/1769/pittosporum-obcordatum.jpg
+    image_path: /assets/images/1769/pittosporum-obcordatum.jpg
+    caption: "Pittosporum obcordatum"
 
 ---
 
@@ -55,12 +62,11 @@ From the car park you are greeted by a grove of Kōwhai (*Sophora tetraptera*). 
 ### Native as exotic
 Local flora and fauna, familiar to Māori, seemed very strange to Banks and Solander.  This was the first time that plants from Aotearoa had been seen, collected and studied by Europeans.
 
-As you cross the bridge with its poutama pattern (based on tukutuku woven panels in meeting-houses) and enter the 1769 Garden, the plants seem unfamiliar or exotic - with bright pops of the green foliage and white flowers of Koheriki (*Scandia rosifolia* - NZ angelica), and strange, twisted forms of Mingimingi (*Coprosma rhamnoides*). 
+As you cross the bridge with its poutama pattern (based on tukutuku woven panels in meeting-houses) and enter the 1769 Garden, the plants seem unfamiliar or exotic - with bright pops of the green foliage and white flowers of Koheriki (*Scandia rosifolia* - NZ angelica), and strange, twisted forms of Mingimingi (*Coprosma rhamnoides*).
 
 As you walk up the paths, you enter a land of tall shadowy columns, the threatened heart-shaped Kōhūhū (*Pittosporum obcordatum*). 
 
-{% include figure image_path="/assets/images/1769/pittosporum-obcordatum.jpg" caption="Pittosporum obcordatum" %}
-
+{% include gallery id="entrance" %}
 
 ### Intersecting groves
 The lower garden is based on a pattern of intersecting groves, first Kōwhai, then *Pittosporum obcordatum*. On the upland path, this runs into a kahikatea grove, intersecting the existing kānuka forest. 
