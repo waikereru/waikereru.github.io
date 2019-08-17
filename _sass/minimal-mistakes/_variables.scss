@@ -61,9 +61,9 @@ $garamond: Garamond, serif !default;
 
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
-$caption-font-family: $sans-serif !default;
 $legible-font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$caption-font-family: $legible-font-family !default;
 
 
 /* type scale */
