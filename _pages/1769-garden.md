@@ -20,7 +20,7 @@ designer:
     image_path: /assets/images/1769/1769-garden-plan.jpg
 entrance:
   - url: /assets/images/1769/footbridge.jpg
-    image_path: /assets/images/people/footbridge.jpg
+    image_path: /assets/images/1769/footbridge.jpg
     caption: "Entrance to the 1769 Garden"
   - url: /assets/images/1769/pittosporum-obcordatum.jpg
     image_path: /assets/images/1769/pittosporum-obcordatum.jpg
