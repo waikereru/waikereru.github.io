@@ -101,7 +101,7 @@ Māori also described Tī in a binomial fashion. Tī marks the Genus, while othe
 
 **Whauwhaupakū** and **puawhānanga** (*Pseudopanax arboreus* and *Clematis paniculata*) - These are planted together in the Kahikatea grove on the Western side of the garden. They are planted together to recognise the beautiful Maori legend that features these 'stars of the forest'.  
 
-> “To some tribes whauwhaupaku (the five finger tree) and puawānanga were the offspring of Puanga (Rigel, the bright star of Orion) and Rehua (Antares, the bright star of Scorpion). Their rising as morning stars signals the approach of summer, the period between these two events (June to November) coinciding with the flowering, first of whauwhaupakū (Pseudopanax arboreus and then puawānanga (Clematis paniculata).” 
+To some tribes whauwhaupaku (the five finger tree) and puawānanga were the offspring of Puanga (Rigel, the bright star of Orion) and Rehua (Antares, the bright star of Scorpion). Their rising as morning stars signals the approach of summer, the period between these two events (June to November) coinciding with the flowering, first of whauwhaupakū (*Pseudopanax arboreus* and then puawānanga (*Clematis paniculata*).
 
 The arrival of the star shaped flowers of puawānanga signals the time of year to begin harvesting eels again - an important food source in the Waimatā River.
 
@@ -113,10 +113,11 @@ The arrival of the star shaped flowers of puawānanga signals the time of year t
 
 **Heart-leafed Kōhuhu** (*Pittosporum obcordatum*) 2012 - Threatened, Nationally Vulnerable: ~40 locations nationwide. The widespread clearance of the easterly, lowland alluvial forests favoured by this species put it at risk.  This decline has continued, even in protected forest remnants, due to subtle changes in forest microclimates and water supply, 
 
+{% include figure image_path="/assets/images/1769/pittosporum-obcordatum.jpg" caption="Pittosporum obcordatum" %}
+
 Many populations are also threatened by the spread of aggressive weeds, which suppress (or prevent) regeneration, and smother adult trees. In some places, only single trees are left. Fortunately, like many Pittosporum, these plants may be either female, male or sexually inconstant, so some isolated individuals can set seed.
 
-
-{% include figure image_path="/assets/images/1769/pittosporum-obcordatum.jpg" caption="Pittosporum obcordatum" %}
+{% include figure image_path="/assets/images/1769/pittosporum-obcordatum-closeup.jpg" caption="Pittosporum obcordatum foliage" %}
 
 ***Libertia cranwelliae*** - Threatened, Nationally Critical. Recently (2006) rediscovered in the wild by Graeme Atkins at one site near East Cape, where about.30 plants grow in coastal forest. 
 
