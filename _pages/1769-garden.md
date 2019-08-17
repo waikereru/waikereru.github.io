@@ -16,8 +16,8 @@ kaitiaki:
 designer:
   - url: /assets/images/people/PeoplePhilipSmith.jpg
     image_path: /assets/images/people/PeoplePhilipSmith.jpg
-  - url: /assets/images/1769/1769-garden-plan.jpg
-    image_path: /assets/images/1769/1769-garden-plan-large.jpg
+  - url: /assets/images/1769/1769-garden-plan-large.jpg
+    image_path: /assets/images/1769/1769-garden-plan.jpg
 
 ---
 
