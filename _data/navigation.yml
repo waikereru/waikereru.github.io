@@ -6,14 +6,16 @@ main:
     url: /sponsors/
   - title: "Team"
     url: /team/
-  - title: "History"
-    url: /history/
+  - title: "1769 Garden"
+    url: /1769-garden/
   - title: "Wild Lab"
     url: /wildlab/
   - title: "Waimata River"
     url: /river/
   - title: "Welcome Shelter"
     url: /shelter/
+  - title: "History"
+    url: /history/
 garden:
   - title: "Introduction"
     url: /1769-garden/#page-title
