@@ -33,7 +33,7 @@ The [**Welcome Shelter**](/shelter) that stands above the garden was designed by
 
 {% include figure image_path="/assets/images/1769/welcome-shelter.jpg" caption="The Welcome Shelter" %}
 
-In the [**Wild Lab / Tiaki Taiao**](/wildlab), delivered by Pete and Elle Jarratt and co-designed with Longbush Trustees, scientists and mātauranga experts, rare and endangered species are celebrated with a sense of wonder and fun. Through ancestral knowledge, science, art and immersive experience, children explore the challenges faced by indigenous plants and animals, and how to safeguard their future.
+In the [**Wild Lab / Tiaki Taiao**](/wildlab), delivered by **Pete and Elle Jarratt** and co-designed with Longbush Trustees, scientists and mātauranga experts, rare and endangered species are celebrated with a sense of wonder and fun. Through ancestral knowledge, science, art and immersive experience, children explore the challenges faced by indigenous plants and animals, and how to safeguard their future.
 
 {% include figure image_path="/assets/images/news/makaraka-school-wild-lab.jpg" caption="Wild Lab session: Makaraka School" %}
 
