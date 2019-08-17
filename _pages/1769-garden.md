@@ -29,7 +29,7 @@ From that moment, the lives of local people, plants and animals changed forever.
 
 {% include gallery id="kaitiaki" %}
 
-The [**Welcome Shelter**](/shelter) that stands above the garden was designed by Sarosh Mulla as his PhD project and featured in an exhibition at the Venice Biennale. Built by volunteers with aroha and materials and funding donated by sponsors, the Welcome Shelter serves as a base for our wilderness education programme for children, Wild Lab / Tiaki Taiao.
+The [**Welcome Shelter**](/shelter) that stands above the garden was designed by Sarosh Mulla as his PhD project and featured in an exhibition at the Venice Biennale. Built by volunteers with aroha and materials and funding donated by sponsors, the Welcome Shelter serves as a base for our wilderness education programme for children, [**Wild Lab / Tiaki Taiao**](/wildlab).
 
 {% include figure image_path="/assets/images/1769/welcome-shelter.jpg" caption="The Welcome Shelter" %}
 
