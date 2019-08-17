@@ -17,6 +17,12 @@ main:
 garden:
   - title: "Introduction"
     url: /1769-garden/#page-title
+      - title: "Kai Tiaki"
+        url: /1769-garden/#kaitiaki
+      - title: "Welcome Shelter"
+        url: /1769-garden/#welcome-shelter
+      - title: "Wild Lab / Tiaki Taiao"
+        url: /1769-garden/#wild-lab
   - title: "Design"
     url: /1769-garden/#design-of-the-garden
     children:
@@ -34,31 +40,6 @@ garden:
     url: /1769-garden/#banks-and-solander
   - title: "Plant Profiles"
     url: /1769-garden/#plant-profiles
-    children:
-      - title: "Kiekie"
-        url: /1769-garden/#kiekie
-      - title: "Northern Rātā"
-        url: /1769-garden/#northern-rātā
-      - title: "Kāretu"
-        url: /1769-garden/#kāretu
-      - title: "Tī Kouka"
-        url: /1769-garden/#tī-kouka
-      - title: "Kaikomako"
-        url: /1769-garden/#kaikomako
-      - title: "Whauwhaupakū"
-        url: /1769-garden/#whauwhaupakū
-      - title: "Puawhānanga"
-        url: /1769-garden/#puawhānanga
-      - title: "Raurōroa"
-        url: /1769-garden/#raurōroa
-      - title: "Heart-leafed Kōhuhu"
-        url: /1769-garden/#heart-leafed-kōhuhu
-      - title: "Libertia cranwelliae"
-        url: /1769-garden/#libertia-cranwelliae
-      - title: "Te Auanga"
-        url: /1769-garden/#te-auanga
-      - title: "Hebe tairāwhiti"
-        url: /1769-garden/#hebe-tairāwhiti
   - title: "Full Plant List"
     url: /1769-garden/#full-plant-list
 

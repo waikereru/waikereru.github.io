@@ -25,15 +25,15 @@ The **1769 Garden** marks a turning point in the history of Aotearoa, when the *
 
 From that moment, the lives of local people, plants and animals changed forever.  The 1769 Garden features plants that grew in the Tairāwhiti, and were familiar to local Māori at that time. Many of the species collected by Joseph Banks and Daniel Solander from the Royal Society party of artists and scientists on board the *Endeavour* are now rare or endangered.  
 
-**Malcolm Rutherford,** trained at the Oxford Botanic Gardens, and **Graeme Atkins**, tohunga taiao from Ngāti Porou, are **kai tiaki (guardians)** for the garden and its interpretation.
+<a id="kaitiaki"></a>**Malcolm Rutherford,** trained at the Oxford Botanic Gardens, and **Graeme Atkins**, tohunga taiao from Ngāti Porou, are **kai tiaki (guardians)** for the garden and its interpretation.
 
 {% include gallery id="kaitiaki" %}
 
-The [**Welcome Shelter**](/shelter) that stands above the garden was designed by [**Sarosh Mulla**](https://bestawards.co.nz/spatial/emerging-designer/sarosh-mulla-design/longbush-ecosanctuary-welcome-shelter/) as his PhD project and featured in an exhibition at the Venice Biennale. Built by volunteers with aroha and materials and funding donated by sponsors, the Welcome Shelter serves as a base for our wilderness education programme for children, [**Wild Lab / Tiaki Taiao**](/wildlab).
+<a id="welcome-shelter"></a>The [**Welcome Shelter**](/shelter) that stands above the garden was designed by [**Sarosh Mulla**](https://bestawards.co.nz/spatial/emerging-designer/sarosh-mulla-design/longbush-ecosanctuary-welcome-shelter/) as his PhD project and featured in an exhibition at the Venice Biennale. Built by volunteers with aroha and materials and funding donated by sponsors, the Welcome Shelter serves as a base for our wilderness education programme for children, [**Wild Lab / Tiaki Taiao**](/wildlab).
 
 {% include figure image_path="/assets/images/1769/welcome-shelter.jpg" caption="The Welcome Shelter" %}
 
-In the [**Wild Lab / Tiaki Taiao**](/wildlab), delivered by **Pete and Elle Jarratt** and co-designed with Longbush Trustees, scientists and mātauranga experts, rare and endangered species are celebrated with a sense of wonder and fun. Through ancestral knowledge, science, art and immersive experience, children explore the challenges faced by indigenous plants and animals, and how to safeguard their future.
+<a id="wild-lab"></a>In the [**Wild Lab / Tiaki Taiao**](/wildlab), delivered by **Pete and Elle Jarratt** and co-designed with Longbush Trustees, scientists and mātauranga experts, rare and endangered species are celebrated with a sense of wonder and fun. Through ancestral knowledge, science, art and immersive experience, children explore the challenges faced by indigenous plants and animals, and how to safeguard their future.
 
 {% include figure image_path="/assets/images/news/makaraka-school-wild-lab.jpg" caption="Wild Lab session: Makaraka School" %}
 
