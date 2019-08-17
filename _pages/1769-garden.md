@@ -20,7 +20,7 @@ The **1769 Garden** marks a turning point in the history of Aotearoa, when the *
 
 From that moment, the lives of local people, plants and animals changed forever.  The 1769 Garden features plants that grew in the Tairāwhiti, and were familiar to local Māori at that time. Many of the species collected by Joseph Banks and Daniel Solander from the Royal Society party of artists and scientists on board the *Endeavour* are now rare or endangered.  
 
-Malcolm Rutherford, trained at the Oxford Botanic Gardens, and Graeme Atkins, tohunga taiao from Ngāti Porou, are **kai tiaki (guardians)** for the garden and its interpretation.
+**Malcolm Rutherford,** trained at the Oxford Botanic Gardens, and **Graeme Atkins**, tohunga taiao from Ngāti Porou, are **kai tiaki (guardians)** for the garden and its interpretation.
 
 {% include gallery id="kaitiaki" %}
 
