@@ -34,7 +34,7 @@ In the [**Wild Lab / Tiaki Taiao**](/wildlab), delivered by Pete and Elle Jarrat
 ## Design of the garden
 
 ## Philip Smith, O2 landscapes, designer
-The 1769 Garden was designed by Philip Smith to evoke the experiences of Banks and Solander during their visit to Tairāwhiti, taking inspiration from the plants themselves, their collections and the observations they made at the time. 
+The 1769 Garden was designed by **Philip Smith** to evoke the experiences of Banks and Solander during their visit to Tairāwhiti, taking inspiration from the plants themselves, their collections and the observations they made at the time. 
 
 Planting the garden began in 2 June 2015, and continues to evolve, guided by Philip, Malcolm and Graeme.
 
@@ -99,7 +99,7 @@ Māori also described Tī in a binomial fashion. Tī marks the Genus, while othe
 
 <a id="kaikomako"></a>**Kaikomako** (ahikōmau - Ngāti Porou) (*Pennantia corymbosa*) - A sharpened dried stick from this tree was rubbed on a soft wood such as Māhoe or Pate to make fire. [Click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=kaikomako&FromSearch=true) for more information.
 
-<a id="whauwhaupakū"></a>**Whauwhaupakū** and **puawhānanga** (*Pseudopanax arboreus* and *Clematis paniculata*) - These are planted together in the Kahikatea grove on the Western side of the garden. They are planted together to recognise the beautiful Maori legend that features these 'stars of the forest'.  
+<a id="whauwhaupakū"></a><a id="puawhānanga"></a>**Whauwhaupakū** and **puawhānanga** (*Pseudopanax arboreus* and *Clematis paniculata*) - These are planted together in the Kahikatea grove on the Western side of the garden. They are planted together to recognise the beautiful Māori legend that features these 'stars of the forest'.  
 
 To some tribes whauwhaupaku (the five finger tree) and puawānanga were the offspring of Puanga (Rigel, the bright star of Orion) and Rehua (Antares, the bright star of Scorpion). Their rising as morning stars signals the approach of summer, the period between these two events (June to November) coinciding with the flowering, first of whauwhaupakū (*Pseudopanax arboreus* and then puawānanga (*Clematis paniculata*).
 
@@ -132,7 +132,7 @@ Many populations are also threatened by the spread of aggressive weeds, which su
 
 ## Full Plant List
 
-| Genus           | Species                                    | Maori Name           | Also Known As             | Key Plant |
+| Genus           | Species                                    | Māori Name           | Also Known As             | Key Plant |
 | --------------- | ------------------------------------------ | -------------------- | ------------------------- | --------- |
 | *Anemanthele*   | *lessoniana*                               | -                    | -                         |           |
 | *Apium*         | *prostratum*                               |                      |                           |           |
