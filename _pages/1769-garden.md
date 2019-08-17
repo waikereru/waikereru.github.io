@@ -13,6 +13,11 @@ kaitiaki:
     image_path: /assets/images/people/PeopleMalcolmRutherford.jpg
   - url: /assets/images/people/PeopleGraemeAtkins.jpg
     image_path: /assets/images/people/PeopleGraemeAtkins.jpg
+designer:
+  - url: /assets/images/people/PeoplePhilipSmith.jpg
+    image_path: /assets/images/people/PeoplePhilipSmith.jpg
+  - url: /assets/images/1769/1769-garden-plan.jpg
+    image_path: /assets/images/1769/1769-garden-plan-large.jpg
 
 ---
 
@@ -37,6 +42,8 @@ In the [**Wild Lab / Tiaki Taiao**](/wildlab), delivered by Pete and Elle Jarrat
 The 1769 Garden was designed by **Philip Smith** to evoke the experiences of Banks and Solander during their visit to Tairāwhiti, taking inspiration from the plants themselves, their collections and the observations they made at the time. 
 
 Planting the garden began in 2 June 2015, and continues to evolve, guided by Philip, Malcolm and Graeme.
+
+{% include gallery id="designer" %}
 
 ## A blaze of yellow
 From the car park you are greeted by a grove of Kōwhai (*Sophora tetraptera*).  When Banks and Solander first arrived in Turanganui-ā-Kiwa (Gisborne) on October 8 1769, the kōwhai trees were in flower.
