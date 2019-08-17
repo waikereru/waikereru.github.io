@@ -87,19 +87,19 @@ Banks and Solander collected 73 new species of plants in Turanganui-a-Kiwa; 115 
 
 ## Plant Profiles
 
-**Kiekie** (*Freycinetia banksii*) in the 1769 garden is a valued weaving material used for kete (kits), whāriki (fine mats) and tukutuku (woven wall) panels. The fruit of Kiekie is also delicious . For more information on Māori uses of the plant [click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=kiekie&FromSearch=true).
+<a id="kiekie"></a>**Kiekie** (*Freycinetia banksii*) in the 1769 garden is a valued weaving material used for kete (kits), whāriki (fine mats) and tukutuku (woven wall) panels. The fruit of Kiekie is also delicious . For more information on Māori uses of the plant [click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=kiekie&FromSearch=true).
 
-**Northern Rātā** (*Metrosiderous robusta*) - This Northern Rātā will give shelter to those in the Welcome Shelter, and marks the entrance to the rest of Waikereru Ecosanctuary.  In Māori, people of influence are compared to a sheltering rātā tree (Rātā whakaruruhau).  
+<a id="northern-rātā"></a>**Northern Rātā** (*Metrosiderous robusta*) - This Northern Rātā will give shelter to those in the Welcome Shelter, and marks the entrance to the rest of Waikereru Ecosanctuary.  In Māori, people of influence are compared to a sheltering rātā tree (Rātā whakaruruhau).  
 
-**Kāretu** - Holy grass (*Hierochloe redolens*) - This grass grows on either side of the bridge as you enter the garden. Found throughout New Zealand, it was collected on Banks and Solander on their first day ashore.  Kāretu is used for weaving necklaces and anklets which were worn as perfumed decorations. It does not smell much when first picked, but the fresh grassy smell intensifies over the following months. For more information on Māori uses of the plant [click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=karetu&FromSearch=true).
+<a id="kāretu"></a>**Kāretu** - Holy grass (*Hierochloe redolens*) - This grass grows on either side of the bridge as you enter the garden. Found throughout New Zealand, it was collected on Banks and Solander on their first day ashore.  Kāretu is used for weaving necklaces and anklets which were worn as perfumed decorations. It does not smell much when first picked, but the fresh grassy smell intensifies over the following months. For more information on Māori uses of the plant [click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=karetu&FromSearch=true).
 
-**Tī Kouka** (*Cordyline australis*) - Planted beside the driveway up to the Welcome Shelter, this plant was used as a way-marker along walking trails. It was also used for food, cordage, medicine, weaving and thatching. Here on the East Coast, the heads of tī kouka were used as toboggans for sliding down hills.
+<a id="tī-kouka"></a>**Tī Kouka** (*Cordyline australis*) - Planted beside the driveway up to the Welcome Shelter, this plant was used as a way-marker along walking trails. It was also used for food, cordage, medicine, weaving and thatching. Here on the East Coast, the heads of tī kouka were used as toboggans for sliding down hills.
  
 Māori also described Tī in a binomial fashion. Tī marks the Genus, while other words were used to mark particular varieties  eg tī ngāhere, tī kouaka, tī kapu, tī kupenga, etc. For more information on Māor uses of the plant [click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=cabbage~tree&FromSearch=true).
 
-**Kaikomako** (ahikōmau - Ngāti Porou) (*Pennantia corymbosa*) - A sharpened dried stick from this tree was rubbed on a soft wood such as Māhoe or Pate to make fire. [Click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=kaikomako&FromSearch=true) for more information.
+<a id="kaikomako"></a>**Kaikomako** (ahikōmau - Ngāti Porou) (*Pennantia corymbosa*) - A sharpened dried stick from this tree was rubbed on a soft wood such as Māhoe or Pate to make fire. [Click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=kaikomako&FromSearch=true) for more information.
 
-**Whauwhaupakū** and **puawhānanga** (*Pseudopanax arboreus* and *Clematis paniculata*) - These are planted together in the Kahikatea grove on the Western side of the garden. They are planted together to recognise the beautiful Maori legend that features these 'stars of the forest'.  
+<a id="whauwhaupakū"></a>**Whauwhaupakū** and **puawhānanga** (*Pseudopanax arboreus* and *Clematis paniculata*) - These are planted together in the Kahikatea grove on the Western side of the garden. They are planted together to recognise the beautiful Maori legend that features these 'stars of the forest'.  
 
 To some tribes whauwhaupaku (the five finger tree) and puawānanga were the offspring of Puanga (Rigel, the bright star of Orion) and Rehua (Antares, the bright star of Scorpion). Their rising as morning stars signals the approach of summer, the period between these two events (June to November) coinciding with the flowering, first of whauwhaupakū (*Pseudopanax arboreus* and then puawānanga (*Clematis paniculata*).
 
@@ -107,11 +107,11 @@ The arrival of the star shaped flowers of puawānanga signals the time of year t
 
 {% include figure image_path="/assets/images/1769/clematis-paniculata.jpg" caption="Puawānanga in bloom" %}
 
-**Raurōroa** - Shore puha (*Sonchus kirkii*) - The indigenous Pūhā has now been largely replaced by introduced sow thistle species that came in with grass seed.  This plant grows in open disturbed land, so with increasing development of farm land, this species is declining.
+<a id="raurōroa"></a>**Raurōroa** - Shore puha (*Sonchus kirkii*) - The indigenous Pūhā has now been largely replaced by introduced sow thistle species that came in with grass seed.  This plant grows in open disturbed land, so with increasing development of farm land, this species is declining.
 
 {% include figure image_path="/assets/images/1769/shore-puha.jpg" caption="Raurōroa" %}
 
-**Heart-leafed Kōhuhu** (*Pittosporum obcordatum*) 2012 - Threatened, Nationally Vulnerable: ~40 locations nationwide. The widespread clearance of the easterly, lowland alluvial forests favoured by this species put it at risk.  This decline has continued, even in protected forest remnants, due to subtle changes in forest microclimates and water supply, 
+<a id="heart-leafed-kōhuhu"></a>**Heart-leafed Kōhuhu** (*Pittosporum obcordatum*) 2012 - Threatened, Nationally Vulnerable: ~40 locations nationwide. The widespread clearance of the easterly, lowland alluvial forests favoured by this species put it at risk.  This decline has continued, even in protected forest remnants, due to subtle changes in forest microclimates and water supply, 
 
 {% include figure image_path="/assets/images/1769/pittosporum-obcordatum.jpg" caption="Pittosporum obcordatum" %}
 
@@ -119,15 +119,15 @@ Many populations are also threatened by the spread of aggressive weeds, which su
 
 {% include figure image_path="/assets/images/1769/pittosporum-obcordatum-closeup.jpg" caption="Pittosporum obcordatum foliage" %}
 
-***Libertia cranwelliae*** - Threatened, Nationally Critical. Recently (2006) rediscovered in the wild by Graeme Atkins at one site near East Cape, where about.30 plants grow in coastal forest. 
+<a id="libertia-cranwelliae"></a>***Libertia cranwelliae*** - Threatened, Nationally Critical. Recently (2006) rediscovered in the wild by Graeme Atkins at one site near East Cape, where about.30 plants grow in coastal forest. 
 
 {% include figure image_path="/assets/images/1769/libertia-cranwelliae.jpg" caption="Libertia cranwelliae" %}
 
-**Te Auanga** (*Geranium retrorsum*) - Threatened, Nationally Vulnerable, now very uncommon throughout most of its North Island range, though it is still common in parts of the eastern South Island (de Lange et al. 2010). In the North Island it is now mainly found on northern offshore islands. It is threatened by browsing animals such as rabbits which avidly dig up plants for the roots. The open habitats it prefers are also now largely dominated by taller growing weeds. It is still said to be common in Australia.
+<a id="te-auanga"></a>**Te Auanga** (*Geranium retrorsum*) - Threatened, Nationally Vulnerable, now very uncommon throughout most of its North Island range, though it is still common in parts of the eastern South Island (de Lange et al. 2010). In the North Island it is now mainly found on northern offshore islands. It is threatened by browsing animals such as rabbits which avidly dig up plants for the roots. The open habitats it prefers are also now largely dominated by taller growing weeds. It is still said to be common in Australia.
 
 {% include figure image_path="/assets/images/1769/geranium.jpg" caption="Geranium retrorsum" %}
 
-**Hebe tairāwhiti** (*Veronica tairāwhiti*) - At Risk, Naturally Uncommon. The distribution of this stunning plant is from Hicks Bay to Wairoa. It is closely related to the more well known Koromiko and shares the same amazing medicinal properties. The leaves from this plant are great at curing stomach upsets. It is so effective that it was dried and sent to the NZ troops in WWI to cure dysentery. [Click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=hebe~stricta&FromSearch=true) for more information.
+<a id="hebe-tairāwhiti"></a>**Hebe tairāwhiti** (*Veronica tairāwhiti*) - At Risk, Naturally Uncommon. The distribution of this stunning plant is from Hicks Bay to Wairoa. It is closely related to the more well known Koromiko and shares the same amazing medicinal properties. The leaves from this plant are great at curing stomach upsets. It is so effective that it was dried and sent to the NZ troops in WWI to cure dysentery. [Click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=hebe~stricta&FromSearch=true) for more information.
 
 
 ## Full Plant List
