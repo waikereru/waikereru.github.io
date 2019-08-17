@@ -79,7 +79,7 @@ The *Endeavour,* commanded by Lieutenant James Cook, was sent by the Royal Socie
 
 When they came ashore in Tūranganui, Joseph Banks was sure they had found Terra Australis. In great excitement he and Dr Solander began collecting specimens of new and unfamiliar plants which they took back to the *Endeavour*’s Great Cabin.
 
-There they were sketched by **Sydney Parkinson**, the Quaker artist; classified and described by Banks and Solander using the Linnaean method of counting the pistels and stamens on their flowers; and pressed between pages of a commentary on Milton’s Paradise Lost.  Many of these pressed plants still survive in herbaria collections in the United Kingdom, Australia and New Zealand.
+There they were sketched by **Sydney Parkinson**, the Quaker artist; classified and described by Banks and Solander using the Linnaean method of counting the pistels and stamens on their flowers; and pressed between pages of a commentary on Milton’s *Paradise Lost.*  Many of these pressed plants still survive in herbaria collections in the United Kingdom, Australia and New Zealand.
 
 Banks and Solander collected 73 new species of plants in Turanganui-a-Kiwa; 115 in Anaura Bay; and 193 in Uawa (Tolaga Bay).
 
