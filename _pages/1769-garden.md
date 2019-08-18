@@ -116,7 +116,7 @@ Māori also described Tī in a binomial fashion. Tī marks the Genus, while othe
 
 <a id="whauwhaupakū"></a><a id="puawhānanga"></a>**Whauwhaupakū** and **puawhānanga** (*Pseudopanax arboreus* and *Clematis paniculata*) - These are planted together in the Kahikatea grove on the Western side of the garden. They are planted together to recognise the beautiful Māori legend that features these 'stars of the forest'.  
 
-To some tribes whauwhaupaku (the five finger tree) and puawānanga were the offspring of Puanga (Rigel, the bright star of Orion) and Rehua (Antares, the bright star of Scorpion). Their rising as morning stars signals the approach of summer, the period between these two events (June to November) coinciding with the flowering, first of whauwhaupakū (*Pseudopanax arboreus* and then puawānanga (*Clematis paniculata*).
+> To some tribes whauwhaupaku (the five finger tree) and puawānanga were the offspring of Puanga (Rigel, the bright star of Orion) and Rehua (Antares, the bright star of Scorpion). Their rising as morning stars signals the approach of summer, the period between these two events (June to November) coinciding with the flowering, first of whauwhaupakū (*Pseudopanax arboreus* and then puawānanga (*Clematis paniculata*). ( [source: T.E.R:R.A.I.N](https://www.terrain.net.nz/friends-of-te-henui-group/new-plant-page/native-clematis.html) )
 
 The arrival of the star shaped flowers of puawānanga signals the time of year to begin harvesting eels again - an important food source in the Waimatā River.
 
