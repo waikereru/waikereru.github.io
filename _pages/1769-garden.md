@@ -181,7 +181,7 @@ Many populations are also threatened by the spread of aggressive weeds, which su
 | *Dysoxylum*     | *spectabile*                               | Kohekohe             | Kohekohe                  |
 | *Entelea*       | *arborescens*                              | Whau                 | Whau                      |
 | *Euphorbia*     | *glauca*                                   | -                    | -                         |
-| *Freycinetia*   | *banksii*                                  | Keikei               | Keikei                    |
+| *Freycinetia*   | *banksii*                                  | Kiekie               | Kiekie                    |
 | *Fuchsia*       | *excorticata*                              | Kōtukutuku           | Fuschia                   |
 | *Fuscospora*    | *solandrii*                                | -                    | Black beech               |
 | *Geniostoma*    | *rupestre*                                 | Hangehange           | Hangehange                |
