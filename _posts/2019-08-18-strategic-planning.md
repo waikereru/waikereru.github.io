@@ -3,7 +3,7 @@ title: "Strategic Planning Session"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/hawaiiki-nui-at-donners-teaser.jpg
+  teaser: /assets/images/news/longbush-strat-planning-2019.jpg
 categories:
   - News
 ---
