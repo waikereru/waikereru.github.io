@@ -8,6 +8,13 @@ header:
     image: /assets/images/splash/splash_1769_garden.jpg
 sidebar:
     nav: "garden"
+rows_and_mounds:
+  - url: /assets/images/1769/stone-mounds-aerial.jpg
+    image_path: /assets/images/1769/stone-mounds-aerial.jpg
+    title: "Stone mounds"
+  - url: /assets/images/1769/stone-rows-aerial.jpg
+    image_path: /assets/images/1769/stone-rows-aerial.jpg
+    title: "Stone rows"
 kaitiaki:
   - url: /assets/images/people/PeopleMalcolmRutherford.jpg
     image_path: /assets/images/people/PeopleMalcolmRutherford.jpg
@@ -21,16 +28,18 @@ designer:
 entrance:
   - url: /assets/images/1769/footbridge.jpg
     image_path: /assets/images/1769/footbridge.jpg
-    caption: "Entrance to the 1769 Garden"
+    title: "Entrance to the 1769 Garden"
   - url: /assets/images/1769/pittosporum-obcordatum.jpg
     image_path: /assets/images/1769/pittosporum-obcordatum.jpg
-    caption: "Pittosporum obcordatum"
+    title: "Pittosporum obcordatum"
 
 ---
 
 The **1769 Garden** marks a turning point in the history of Aotearoa, when the *Endeavour* commanded by James Cook arrived at the mouth of the Waimatā River in October 1769, bringing the Ra’iatean star navigator Tupaia and the first Europeans ashore. 
 
 From that moment, the lives of local people, plants and animals changed forever.  The 1769 Garden features plants that grew in the Tairāwhiti, and were familiar to local Māori at that time. Many of the species collected by Joseph Banks and Daniel Solander from the Royal Society party of artists and scientists on board the *Endeavour* are now rare or endangered.  
+
+{% include figure image_path="/assets/images/1769/aerial-view-03.jpg" caption="1769 garden from above" %}
 
 <a id="kaitiaki"></a>**Malcolm Rutherford,** trained at the University of Oxford Botanic Gardens, and **Graeme Atkins**, tohunga taiao from Ngāti Porou, are **kai tiaki (guardians)** for the garden and its interpretation.
 
@@ -82,6 +91,8 @@ The stone rows and mounds are designed to evoke the geometry of ancestral Māori
 The stone rows are inspired by those found at Palliser Bay, where stone walls surrounded the gardens. 
 
 The stone mounds are set out in a quincunx pattern (like the five on a dice), noted by Joseph Banks in the kūmara gardens in Anaura Bay. In the 1769 Garden they’ve been laid out using pegged strings to create the precise geometry - the same method recorded by Banks.  
+
+{% include gallery id="rows_and_mounds" %}
 
 In the 1769 garden the stone rows and mounds are used to showcase rare and interesting plants, for instance Tarakupenga (*Coprosma acerosa*), Tūkōrehu (*Plantago raoulii*), Kōpata (*Pelargonium inodorum*) and Te Auanga (*Geranium retrorsum*). 
 
