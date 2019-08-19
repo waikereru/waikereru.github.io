@@ -90,9 +90,11 @@ The stone rows and mounds are designed to evoke the geometry of ancestral Māori
 
 The stone rows are inspired by those found at Palliser Bay, where stone walls surrounded the gardens. 
 
+{% include figure image_path="/assets/images/1769/stone-rows-aerial.jpg" caption="Stone rows from above" %}
+
 The stone mounds are set out in a quincunx pattern (like the five on a dice), noted by Joseph Banks in the kūmara gardens in Anaura Bay. In the 1769 Garden they’ve been laid out using pegged strings to create the precise geometry - the same method recorded by Banks.  
 
-{% include gallery id="rows_and_mounds" %}
+{% include figure image_path="/assets/images/1769/stone-mounds-aerial.jpg" caption="Stone mounds from above" %}
 
 In the 1769 garden the stone rows and mounds are used to showcase rare and interesting plants, for instance Tarakupenga (*Coprosma acerosa*), Tūkōrehu (*Plantago raoulii*), Kōpata (*Pelargonium inodorum*) and Te Auanga (*Geranium retrorsum*). 
 
