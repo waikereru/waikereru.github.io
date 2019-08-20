@@ -18,14 +18,14 @@ rows_and_mounds:
 kaitiaki:
   - url: /assets/images/people/PeopleMalcolmRutherford.jpg
     image_path: /assets/images/people/PeopleMalcolmRutherford.jpg
-    title: "Malcolm Rutherford - *A. Ballance / RNZ*"
+    title: "Malcolm Rutherford - (Photo credit: A. Ballance / RNZ)"
   - url: /assets/images/people/PeopleGraemeAtkins.jpg
     image_path: /assets/images/people/PeopleGraemeAtkins.jpg
-    title: "Graeme Atkins - *A. Ballance/RNZ*"
+    title: "Graeme Atkins - (Photo credit: A. Ballance / RNZ)"
 designer:
   - url: /assets/images/people/PeoplePhilipSmith.jpg
     image_path: /assets/images/people/PeoplePhilipSmith.jpg
-    title: "Philip Smith - *A. Ballance / RNZ*"
+    title: "Philip Smith - (Photo credit: A. Ballance / RNZ)"
   - url: /assets/images/1769/1769-garden-plan-large.jpg
     image_path: /assets/images/1769/1769-garden-plan.jpg
 entrance:
