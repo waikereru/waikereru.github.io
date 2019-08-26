@@ -9,7 +9,9 @@ header:
 
 Welcome to the **Waikereru Ecosanctuary** - an Ark in the Bush. The Ecosanctuary is a haven for rare and endangered species of native birds, plants and animals. It is reached by a winding gravel road up an inland valley, just 9 kilometres from Gisborne city on the Tai Rawhiti / East Coast of New Zealand.
 
-From high hill ridges to the west, three streams tumble down steep valleys and across a plain, entering the Waimata River to the east. A rare surviving strip of lowland bush (Longbush Reserve) runs beside the Waimata River. The bush is alive with the sound of birds, including tui, bellbirds, fantails, kingfishers, whiteheads and many kereru or native pigeons. 
+From high hill ridges to the west, three streams tumble down steep valleys and across a plain, entering the Waimata River to the east. A rare surviving strip of lowland bush (Longbush Reserve) runs beside the Waimata River. The bush is alive with the sound of birds, including tui, bellbirds, fantails, kingfishers, whiteheads and many kereru or native pigeons.
+
+{% include video id="NUQ3J5dCE4o" provider="youtube" %}
 
 Waikereru Ecosanctuary is a fine example of ecological restoration in the Tai Rawhiti district, whose biodiversity is at extreme risk from land clearance, erosion and introduced plants and animals.  Here's a chant for Waikereru, composed by Merimeri Penfold:
 
