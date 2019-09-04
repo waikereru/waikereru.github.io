@@ -10,4 +10,6 @@ categories:
 
 Our joint presentation about the state of Tairāwhiti forests (Trust chair Anne Salmond, trustee Graeme Atkins and Natalie Robertson) at the Environmental Defence Society conference in Auckland made​ quite an impression.
 
-[{% include figure image_path="/assets/images/news/eds-video-preview.jpg"%}](https://vimeo.com/355663083)
+{% include figure image_path="/assets/images/news/eds-future-of-east-cape-forests.jpg" caption="Graeme Atkins presenting" %}
+
+[Watch the presentation here](https://vimeo.com/355663083)
