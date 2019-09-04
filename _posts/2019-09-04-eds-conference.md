@@ -12,4 +12,4 @@ Our joint presentation about the state of Tairāwhiti forests (Trust chair Anne 
 
 {% include figure image_path="/assets/images/news/eds-future-of-east-cape-forests.jpg" caption="Graeme Atkins presenting" %}
 
-[Watch the presentation here](https://vimeo.com/355663083)
+[Watch the full presentation here](https://vimeo.com/355663083)
