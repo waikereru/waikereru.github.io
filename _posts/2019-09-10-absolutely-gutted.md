@@ -12,7 +12,7 @@ Bad news from DoC's Community Conservation Fund. No ongoing pest and weed contro
 
 Feel like a punch drunk kereru..
 
-{% include figure image_path="/assets/images/news/punchdrunk-kereru.jpg" caption="Punch drunk kereru" %}
+{% include video id="cqWdPWVZZY0" provider="youtube" %}
 
 or the Toyota 'bugger' dog:
 
