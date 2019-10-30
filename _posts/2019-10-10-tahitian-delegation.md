@@ -3,7 +3,7 @@ title: "Tahitian visitors"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/tahitian-guests-in-1769-garden.jpg
+  teaser: /assets/images/news/on-the-bridge-w-hinano.jpg
 categories:
   - News
 ---
@@ -13,3 +13,7 @@ Such a pleasure to host some of the Tahitian delegation to Moana Nui and Tuia 25
 {% include figure image_path="/assets/images/news/tahitian-guests-in-1769-garden.jpg" caption="From left: ​Lorena, James, Hinano and Astrid" %}
 
 {% include figure image_path="/assets/images/news/tahitians-at-waikereru.jpg" caption="Gathered by the Welcome Shelter" %}
+
+{% include figure image_path="/assets/images/news/on-the-bridge-w-hinano.jpg" caption="On the bridge" %}
+
+
