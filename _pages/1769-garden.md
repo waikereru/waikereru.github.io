@@ -66,7 +66,7 @@ Planting the garden began in 2 June 2015, and continues to evolve, guided by Phi
 
 {% include gallery id="designer" %}
 
-For a thoughtful commentary on 3 local gardens that mark Endeavour​'s arrival, [see this paper](/assets/documents/SAHANZPaper.pdf) by landscape architect Prof. Jacky Bowring, Lincoln University.
+For a thoughtful commentary on 3 local gardens that mark Endeavour​'s arrival, [see this paper](/assets/documents/SAHANZOnlineVersion.pdf) by Bindy Barclay and Prof. Jacky Bowring, Lincoln University.
 
 
 ## A blaze of yellow
