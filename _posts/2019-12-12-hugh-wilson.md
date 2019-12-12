@@ -18,6 +18,7 @@ Here's what Hugh thinks about using pine trees to tackle climate change:
 > 
 > Is this the best Homo sapiens can do, attempting to solve one monstrous blunder with another?  Slower to get going, native forest regeneration eventually sequesters more carbon and for much longer than monocultures of pines.  It also brings a thousand other benefits which pine plantings don't touch.
 
+## Fools and Dreamers
 Check out the film about Hugh and Hinewai Reserve:
 
 {% include video id="3VZSJKbzyMc" provider="youtube" %}
