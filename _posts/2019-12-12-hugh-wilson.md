@@ -3,7 +3,7 @@ title: "What Hugh Wilson thinks about using pine trees to tackle climate change"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/hugh-wilson-hinewai.jpg
+  teaser: /assets/images/news/hugh-on-hinewai-2017-2.jpg
 categories:
   - News
 ---
@@ -16,7 +16,7 @@ Here's what Hugh thinks about using pine trees to tackle climate change:
 > 
 > Is this the best Homo sapiens can do, attempting to solve one monstrous blunder with another?  Slower to get going, native forest regeneration eventually sequesters more carbon and for much longer than monocultures of pines.  It also brings a thousand other benefits which pine plantings don't touch."
 
-{% include figure image_path="/assets/images/news/hugh-wilson-hinewai.jpg" %}
+{% include figure image_path="/assets/images/news/hugh-on-hinewai-2017-2.jpg" %}
 
 ## Fools and Dreamers
 Check out the film about Hugh and Hinewai Reserve:
