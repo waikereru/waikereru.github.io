@@ -8,7 +8,7 @@ categories:
   - News
 ---
 
-Here's another [great story about Waikereru, this time from Pure Advantage](https://pureadvantage.org/news/2019/12/11/restoration-need-not-cost-the-earth/), describing how ​we've used **seed islands** of fruit- and berry-bearing native trees along the foothills to restore the Waikereru Hills.  
+Here's another [great story about Waikereru](https://pureadvantage.org/news/2019/12/11/restoration-need-not-cost-the-earth/), this time from Pure Advantage, describing how ​we've used **seed islands** of fruit- and berry-bearing native trees along the foothills to restore the Waikereru Hills.  
 
 These plantings along our moist, fertile and accessible foothills provide food for the birds - especially the kereru - who then process the seeds, wrap them up in nitrogen pellets and transport them into steep, inaccessible hill country - and **plant them for free**!
 
