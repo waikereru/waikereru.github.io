@@ -1,14 +1,15 @@
 ---
-title: "1769 Garden talk @ FCBG"
+title: "Waimata River restoration project funded!"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/1769/aerial-view-01.jpg
+  teaser: /assets/images/river/river-swimming.jpg
 categories:
   - News
 ---
 
-Malcolm Rutherford's recent talk on the 1769 Garden to the Friends of the Christchurch Botanical Garden was much appreciated. See the report on Malcolm's talk and Ewen Cameron's research in their latest newsletter.
+The Waimata River restoration project led by Lois Easton and managed by Laura Savage under the umbrella of the Longbush Ecological Trust has just been funded by MPI!  What a wonderful Christmas present.  Thanks so much Lois for writing a stellar application. 
 
-[Read more here](/assets/documents/FCBGNewsletter118Summer2019-20-1.pdf)
+
+{% include figure image_path="/assets/images/river/river-swimming.jpg" %}
 
