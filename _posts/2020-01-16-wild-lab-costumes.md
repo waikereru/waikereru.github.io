@@ -1,5 +1,5 @@
 ---
-title: "New Costumes for Wild Lab / TT"
+title: "New Wild Lab / TT Costumes"
 layout: single
 classes: wide
 header:
