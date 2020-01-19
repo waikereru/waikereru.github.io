@@ -12,7 +12,7 @@ Homage to Brighde Penn from Waimatā, and Ruby from Wales for these spectacular 
 
 Brighde is studying theatre in Wales and makes costumes for Doctor Who, ​so there's more global talent adding lustre to this awesome wilderness education programme.
 
-{% include figure image_path="/assets/images/news/wild-lab-mayfly.jpg" caption="Kereru costume" %}
+{% include figure image_path="/assets/images/news/wild-lab-mayfly.jpg" caption="Mayfly costume" %}
 
-{% include figure image_path="/assets/images/news/wild-lab-kereru.jpg" caption="Mayfly costume" %}
+{% include figure image_path="/assets/images/news/wild-lab-kereru.jpg" caption="Kereru costume" %}
 
