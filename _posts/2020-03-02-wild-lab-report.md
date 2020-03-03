@@ -3,7 +3,7 @@ title: "Wild Lab Tiaki Taiao - ANZET Report"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/makauri-school-wild-lab.jpg
+  teaser: /assets/images/news/wild-lab-anzet-teaser.jpg
 categories:
   - News
 ---
