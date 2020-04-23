@@ -1,5 +1,5 @@
 ---
-title: "Waikereru waterway tracks in lockdown"
+title: "Waterway tracks in lockdown"
 layout: single
 classes: wide
 header:
