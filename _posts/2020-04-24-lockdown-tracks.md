@@ -3,7 +3,7 @@ title: "Waikereru waterway tracks in lockdown"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/waikereru-waterways.jpg
+  teaser: /assets/images/news/waikereru-lockdown-tracks.jpg
 categories:
   - News
 ---
