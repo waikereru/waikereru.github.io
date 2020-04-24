@@ -14,13 +14,10 @@ Also a stray German tourist, who appeared unexpectedly on the track in jandals a
 
 {% include video id="w_Nu0PaQ-Kw" provider="youtube" %}
 
-<figure class="half">
+<figure>
     <a href="/assets/images/tracks/IMG_0628.jpg"><img src="/assets/images/tracks/IMG_0628.jpg"></a>
-    <a href="/assets/images/tracks/IMG_0629.jpg"><img src="/assets/images/tracks/IMG_0629.jpg"></a>
 </figure>
 
-
-<figure class="half">
+<figure>
     <a href="/assets/images/tracks/IMG_0631.jpg"><img src="/assets/images/tracks/IMG_0631.jpg"></a>
-    <a href="/assets/images/tracks/IMG_0632.jpg"><img src="/assets/images/tracks/IMG_0632.jpg"></a>
 </figure>
