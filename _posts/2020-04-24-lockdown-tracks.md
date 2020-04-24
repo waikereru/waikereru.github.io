@@ -16,8 +16,5 @@ Also a stray German tourist, who appeared unexpectedly on the track in jandals a
 
 <figure>
     <a href="/assets/images/tracks/IMG_0628.jpg"><img src="/assets/images/tracks/IMG_0628.jpg"></a>
-</figure>
-
-<figure>
     <a href="/assets/images/tracks/IMG_0631.jpg"><img src="/assets/images/tracks/IMG_0631.jpg"></a>
 </figure>
