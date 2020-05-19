@@ -6,6 +6,6 @@ permalink: /news/
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/splash/splash_bush_02.jpg
+  image: /assets/images/splash/splash_home.jpg
 ---
 
