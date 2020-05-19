@@ -4,7 +4,7 @@ entries_layout: grid
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/splash/splash_morning_mist.jpg
+  image: /assets/images/splash/splash_home.jpg
 ---
 
 Welcome to the **Waikereru Ecosanctuary** - an Ark in the Bush. The Ecosanctuary is a haven for rare and endangered species of native birds, plants and animals. It is reached by a winding gravel road up an inland valley, just 9 kilometres from Gisborne city on the Tai Rawhiti / East Coast of New Zealand.

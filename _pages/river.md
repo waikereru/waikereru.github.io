@@ -6,7 +6,7 @@ tagline: The waters of the Waimata run past the places where our shared history 
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/splash/splash_river.jpg
+  image: /assets/images/splash/splash_waimata.jpg
 
 ---
 
