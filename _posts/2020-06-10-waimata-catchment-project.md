@@ -3,7 +3,7 @@ title: "Waimata Catchment Restoration Project up and running!"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/splash/splash_waimata.jpg
+  teaser: /assets/images/news/river-swimming.jpg
 categories:
   - News
 ---
