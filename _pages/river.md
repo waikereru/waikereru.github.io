@@ -20,7 +20,7 @@ header:
 - [Report-back on meeting with Gisborne District Council and DoC](/assets/documents/ListeningToTheWaimataRiverNov2018.pdf) (November 5th, 2018)
 - [Sheridan Gundry's short illustrated account of the Waimata River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
 - [Waimatā Catchment Erosion Project](/assets/documents/WaimatāCatchmentErosionProject.pdf) (Supporting document)
-- [Waimatā Catchment Map by Hamish MacDonald (PDF)](/assets/documents/raukumara_hi-res_opt.pdf)
+- [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
 
 ## Waimata River
 
