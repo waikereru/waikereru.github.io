@@ -41,7 +41,7 @@ In the headwaters, exotic forests planted to protect the hills are being clear f
 
 See Ian Ruru’s eloquent video about the Waimata, ‘A River in Tears’.
 
-{% include video id="LZMKHVCI0W4" provider="youtube" %}
+{% include video id="3tQ9lKZ647s" provider="youtube" %}
 
 
 ## The tide is turning
