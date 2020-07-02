@@ -8,9 +8,9 @@ categories:
   - News
 ---
 
-A big bouquet to Sarosh Mulla for the Welcome Shelter, which has just won an NZIA design award.
+A big bouquet to Sarosh Mulla for the Welcome Shelter, which has just won an [NZIA design award](https://www.nzia.co.nz/awards/local/award-detail/8920).
 
-[Longbush Ecosanctuary Welcome Shelter - NZIA 2020 Hawkes Bay / Gisborne Architecture Awards Winner](https://www.nzia.co.nz/awards/local/award-detail/8920)
+[NZIA 2020 Hawkes Bay / Gisborne Architecture Awards Winner: Longbush Ecosanctuary Welcome Shelter](https://www.nzia.co.nz/awards/local/award-detail/8920)
 
 {% include figure image_path="/assets/images/shelter/welcome-shelter.jpg" caption="Welcome Shelter approached from the south" %}
 
