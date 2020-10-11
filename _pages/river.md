@@ -83,7 +83,7 @@ The next stage is to share these insights into the past and present of the Waima
 
 ## Waimatā Catchment Restoration Inc. established
 
-In July 2020, after another workshop was held at the Waimatā River Valley Hall, Waimatā Catchment Restoration Inc. was set up, and officers elected.
+In July 2020, after another workshop was held at the Waimatā River Valley Hall, [Waimatā Catchment Restoration Inc.](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/) was set up, and officers elected.
 
 The Waimatā River restoration project is now in full swing, supported by a $500,000 grant from the Erosion Control funding.  This pilot project is funding fencing and planting on 7 properties, and farm environment plans for all farms in the catchment.
 
