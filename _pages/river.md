@@ -10,8 +10,9 @@ header:
 
 ---
 
-## Waimatā River Reports
+## Waimatā River Resources
 
+- [Waimatā Catchment Restoration Project Facebook page](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
 - [Research Report 1](/assets/documents/WaimataReport1.pdf) (Landscapes and Rivers of the Waimatā)
 - [Research Report 2](/assets/documents/WaimataReport2.pdf) (Native Land Court Records of Blocks on the Waimatā)
 - [Research Report 3](/assets/documents/WaimataReport3.pdf) (Settler History post 1880)
@@ -21,6 +22,7 @@ header:
 - [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
 - [Waimatā Catchment Erosion Project](/assets/documents/WaimataCatchmentErosionProject.pdf) (Supporting document)
 - [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
+
 
 ## Waimatā River
 
@@ -77,3 +79,12 @@ The Te Awaroa team have conducted a case study of the Waimatā River, producing 
 The next stage is to share these insights into the past and present of the Waimatā River with the community, and seek to ensure that it returns to a state of ora (well-being, abundance). 
 
 {% include figure image_path="/assets/images/river/te-awaroa-poster.png" %}
+
+
+## Waimatā Catchment Restoration Inc. established
+
+In July 2020, after another workshop was held at the Waimatā River Valley Hall, Waimatā Catchment Restoration Inc. was set up, and officers elected.
+
+The Waimatā River restoration project is now in full swing, supported by a $500,000 grant from the Erosion Control funding.  This pilot project is funding fencing and planting on 7 properties, and farm environment plans for all farms in the catchment.
+
+Waimatā Catchment Restoration Inc. now has its own [Facebook page](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/), where you can keep in touch with the project as it progresses.
