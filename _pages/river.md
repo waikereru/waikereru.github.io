@@ -12,7 +12,7 @@ header:
 
 ## Waimatā River Resources
 
-- [Waimatā Catchment Restoration Project Facebook page](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
+- [Waimatā Catchment Restoration Project](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/) (Facebook page)
 - [Research Report 1](/assets/documents/WaimataReport1.pdf) (Landscapes and Rivers of the Waimatā)
 - [Research Report 2](/assets/documents/WaimataReport2.pdf) (Native Land Court Records of Blocks on the Waimatā)
 - [Research Report 3](/assets/documents/WaimataReport3.pdf) (Settler History post 1880)
