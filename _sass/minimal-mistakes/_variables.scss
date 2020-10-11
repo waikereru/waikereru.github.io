@@ -7,35 +7,6 @@
    ========================================================================== */
 
 $font-path:        "/assets/fonts";
-
-@font-face {
-  font-family: 'Futura';
-  src: url('#{$font-path}/FuturaStd-Light.WOFF');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Futura';
-  src: url('#{$font-path}/FuturaStd-LightOblique.WOFF');
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Futura';
-  src: url('#{$font-path}/FuturaStd-Medium.WOFF');
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Futura';
-  src: url('#{$font-path}/FuturaStd-MediumOblique.WOFF');
-  font-weight: bold;
-  font-style: italic;
-}
-
 $doc-font-size: 16 !default;
 
 /* paragraph indention */
@@ -44,7 +15,7 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: "Futura", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: futura-pt, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
