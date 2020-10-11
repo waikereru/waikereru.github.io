@@ -22,6 +22,6 @@ The 1769 garden, based on descendants of plants collected on the East Coast by s
 
 At the Welcome Shelter, stories will be told about the pre-human landscape at Longbush, its plant and animal inhabitants, the impact of the first Polynesian arrivals and Maori settlement, the first European arrivals and its settler history.
 
-Transformations in local landforms, waterways and plants and animals over the last 700 years will be traced, exploring and celebrating the communities of rare and endangered species in the Waimata Valley.
+Transformations in local landforms, waterways and plants and animals over the last 700 years will be traced, exploring and celebrating the communities of rare and endangered species in the Waimatā Valley.
 
 Sarosh has raised sponsorship and funding from many sources for the Welcome Shelter, and organised teams of volunteers to prefabricate and erect the structure – an outstanding exercise in collaborative place making.
