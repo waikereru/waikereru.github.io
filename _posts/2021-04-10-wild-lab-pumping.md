@@ -8,6 +8,6 @@ categories:
   - News
 ---
 
-The Wild Lab Tiaki Taiao is pumping.  Here's a group of Eastland Institute of Technology teacher trainees at the Welcome Shelter.
+The Wild Lab Tiaki Taiao is pumping.  Here's a group of Eastern Institute of Technology (Tairawhiti) teacher trainees at the Welcome Shelter.
 
 {% include figure image_path="/assets/images/news/eit-student-teachers-at-the-wild-lab.jpg" caption="EIT student teachers at the Wild Lab" %}
