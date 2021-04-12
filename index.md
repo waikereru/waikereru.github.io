@@ -25,7 +25,7 @@ We treat it like a marae – visitors are very welcome, but the trustees need to
 As visitors, you're responsible for your own health and safety.  Please stay on the tracks, be careful around electric fences, traps and streams, and take care of our precious bush.
 {% endcapture %}
 
-<div class="notice--success">
+<div class="notice--primary">
   {{ visitor-info-text | markdownify }}
 </div>
 
