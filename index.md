@@ -11,9 +11,7 @@ Welcome to the **Waikereru Ecosanctuary** - an Ark in the Bush. The Ecosanctuary
 
 From high hill ridges to the west, three streams tumble down steep valleys and across a plain, entering the Waimatā River to the east. A rare surviving strip of lowland bush (Longbush Reserve) runs beside the Waimatā River. The bush is alive with the sound of birds, including tui, bellbirds, fantails, kingfishers, whiteheads and many kereru or native pigeons.
 
-## Nau mai, haere mai!
-
-{% capture notice-success %}
+{% capture visitor-info-text %}
 Waikereru is on private land owned by Dame Anne and Jeremy Salmond.
 
 Because there is so little native bush close to Gisborne, Longbush Reserve is open to the public – access is on the right, opposite 910 Riverside Road)
@@ -24,6 +22,12 @@ We treat it like a marae – visitors are very welcome, but the trustees need to
 
 As visitors, you're responsible for your own health and safety.  Please stay on the tracks, be careful around electric fences, traps and streams, and take care of our precious bush.
 {% endcapture %}
+
+<div class="notice--info">
+  <h4 class="no_toc">Nau mai, haere mai!</h4>
+  {{ visitor-info-text | markdownify }}
+</div>
+
 
 {% include video id="NUQ3J5dCE4o" provider="youtube" %}
 
