@@ -16,9 +16,9 @@ From high hill ridges to the west, three streams tumble down steep valleys and a
 {% capture visitor-info-text %}
 Waikereru is on private land owned by Dame Anne and Jeremy Salmond.
 
-Because there is so little native bush close to Gisborne, Longbush Reserve is open to the public – access is on the right, opposite 910 Riverside Road)
+Because there is so little native bush close to Gisborne, **Longbush Reserve** is open to the public – access is on the right, opposite 910 Riverside Road)
 
-Waikereru Ecosanctuary (including the Welcome Shelter and 1769 Garden) can be visited by arrangement – please contact us at [info@waikereru.org](info@waikereru.org). Access is on the left, at **846 Riverside Road**.
+**Waikereru Ecosanctuary** (including the **Welcome Shelter** and **1769 Garden**) can be visited by arrangement – please contact us at [info@waikereru.org](info@waikereru.org). Access is on the left, at 846 Riverside Road.
 
 We treat it like a marae – visitors are very welcome, but the trustees need to know you’re coming! The Waikereru Hills are actively managed, with trapping and shooting. For health and safety reasons, access is by specific arrangement only.
 
