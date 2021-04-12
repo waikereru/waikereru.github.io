@@ -15,8 +15,6 @@ From high hill ridges to the west, three streams tumble down steep valleys and a
 
 {% capture visitor-info-text %}
 
-### Visitor Information
-
 Waikereru is on private land owned by Dame Anne and Jeremy Salmond.
 
 Because there is so little native bush close to Gisborne, **Longbush Reserve** is open to the public – access is on the right, opposite 910 Riverside Road)
