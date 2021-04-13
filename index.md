@@ -22,7 +22,7 @@ Waikereru is on land owned by Dame Anne and Jeremy Salmond.  ***Longbush Reserve
 
 We treat the Ecosanctuary like a marae – visitors are very welcome, but the trustees need to know you’re coming! The Waikereru Hills are actively managed, with trapping and shooting. For health and safety reasons, access is by specific arrangement only.
 
-As visitors, you're responsible for your own health and safety.  Please stay on the tracks, be careful around electric fences, traps and streams, and take care of our precious bush.
+As visitors, please note you're responsible for your own health and safety.  Stay on the tracks, be careful around electric fences, traps and streams, and take care of our precious bush.
 {% endcapture %}
 
 <div class="notice--danger">
