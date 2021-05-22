@@ -10,6 +10,6 @@ categories:
 
 Here's another great article (this time from Radio NZ) on the 'Let the River Speak' team visit and public meeting:
 
-https://www.rnz.co.nz/news/ldr/443140/every-time-we-poison-the-river-we-poison-ourselves-teen-waka-ama-paddler-calls-for-change
+[‘Every time we poison the river, we poison ourselves’: Teen waka ama paddler calls for change - Radio NZ](https://www.rnz.co.nz/news/ldr/443140/every-time-we-poison-the-river-we-poison-ourselves-teen-waka-ama-paddler-calls-for-change)
 
 {% include figure image_path="/assets/images/news/mairangi-campbell.jpg" caption="Photographer: Ben Parkinson" %}
