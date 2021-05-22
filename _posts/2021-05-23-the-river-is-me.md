@@ -1,5 +1,5 @@
 ---
-title: "Let the River Sing - Gisborne Herald"
+title: "‘I am the river, the river is me’ - Gisborne Herald"
 layout: single
 classes: wide
 header:
@@ -12,4 +12,4 @@ Fabulous to see our 'Let the River Speak' research team out on the Waimatā Rive
 
 [‘I am the river, the river is me’ – The Gisborne Herald](https://www.gisborneherald.co.nz/okategoriserade/20210522/i-am-the-river-the-river-is-me/)
 
-{% include figure image_path="/assets/images/news/waka-ama-crew.jpg" caption="Photographer: Liam Clayton" %}
+{% include figure image_path="/assets/images/news/waka-ama-crew.jpg" %}
