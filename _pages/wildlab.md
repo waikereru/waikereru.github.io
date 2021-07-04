@@ -64,57 +64,57 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 
 **Feedback examples from kaiako:**
 
-> *"You were wonderful hosts, friendly and fantastic with the students, lots of fun and laughter but educating at the same time.  We could see how passionate you guys are about the environment and preserving it for the future generations. The sanctuary was utterly beautiful and I am amazed that something so beautiful could exist so close to a city."*  **Kōkā Jodi Ria** - Syndicate Leader - Nga Uri a Maui
+> *"You were wonderful hosts, friendly and fantastic with the students, lots of fun and laughter but educating at the same time.  We could see how passionate you guys are about the environment and preserving it for the future generations. The sanctuary was utterly beautiful and I am amazed that something so beautiful could exist so close to a city."*  Kōkā Jodi Ria - Syndicate Leader - Nga Uri a Maui
 
-> *"Beautiful, rich, Inquiry learning.  Your impact was massive!"* **Kōkā Leah Wilkie** - Wainui Beach School
+> *"Beautiful, rich, Inquiry learning.  Your impact was massive!"* Kōkā Leah Wilkie - Wainui Beach School
  
-> *"The pace was excellent, changing constantly, from being quite physical to more sedate discussion and question times.  I have recommended Wild Lab to my colleagues."* **Steve Berezowski** - Principal - Te Wharau School
+> *"The pace was excellent, changing constantly, from being quite physical to more sedate discussion and question times.  I have recommended Wild Lab to my colleagues."* Steve Berezowski - Principal - Te Wharau School
 
-> *"Watching the students give feedback and ask questions allowed several different ideas to be clarified. The creativity that came through was outstanding."* **Michelle Hall** – Senior Teacher - Makaraka School
+> *"Watching the students give feedback and ask questions allowed several different ideas to be clarified. The creativity that came through was outstanding."* Michelle Hall – Senior Teacher - Makaraka School
 
-> *"Students who may normally shy away from being outside their comfort zone (perhaps too cool for certain parts) were engaged in all aspects of the workshop, with smiles!"* **Kōkā Gina Odessa**, Cobham School
+> *"Students who may normally shy away from being outside their comfort zone (perhaps too cool for certain parts) were engaged in all aspects of the workshop, with smiles!"* Kōkā Gina Odessa, Cobham School
 
-> *"Outstanding setting that allowed space for creativity to surface. A great deal of positive and personal outcomes. Time for fun, collaboration, reflection. Time to re-set the compass. An educational facility that is truly inspiring."* **Judy Nicoll** – Principal – Makauri School
+> *"Outstanding setting that allowed space for creativity to surface. A great deal of positive and personal outcomes. Time for fun, collaboration, reflection. Time to re-set the compass. An educational facility that is truly inspiring."* Judy Nicoll – Principal – Makauri School
 
-> *"Kids getting active is brilliant. A lot of students learn this way.  It also really linked to what we were doing at school. I think we can really link it even more next time, to do pre- and post- work. It has been a great experience. You have a real knack of making learning fun"* **Koka Jodie** – Gisborne Intermediate
+> *"Kids getting active is brilliant. A lot of students learn this way.  It also really linked to what we were doing at school. I think we can really link it even more next time, to do pre- and post- work. It has been a great experience. You have a real knack of making learning fun"* Koka Jodie – Gisborne Intermediate
 
-> *"Enlightening. So many aspects that brought together our team. Opportunities to know more about each other and myself. A magical day full of learning and experiences – an opening to a whole set of new ideas."* **Kōkā Joanne Mada** – Makauri School
+> *"Enlightening. So many aspects that brought together our team. Opportunities to know more about each other and myself. A magical day full of learning and experiences – an opening to a whole set of new ideas."* Kōkā Joanne Mada – Makauri School
 
-> *"This makes total sense. The learning all fits into a wider understanding. Building knowledge slowly but in context.  It's really exciting. This can be applied to so many different areas"* - **Kōkā Lara** – EIT
+> *"This makes total sense. The learning all fits into a wider understanding. Building knowledge slowly but in context.  It's really exciting. This can be applied to so many different areas"* - Kōkā Lara – EIT
 
 {% include figure image_path="/assets/images/wildlab/image011.jpg" caption="Learning about the Mayfly" %}
 
 
 **Feedback examples from ākonga:**
 
-> *"I liked looking at the critters, it was amazing. Things my eyes can't see. Noises are amazing and mesmerizing. I've been here four times with different schools and every time I've done something new. Everything is different and it's been so cool. 10-star rating for Wild Lab"* - **Baxter**
+> *"I liked looking at the critters, it was amazing. Things my eyes can't see. Noises are amazing and mesmerizing. I've been here four times with different schools and every time I've done something new. Everything is different and it's been so cool. 10-star rating for Wild Lab"* - Baxter
 
-> *"I love this kind of stuff, it’s so much fun being in nature and I love making things from the things we find. This place is amazing."* - **Willow**
+> *"I love this kind of stuff, it’s so much fun being in nature and I love making things from the things we find. This place is amazing."* - Willow
 
-> *"I liked playing the predator game. I liked being the pollution because I was the only one who survived. In real life we need to stop me!"* - **Cameron**
+> *"I liked playing the predator game. I liked being the pollution because I was the only one who survived. In real life we need to stop me!"* - Cameron
 
-> *"If I could give this place a rating it would be a definite 10 billion"* - **Jonny**
+> *"If I could give this place a rating it would be a definite 10 billion"* - Jonny
 
-> *"I love nature and nature loves me. Drawing was so fun. I liked climbing the hill because I like to be fit. I liked looking at the view from the top."* - **Arihia**
+> *"I love nature and nature loves me. Drawing was so fun. I liked climbing the hill because I like to be fit. I liked looking at the view from the top."* - Arihia
 
-> *"I liked doing the stream experiments and they were actual experiments to make a difference.  I now think I could do this myself."* - **Hahname**
+> *"I liked doing the stream experiments and they were actual experiments to make a difference.  I now think I could do this myself."* - Hahname
 
-> *"It was cool seeing the creatures under the magnifying glass"* - **Hunter**
+> *"It was cool seeing the creatures under the magnifying glass"* - Hunter
 
-> *"Love seeing the insects and bugs, they’re fun to find."* – **Aroha**
+> *"Love seeing the insects and bugs, they’re fun to find."* – Aroha
 
 {% include figure image_path="/assets/images/wildlab/image012.jpg" caption="Navigation exercise linked to ancestral storytelling." %}
 
 
 **Feedback examples from whānau:**
 
-> *"My daughter is going to change the way we do things from now on after coming here. This is my one day off work, being outside is special but this is amazing. I love the way you interact with the kids and the best way to describe it Is ’you have them all learning in the palm of your hand."*- **Carmen**
+> *"My daughter is going to change the way we do things from now on after coming here. This is my one day off work, being outside is special but this is amazing. I love the way you interact with the kids and the best way to describe it Is ’you have them all learning in the palm of your hand."*- Carmen
 
-> *"I have been just so excited since the start of the term when I heard we were coming. This is the most enjoyable trip I have ever been on. In my daughter’s old class she never even got to go out! I love the bush and try to take my whanau into the outdoors as much as possible. This is great,  I feel so lucky and have loved sharing this space with the kids."* - **Courtney**
+> *"I have been just so excited since the start of the term when I heard we were coming. This is the most enjoyable trip I have ever been on. In my daughter’s old class she never even got to go out! I love the bush and try to take my whanau into the outdoors as much as possible. This is great,  I feel so lucky and have loved sharing this space with the kids."* - Courtney
 
-> *"I wouldn’t change anything. What’s not to love. I’ve enjoyed it as much as the kids.  We have been actively learning all day."* - **Sarah**
+> *"I wouldn’t change anything. What’s not to love. I’ve enjoyed it as much as the kids.  We have been actively learning all day."* - Sarah
 
-> *"I loved it, it was very hands on and kinesthetic. Awesome exploration up close, fun and personal. Never time to be bored. Great mix of energy, relaxing. Targeted totally to the audience it was intended for. The kids and I loved it. Everybody should bring their school here. Teaching them respect, to live and care for our environment is so important. We need these guys, they are our future. You are doing awesome work out here, please just keep doing what you are doing."* – **Monica**
+> *"I loved it, it was very hands on and kinesthetic. Awesome exploration up close, fun and personal. Never time to be bored. Great mix of energy, relaxing. Targeted totally to the audience it was intended for. The kids and I loved it. Everybody should bring their school here. Teaching them respect, to live and care for our environment is so important. We need these guys, they are our future. You are doing awesome work out here, please just keep doing what you are doing."* – Monica
 
 {% include figure image_path="/assets/images/wildlab/image013.jpg" caption="A trip up Pā Hill for a better perspective" %}
 
