@@ -62,7 +62,7 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 {% include figure image_path="/assets/images/wildlab/image009.jpg" caption="Integrated learning workshop" %}
 
 
-**Feedback examples from kaiako:**
+**Feedback examples from kaiako**
 
 > *"You were wonderful hosts, friendly and fantastic with the students, lots of fun and laughter but educating at the same time.  We could see how passionate you guys are about the environment and preserving it for the future generations. The sanctuary was utterly beautiful and I am amazed that something so beautiful could exist so close to a city."*  **Kōkā Jodi Ria** - Syndicate Leader - Nga Uri a Maui
 
@@ -85,7 +85,7 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 {% include figure image_path="/assets/images/wildlab/image011.jpg" caption="Learning about the Mayfly" %}
 
 
-**Feedback examples from ākonga:**
+**Feedback examples from ākonga**
 
 > *"I liked looking at the critters, it was amazing. Things my eyes can't see. Noises are amazing and mesmerizing. I've been here four times with different schools and every time I've done something new. Everything is different and it's been so cool. 10-star rating for Wild Lab"* - **Baxter**
 
@@ -106,7 +106,7 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 {% include figure image_path="/assets/images/wildlab/image012.jpg" caption="Navigation exercise linked to ancestral storytelling." %}
 
 
-**Feedback examples from whānau:**
+**Feedback examples from whānau**
 
 > *"My daughter is going to change the way we do things from now on after coming here. This is my one day off work, being outside is special but this is amazing. I love the way you interact with the kids and the best way to describe it Is ’you have them all learning in the palm of your hand."*- **Carmen**
 
