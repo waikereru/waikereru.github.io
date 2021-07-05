@@ -121,3 +121,8 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 {% include figure image_path="/assets/images/wildlab/image015.jpg" %}
 {% include figure image_path="/assets/images/wildlab/image016.jpg" %}
 {% include figure image_path="/assets/images/wildlab/image017.jpg" %}
+
+
+### Get in touch
+
+If you're interested in the *Waikereru Wild Lab Tiaki Taiao*, get in touch at [info@waikereru.org](mailto:info@waikereru.org) - we'd love to hear from you!
