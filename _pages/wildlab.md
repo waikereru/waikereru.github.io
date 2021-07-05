@@ -12,10 +12,10 @@ header:
 **Waikereru Wild Lab Tiaki Taiao** inspires kaiako and akonga in creative, inquiry-based workshops to understand what has happened to local ecosystems since human arrival, and to take part in restoring these to a state of ora (health, well-being).
 
 {% capture get-in-touch-text %}
-If you're interested in the *Waikereru Wild Lab Tiaki Taiao*, get in touch at [info@waikereru.org](mailto:info@waikereru.org).
+If you're interested in *Waikereru Wild Lab Tiaki Taiao*, you can get in touch at [info@waikereru.org](mailto:info@waikereru.org).
 {% endcapture %}
 
-<div class="notice--success">
+<div class="notice--danger">
   {{ get-in-touch-text | markdownify }}
 </div>
 
@@ -133,4 +133,4 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 
 ## Get in touch
 
-If you're interested in the *Waikereru Wild Lab Tiaki Taiao*, get in touch at [info@waikereru.org](mailto:info@waikereru.org) - we'd love to hear from you!
+If you're interested in *Waikereru Wild Lab Tiaki Taiao*, you can get in touch at [info@waikereru.org](mailto:info@waikereru.org) - we'd love to hear from you!
