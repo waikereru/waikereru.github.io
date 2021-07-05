@@ -11,6 +11,14 @@ header:
 
 **Waikereru Wild Lab Tiaki Taiao** inspires kaiako and akonga in creative, inquiry-based workshops to understand what has happened to local ecosystems since human arrival, and to take part in restoring these to a state of ora (health, well-being).
 
+{% capture get-in-touch-text %}
+If you're interested in the *Waikereru Wild Lab Tiaki Taiao*, get in touch at [info@waikereru.org](mailto:info@waikereru.org).
+{% endcapture %}
+
+<div class="notice--success">
+  {{ get-in-touch-text | markdownify }}
+</div>
+
 {% include figure image_path="/assets/images/wildlab/image001-crop.jpg" %}
 
 {% include figure image_path="/assets/images/wildlab/image003.jpg" caption="Critter hunting for healthy streams" %}
@@ -36,7 +44,7 @@ Our educational aims are for participants to:
 
 Wild Lab Tiaki Taiao is based at the award-winning Welcome Shelter in the Waikereru Ecosanctuary, a haven for rare, endangered species of native birds, plants and animals on the East Coast of NZ.  
 
-### Workshops
+## Workshops
 
 Leading international scientists, Mātauranga mō Te Taiao experts and the award winning team at the Wild Lab Tiaki Taiao have joined with Dame Anne Salmond and the Longbush Ecological Trust to design immersive and experiential workshops.
 
@@ -123,6 +131,6 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 {% include figure image_path="/assets/images/wildlab/image017.jpg" %}
 
 
-### Get in touch
+## Get in touch
 
 If you're interested in the *Waikereru Wild Lab Tiaki Taiao*, get in touch at [info@waikereru.org](mailto:info@waikereru.org) - we'd love to hear from you!
