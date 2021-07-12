@@ -20,7 +20,7 @@ header:
 - [Research Report 5](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (A Place Belonging to the Heart)
 - [Report-back on meeting with Gisborne District Council and DoC](/assets/documents/ListeningToTheWaimataRiverNov2018.pdf) (November 5th, 2018)
 - [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
-- [Waimatā Catchment Erosion Project](/assets/documents/WaimataCatchmentErosionProject.pdf) (Supporting document)
+- [Waimatā River Restoration Project](/assets/documents/WaimataRiverRestorationProject.pdf) (Supporting document)
 - [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
 
 
