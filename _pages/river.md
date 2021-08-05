@@ -22,8 +22,8 @@ header:
 - [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
 - [Waimatā River Restoration Project](/assets/documents/WaimataRiverRestorationProject.pdf) (Supporting document)
 - [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
-- [Rivers, residents, and restoration: Local relations to the Waimatā River, Aotearoa New Zealand - Danielle Cairns, Gary Brierley, and Gretel Boswijk.](/assets/documents/CairnsEtAlAugust2021.pdf)
-- [Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand - Harvey, Brierley, Easton, Watson, Tunnicliffe](/assets/documents/HarveyEtAlAugust2021.pdf)
+- [Rivers, residents, and restoration: Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/CairnsEtAlAugust2021.pdf) - Danielle Cairns, Gary Brierley, and Gretel Boswijk
+- [Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand](/assets/documents/HarveyEtAlAugust2021.pdf) - Harvey, Brierley, Easton, Watson, Tunnicliffe
 
 
 ## Waimatā River
