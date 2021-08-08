@@ -12,18 +12,31 @@ header:
 
 ## Waimatā River Resources
 
-- [Waimatā Catchment Restoration Project](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/) (Facebook page)
+### Facebook Page
+
+- [Waimatā Catchment Restoration Project](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
+
+### Research
+
 - [Research Report 1](/assets/documents/WaimataReport1.pdf) (Landscapes and Rivers of the Waimatā)
 - [Research Report 2](/assets/documents/WaimataReport2.pdf) (Native Land Court Records of Blocks on the Waimatā)
 - [Research Report 3](/assets/documents/WaimataReport3.pdf) (Settler History post 1880)
 - [Research Report 4](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Biodiversity in the Waimatā)
 - [Research Report 5](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (A Place Belonging to the Heart)
-- [Report-back on meeting with Gisborne District Council and DoC](/assets/documents/ListeningToTheWaimataRiverNov2018.pdf) (November 5th, 2018)
-- [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
-- [Waimatā River Restoration Project](/assets/documents/WaimataRiverRestorationProject.pdf) (Supporting document)
-- [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
 - [Rivers, residents, and restoration: Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/CairnsEtAlAugust2021.pdf) - Danielle Cairns, Gary Brierley, and Gretel Boswijk
 - [Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand](/assets/documents/HarveyEtAlAugust2021.pdf) - Harvey, Brierley, Easton, Watson, Tunnicliffe
+- [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
+- [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
+
+### Feedback from Meetings
+
+- [Community Meeting - July 2021](/assets/documents/WaimataCatchmentProjectMeetingJuly2021.pdf) 
+- [Community Meeting - May 2021](/assets/documents/WaimataCatchmentProjectMeetingMay2021.pdf)
+- [Meeting with Gisborne District Council and DoC - November 2018](/assets/documents/ListeningToTheWaimataRiverNov2018.pdf)
+
+### Funding Applications
+
+- [Waimatā River Restoration Project](/assets/documents/WaimataRiverRestorationProject.pdf) (Supporting document)
 
 
 ## Waimatā River
