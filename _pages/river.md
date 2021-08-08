@@ -14,7 +14,7 @@ header:
 
 ### Facebook Page
 
-- [Waimatā Catchment Restoration Project](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
+- [Waimatā Catchment Restoration Project on Facebook](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
 
 ### Research
 
