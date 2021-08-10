@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: posts-home
 entries_layout: grid
 author_profile: true
 classes: wide
