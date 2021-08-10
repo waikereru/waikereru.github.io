@@ -19,7 +19,7 @@
             {% if teaser contains "://" %}
               "{{ teaser }}"
             {% else %}
-              "{{ teaser | relative_url }}"
+              "https://images.weserv.nl/?url={{ teaser | absolute_url }}&w=600&h=400&output=jpg&q=65
             {% endif %}
             alt="">
           </a>
