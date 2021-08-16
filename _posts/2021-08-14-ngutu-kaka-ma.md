@@ -8,7 +8,7 @@ categories:
   - News
 ---
 
-The marvellous gift of 20 ngutu kākā mā - rare white kākā beak plants - from Ngāti Kohatu and Ngāti Hinehika, and artist Raewyn Atkinson is now in its full glory.  
+The marvellous gift of 20 ngutu kākā mā - rare white kākā beak plants - from Ngāi Kohatu and Ngāti Hinehika, and artist Raewyn Atkinson is now in its full glory.  
 
 The plants struggled for a couple of years, and had to be carefully protected from hares and rabbits with large chicken wire cages, but they've flourished this winter and are now covered with flowers.
 
