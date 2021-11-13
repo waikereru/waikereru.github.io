@@ -8,7 +8,7 @@ categories:
   - News
 ---
 
-After some torrential rainfall (two months of rain in 36 hours), the waterfall is pumping!
+After some [torrential rainfall](https://www.rnz.co.nz/news/national/454980/gisborne-flooding-rain-eases-leaving-damaged-roads-some-families-evacuated) (two months of rain in 36 hours), the North stream waterfall is pumping!
 
 {% include video id="1gSn1XJjnQM" provider="youtube" %}
 
