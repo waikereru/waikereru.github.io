@@ -128,3 +128,5 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 ## Get in touch
 
 If you're interested in *Waikereru Wild Lab Tiaki Taiao*, you can get in touch at [info@waikereru.org](mailto:info@waikereru.org) - we'd love to hear from you!
+
+Many thanks to Shaun Akroyd (Ngāti Porou, Ngati Maru/Rongowhakaata) for his highly supportive and meticulous [independent review of the Wild Lab Tiaki Taiao programme at Waikereru](/assets/documents/WildLabTiakiTaiao_Evaluation_Report_ARE_December2021.pdf).
