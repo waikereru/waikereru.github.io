@@ -39,6 +39,7 @@ header:
 
 ### Funding Applications
 
+- [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
 - [Waimatā River Restoration Project](/assets/documents/WaimataRiverRestorationProject.pdf) (Supporting document)
 
 
