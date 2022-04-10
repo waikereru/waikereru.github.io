@@ -8,11 +8,7 @@ categories:
   - News
 ---
 
-For the first time in 20 years, both the Waitui and Waikereru stream culverts were completely blocked with wood, rocks and silt. 
-
-{% include video id="G8Te5ZMM6VI" provider="youtube" %}
-
-A huge family effort got them cleared - here's Tim up the pipe, cleaning the last blockage on the Waitui stream
+For the first time in 20 years, both the Waitui and Waikereru stream culverts were completely blocked with wood, rocks and silt.  A huge family effort got them cleared - here's Tim up the pipe, cleaning the last blockage on the Waitui stream
 
 {% include figure image_path="/assets/images/news/tim-pipeline.jpg" %}
 
