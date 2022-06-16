@@ -1,5 +1,5 @@
 ---
-title: "Wetland Plantings"
+title: "Wetland Plantings Underway!"
 layout: single
 classes: wide
 header:
