@@ -10,6 +10,25 @@ header:
 
 ---
 
+
+
+## Saving the ‘Oi – An Amazing Seabird Workshop
+
+**The Big IDEAS**
+
+- A workshop to see the world from the Oi’s (titi, muttonbird) perspective and explore the challenges of restoring this amazing seabird.
+- To make a personal connection to prime for behaviour change
+- To promote awareness of local nature, ecology and heritage
+- To increase awareness of and connection to the natural world
+- To encourage a positive future ecologically
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" class="btn btn--primary" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/wildlabtiakitaiao/saving-the-oi-workshop?primary_color=ff0303&hide_gdpr_banner=1'});return false;">Book Now</a>
+<!-- Calendly link widget end -->
+
+
 ## Workshops
 
 {% capture workshop-oi-content %}
@@ -33,23 +52,6 @@ The Big IDEAS
 <div class="notice--primary">
   {{ workshop-oi-content | markdownify }}
 </div>
-
-
-## Saving the ‘Oi – An Amazing Seabird Workshop
-
-**The Big IDEAS**
-
-- A workshop to see the world from the Oi’s (titi, muttonbird) perspective and explore the challenges of restoring this amazing seabird.
-- To make a personal connection to prime for behaviour change
-- To promote awareness of local nature, ecology and heritage
-- To increase awareness of and connection to the natural world
-- To encourage a positive future ecologically
-
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" class="btn btn--primary" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/wildlabtiakitaiao/saving-the-oi-workshop?primary_color=ff0303&hide_gdpr_banner=1'});return false;">Book Now</a>
-<!-- Calendly link widget end -->
 
 
 ## Inline Booking
