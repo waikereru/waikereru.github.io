@@ -19,5 +19,5 @@ header:
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/wildlabtiakitaiao/saving-the-oi-workshop', text: 'Book a Session', color: '#fb0303', textColor: '#ffffff', branding: false }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/wildlabtiakitaiao?primary_color=ff0303', text: 'Make a Booking', color: '#ff0303', textColor: '#ffffff', branding: false }); }</script>
 <!-- Calendly badge widget end -->
