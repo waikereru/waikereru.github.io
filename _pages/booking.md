@@ -44,10 +44,8 @@ Explores the impact and management of introduced mammalian predators in Tairāwh
 
 ## 1769 Garden – Our Shared History through Flora & Fauna
 
-Explores the impact and management of introduced mammalian predators in Tairāwhiti and across Aotearoa.
-
 **The Big IDEAS**
-- To study flora/fauna from a micro level (from the moth's perspective) and understand the Flora and Fauna's place in the eco system.
+- To study flora/fauna from a micro level (from the moth's perspective) and understand the Flora and Fauna's place in the ecosystem.
 - To make a personal connection to prime for behaviour change
 - To promote awareness of local nature, ecology and heritage
 - To increase awareness of and connection to the natural world
