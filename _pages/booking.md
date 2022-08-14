@@ -30,14 +30,14 @@ The Big IDEAS
 
 {% endcapture %}
 
-<div class="notice">
+<div class="notice--primary">
   {{ workshop-oi-content | markdownify }}
 </div>
 
 
 ## Saving the ‘Oi – An Amazing Seabird Workshop
 
-** The Big IDEAS **
+**The Big IDEAS**
 
 - A workshop to see the world from the Oi’s (titi, muttonbird) perspective and explore the challenges of restoring this amazing seabird.
 - To make a personal connection to prime for behaviour change
