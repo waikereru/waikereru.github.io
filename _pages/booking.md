@@ -63,5 +63,5 @@ Explores the impact and management of introduced mammalian predators in Tairāwh
 
 
 <!-- Calendly badge widget begin -->
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/wildlabtiakitaiao?hide_landing_page_details=1&hide_gdpr_banner=1&primary_color=ff0303', text: 'Make a Booking', color: '#ff0303', textColor: '#ffffff', branding: false }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/wildlabtiakitaiao?hide_landing_page_details=1&hide_gdpr_banner=1&primary_color=ff0303', text: 'Book a Workshop', color: '#ff0303', textColor: '#ffffff', branding: false }); }</script>
 <!-- Calendly badge widget end -->
