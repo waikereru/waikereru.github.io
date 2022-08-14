@@ -10,6 +10,21 @@ header:
 
 ---
 
+
+## Saving the ‘Oi
+
+<div class="notice">
+  Saving the ‘Oi – An Amazing Seabird Workshop
+
+  <!-- Calendly link widget begin -->
+  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+  <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+  <a href="" class="btn btn--primary" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/wildlabtiakitaiao/saving-the-oi-workshop?primary_color=ff0303'});return false;">Make a Booking</a>
+  <!-- Calendly link widget end -->
+</div>
+
+## Inline Booking
+
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/wildlabtiakitaiao?hide_landing_page_details=1&primary_color=fb0303" style="min-width:320px;height:2000px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
