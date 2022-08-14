@@ -26,7 +26,7 @@ A workshop to see the world from the Oi’s (titi, muttonbird) perspective and e
 - To increase awareness of and connection to the natural world
 - To encourage a positive future ecologically
 
-<a href="" class="btn btn--primary" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/wildlabtiakitaiao/saving-the-oi-workshop?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=ff0303'});return false;">Request a Booking</a>
+<a href="" class="btn btn--primary" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/wildlabtiakitaiao/saving-the-oi-workshop?hide_gdpr_banner=1&primary_color=ff0303'});return false;">Request a Booking</a>
 
 
 ## Pesky Predators - Stop the Stoat
@@ -39,7 +39,7 @@ Explores the impact and management of introduced mammalian predators in Tairāwh
 - To increase awareness of and connection to the natural world
 - To encourage a positive future ecologically
 
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/wildlabtiakitaiao/pesky-predators?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=ff0303'});return false;">Request a Booking</a>
+<a href="" class="btn btn--primary" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/wildlabtiakitaiao/pesky-predators?hide_gdpr_banner=1&primary_color=ff0303'});return false;">Request a Booking</a>
 
 
 ## 1769 Garden – Our Shared History through Flora & Fauna
@@ -51,7 +51,7 @@ Explores the impact and management of introduced mammalian predators in Tairāwh
 - To increase awareness of and connection to the natural world
 - To encourage a positive future ecologically
 
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/wildlabtiakitaiao/wltt-workshop-1769?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=ff0303'});return false;">Request a Booking</a>
+<a href="" class="btn btn--primary" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/wildlabtiakitaiao/wltt-workshop-1769?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=ff0303'});return false;">Request a Booking</a>
 
 
 # Inline Booking Widget Test
