@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /booking/
-title: Booking Test Page
+title: Workshop Booking Test Page
 tagline: Booking a vist.
 author_profile: true
 classes: wide
@@ -13,8 +13,6 @@ header:
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 
-
-# Workshops
 
 ## Saving the ‘Oi – An Amazing Seabird
 
