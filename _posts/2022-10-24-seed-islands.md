@@ -1,5 +1,5 @@
 ---
-title: "Seed Islands: racing ahead"
+title: "Seed Islands racing ahead"
 layout: single
 classes: wide
 header:
