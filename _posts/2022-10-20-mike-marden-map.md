@@ -12,4 +12,4 @@ It's fascinating to see the landforms at Waikereru through the eyes of an expert
 
 Here's a map drawn by Dr. Mike Marden of Landcare Research to inform our 'seed islands' project funded by Lotteries - using 'seed islands' of native trees planted among mānuka-kānuka shrublands to speed up the regeneration of biodiverse native forest.
 
-{% include figure image_path="/assets/images/news/mike-marden-map" %}
+{% include figure image_path="/assets/images/news/mike-marden-map.jpg" %}
