@@ -15,7 +15,8 @@ Waikereru is mourning the loss of founder Jeremy Salmond, who has contributed so
 He has been laid to rest beneath a tree at Waikereru, looking out at Motukeo, and watching over his favourite place.
 
 A recording of Jeremy's funeral service at St Matthews in the City, Auckland is available here:
-[Jeremy Salmond QSO FNZIA - Funeral Service](https://rowleyfunerals.co.nz/funerals/?funeral=5nMDI)
+
+- [Jeremy Salmond QSO FNZIA - Funeral Service](https://rowleyfunerals.co.nz/funerals/?funeral=5nMDI)
 
 {% include video id="299541771" provider="vimeo" %}
 
