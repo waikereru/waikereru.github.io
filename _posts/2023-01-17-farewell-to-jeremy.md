@@ -14,6 +14,8 @@ Waikereru is mourning the loss of its founder Jeremy Salmond, who has contribute
 
 He has been laid to rest beneath a tree at Waikereru, looking out at Motukeo, and watching over his favourite place.
 
+{% include video id="J4WUk8ilI8w" provider="youtube" %}
+
 {% include video id="299541771" provider="vimeo" %}
 
 - [Jeremy Salmond QSO FNZIA - Funeral Service](https://rowleyfunerals.co.nz/funerals/?funeral=5nMDI)
