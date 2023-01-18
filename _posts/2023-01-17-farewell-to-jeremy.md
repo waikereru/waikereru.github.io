@@ -10,7 +10,7 @@ categories:
 
 A very sad start to 2023.
 
-Waikereru is mourning the loss of founder Jeremy Salmond, who has contributed so much to the Ecosanctuary - toil, sweat, tears, its quality of design and endless jokes and laughter.
+Waikereru is mourning the loss of its founder Jeremy Salmond, who has contributed so much to the Ecosanctuary - blood, toil, tears and sweat, fine design and endless jokes and laughter.
 
 He has been laid to rest beneath a tree at Waikereru, looking out at Motukeo, and watching over his favourite place.
 
