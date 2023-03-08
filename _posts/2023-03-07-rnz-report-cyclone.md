@@ -3,7 +3,7 @@ title: "RNZ report: Matthew Rosenberg in Gisborne"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/rnz-report-cyclone.jpg
+  teaser: /assets/images/news/rnz-around-the-motu.jpg
 categories:
   - News
 ---
@@ -11,7 +11,7 @@ categories:
 Listen to this [RNZ report from Matthew Rosenberg](https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018880739/around-the-motu-matthew-rosenberg-in-gisborne) on the current state of affairs at home in Tūranga - and so awesome to hear him talking about the impact of the cyclone on the Wild Lab Tiaki Taiao, with our waiting list of a year, fabulous stoat costume and kids dying to get back.
 
 <figure>
-    <a href="https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018880739/around-the-motu-matthew-rosenberg-in-gisborne"><img src="/assets/images/news/rnz-report-cyclone.jpg"></a>
+    <a href="https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018880739/around-the-motu-matthew-rosenberg-in-gisborne"><img src="/assets/images/news/rnz-around-the-motu.jpg"></a>
 </figure>
 
 [Around the motu: Matthew Rosenberg in Gisborne](https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018880739/around-the-motu-matthew-rosenberg-in-gisborne) (RNZ)
