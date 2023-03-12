@@ -18,6 +18,7 @@ He has been laid to rest beneath a tree at Waikereru, looking out at Motukeo, an
 
 {% include video id="299541771" provider="vimeo" %}
 
+- [Tribute to Jeremy Salmond - The University of Auckland](https://www.auckland.ac.nz/en/news/2023/03/01/jeremy-salmond-obituary.html)
 - [Jeremy Salmond QSO FNZIA - Funeral Service](https://rowleyfunerals.co.nz/funerals/?funeral=5nMDI)
 - [Renowned heritage architect Jeremy Salmond dies at 79](https://www.nzherald.co.nz/nz/renowned-heritage-architect-jeremy-salmond-dies-at-79/22YZJ3ZNDNFL5GSFHLVWLGMN6A/) *(NZ Herald)*
 - [Jeremy Salmond Obituary](https://notices.nzherald.co.nz/nz/obituaries/nzherald-nz/name/jeremy-salmond-obituary?pid=203575045) *(NZ Herald)*
