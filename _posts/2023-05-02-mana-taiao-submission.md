@@ -12,8 +12,4 @@ categories:
 
 - [Call to end clear-fell harvesting on erosion-prone land](https://www.gisborneherald.co.nz/news/call-to-end-clear-fell-harvesting-on-erosion-prone-land) (Gisborne Herald)
 
-{% include figure image_path="/assets/images/news/20230228_095036.jpg" %}
-{% include figure image_path="/assets/images/news/20230228_095007.jpg" %}
-{% include figure image_path="/assets/images/news/20230228_075824.jpg" %}
-{% include figure image_path="/assets/images/news/CycloneGabrielleRiversideRoadMunted.jpg" %}
 {% include figure image_path="/assets/images/news/CycloneGabrielleWaimataRiverSlash04.jpg" %}
