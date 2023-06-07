@@ -12,8 +12,6 @@ It would be fascinating to know how much carbon is stored in our trees at Waiker
 
 [How much carbon is stored in Kew's trees?](https://www.kew.org/read-and-watch/kew-carbon-trees-draw-down)
 
-From the [article](https://www.kew.org/read-and-watch/kew-carbon-trees-draw-down):
-
 > Based on data gathered from UK Forest Research (Waring et al. 2020), in temperate forests in the UK approximately
 >
 > - 17% of the total carbon is stored in tree above-ground tissues,
