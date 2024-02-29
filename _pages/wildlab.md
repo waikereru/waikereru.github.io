@@ -38,7 +38,7 @@ Our educational aims are for participants to:
 
 {% include figure image_path="/assets/images/wildlab/image007.jpg" caption="Presenting a design challenge" %}
 
-Wild Lab Tiaki Taiao is based at the award-winning Welcome Shelter in the Waikereru, a haven for rare, endangered species of native birds, plants and animals on the East Coast of NZ.  
+Wild Lab Tiaki Taiao is based at the award-winning Welcome Shelter in Waikereru, a haven for rare, endangered species of native birds, plants and animals on the East Coast of NZ.  
 
 ## Workshops
 

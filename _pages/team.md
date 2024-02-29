@@ -30,13 +30,13 @@ The Trustees of the Longbush Ecological Trust are all long-standing contributors
 Each trustee is responsible for one aspect of the overall project:
 
 - **Dame Anne** is the sponsor for [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), which aims to extend Longbush Reserve along the banks of the Waimatā River.
-- **Jeremy Salmond** is the Chief Designer for the Waikereru.
+- **Jeremy Salmond** is the Chief Designer for Waikereru.
 - **Steve Sawyer** is the sponsor for the [Titi Colony](/assets/documents/LongbushTitiColony.pdf) and the **Kiwi Haven** in the Longbush Ecosanctuary.
 - **Tim Salmond** is the sponsor for Walk Longbush, creating a network of tracks through the bush.
 - **Jennie Harre-Hindmarsh** is the sponsor for the Wild Lab Tiaki Taiao educational programme for local children.
 - **Lois Easton** is the sponsor for the Waimatā River and wetland restoration projects
 - **Graeme Atkins** is the sponsor for the 1769 Garden and mātauranga about indigenous species at Waikereru.
-- **Steve Salmond** is Webmaster and IT advisor for the Waikereru.
+- **Steve Salmond** is Webmaster and IT advisor for Waikereru.
 
 
 ## Our ecological experts

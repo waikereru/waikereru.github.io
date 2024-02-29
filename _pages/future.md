@@ -16,7 +16,7 @@ Waikereru has many advantages for long-term ecological restoration. The riversid
 
 The corridors for wildlife are already in place, with good seed stocks and established populations of many species of native birds in the Ecosanctuary and the PMA across the river. Three creeks run from the ridgelines across the flats to the Waimatā River, providing a variety of habitats.
 
-The Waikereru is close to Gisborne City, an ideal site for educational programmes. 
+Waikereru is close to Gisborne City, an ideal site for educational programmes. 
 
 The **[Longbush Ecological Trust](/team/)**, which is responsible for the restoration of both Longbush Reserve and Waikereru, has been set up to manage and restore the covenanted areas. A [Management Plan](/assets/documents/LongbushAndWaikereruManagementPlan.pdf) has been produced outlining future opportunities for the conservation of Longbush Reserve and Waikereru.
 
