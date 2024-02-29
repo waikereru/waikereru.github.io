@@ -11,15 +11,15 @@ Welcome to **Waikereru** - an Ark in the Bush. Waikereru is a haven for rare and
 
 From high hill ridges to the west, three streams tumble down steep valleys and across a plain, entering the Waimatā River to the east. A rare surviving strip of lowland bush (Longbush Reserve) runs beside the Waimatā River. The bush is alive with the sound of birds, including tui, bellbirds, fantails, kingfishers, tomtits, whiteheads and many kereru or native pigeons. 
 
-Waikereru is a hub for ecological innovation. Its visionary projects include 
-- the Wild Lab Tiaki Taiao wilderness programme for local children; 
-- the Tuia 1769 Garden, featuring rare and endangered plants from Tairāwhiti; 
-- the Seed Island project to speed up the restoration of biodiverse natural forest in highly erodible hill country.
+Waikereru is a hub for ecological innovation. Its visionary projects include:
+- The **Wild Lab Tiaki Taiao** wilderness programme for local children
+- The **Tuia 1769 Garden**, featuring rare and endangered plants from Tairāwhiti
+- The **Seed Island project** to speed up the restoration of biodiverse natural forest in highly erodible hill country.
 
-It also helped to inspire
-- the Waimatā River restoration project & 
-- the 'Let the River Speak' Marsden research programme (see Waimatā River button); and
-- 'Recloaking Papatūanuku,' a project to restore 2 million ha of indigenous forest across Aotearoa New Zealand.
+It also helped to inspire:
+- The **Waimatā River restoration project**
+- The **'Let the River Speak' Marsden research programme** (see Waimatā River button)
+- **'Recloaking Papatūanuku'**, a project to restore 2 million ha of indigenous forest across Aotearoa New Zealand.
 
 
 ## Nau mai, haere mai!
