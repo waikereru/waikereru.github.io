@@ -87,7 +87,7 @@ Groves of berry-bearing trees (titoki, karaka, pūriri and taraire) and the [Ren
 {% include figure image_path="/assets/images/history/janine-te-reo.jpg" caption="Janine Te Reo, kai-tiaki, Orchiston Pā Harakeke" %}
 
 
-## Stage three - The Waikereru
+## Stage three - Waikereru
 
 In 2005, Longbush Reserve was recognised as a **Priority 1 RAP** (recommended area for protection) by the Department of Conservation.
 
@@ -103,7 +103,7 @@ Medium-term initiatives include [Make Longbush Longer](/assets/documents/MakeLon
 
 {% include figure image_path="/assets/images/river/river-source-preview.jpg" caption="Photo by Malcolm Rutherford" %}
 
-In 2010 the Waikereru was established. The sheep that grazed the hills were removed, and a programme of intensive pest and weed control, planting in the foothills and natural regeneration in the valleys is well under way.
+In 2010 Waikereru was established. The sheep that grazed the hills were removed, and a programme of intensive pest and weed control, planting in the foothills and natural regeneration in the valleys is well under way.
 
 This is by far the most ambitious phase of the project to date, aiming to restore 100 hectares of hill country as a haven for locally extinct indigenous species of birds, plants and animals, including brown kiwi, weka, robin, tomtit, kākāriki, kākā, rifleman, East Coast kaka beak and broom, forest and green gecko.
 
@@ -126,6 +126,6 @@ In 2019, the Wild Lab Tiaki Taiao educational programme for local kids will get 
 
 {% include figure image_path="/assets/images/history/april-2018-from-eastern-hills.jpg" caption="View from the eastern hills, April 2018: Malcolm Rutherford" %}
 
-In 2017 the trustees met to discuss a [10 year plan](/assets/documents/TenYearPlan2017To2027Minutes.pdf) to guide the future development of the Waikereru.
+In 2017 the trustees met to discuss a [10 year plan](/assets/documents/TenYearPlan2017To2027Minutes.pdf) to guide the future development of Waikereru.
 
 [Ten year plan for Waikereru: 2017-2027](/assets/documents/TenYearPlan2017To2027.pdf)
