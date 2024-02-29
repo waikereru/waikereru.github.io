@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "waikereru" # "default", "air", "aqua", "contrast", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Waikereru Ecosanctuary"
+title                    : "Waikereru"
 title_separator          : "-"
 logo                     : "/assets/images/logo_red_masthead.png"
-name                     : "Waikereru Ecosanctuary"
+name                     : "Waikereru"
 description              : "A haven for native birds, plants and animals."
 url                      : https://www.waikereru.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Waikereru Ecosanctuary"
+  name             : "Waikereru"
   avatar           : "/assets/images/logo.png"
   bio              : "A haven for native birds, plants and animals."
   location         : "Gisborne, New Zealand"

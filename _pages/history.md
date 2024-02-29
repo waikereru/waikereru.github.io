@@ -12,7 +12,7 @@ header:
 
 ## The Land
 
-Waikereru Ecosanctuary is encircled by a ring of steep hills, with Motukeo to the east – a sacred mountain for local iwi, a fishing mark out at sea and a leaping off place for spirits, and Te Ai ā Te Kurī to the west. 
+Waikereru is encircled by a ring of steep hills, with Motukeo to the east – a sacred mountain for local iwi, a fishing mark out at sea and a leaping off place for spirits, and Te Ai ā Te Kurī to the west. 
 
 {% include figure image_path="/assets/images/history/motukeo-dawn.jpg" caption="Motukeo at dawn" %}
 
@@ -87,23 +87,23 @@ Groves of berry-bearing trees (titoki, karaka, pūriri and taraire) and the [Ren
 {% include figure image_path="/assets/images/history/janine-te-reo.jpg" caption="Janine Te Reo, kai-tiaki, Orchiston Pā Harakeke" %}
 
 
-## Stage three - The Waikereru Ecosanctuary
+## Stage three - The Waikereru
 
 In 2005, Longbush Reserve was recognised as a **Priority 1 RAP** (recommended area for protection) by the Department of Conservation.
 
-Waikereru Ecosanctuary has many advantages for long-term ecological restoration. It is close to Gisborne City, an ideal site for educational programmes.
+Waikereru has many advantages for long-term ecological restoration. It is close to Gisborne City, an ideal site for educational programmes.
 
 The riverside bush and the hill area are protected by QEII covenants, with several other large QEII covenanted blocks across the western ridge.
 
 The corridors for wildlife are already in place, with good seed stocks and established populations of many species of native birds in the Ecosanctuary and the PMA across the river. Three creeks run from the ridgelines across the flats to the Waimatā River, providing a variety of habitats.
 
-In 2009 the **[Longbush Ecological Trust](/team/)**, which is responsible for the restoration of both Longbush Reserve and Waikereru Ecosanctuary, was set up to restore the covenanted areas. A [Management Plan](/assets/documents/LongbushAndWaikereruManagementPlan.pdf) was produced outlining future opportunities for the conservation of Longbush Reserve and Waikereru Ecosanctuary.
+In 2009 the **[Longbush Ecological Trust](/team/)**, which is responsible for the restoration of both Longbush Reserve and Waikereru, was set up to restore the covenanted areas. A [Management Plan](/assets/documents/LongbushAndWaikereruManagementPlan.pdf) was produced outlining future opportunities for the conservation of Longbush Reserve and Waikereru.
 
 Medium-term initiatives include [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), a community project to restore bush to the banks of the Waimatā River; and Friends of the Waimatā, a community network which aims to restore the waters feeding the Waimatā to their original state, with clear, slow-flowing streams and ponds, full of life and indigenous freshwater species.
 
 {% include figure image_path="/assets/images/river/river-source-preview.jpg" caption="Photo by Malcolm Rutherford" %}
 
-In 2010 the Waikereru Ecosanctuary was established. The sheep that grazed the hills were removed, and a programme of intensive pest and weed control, planting in the foothills and natural regeneration in the valleys is well under way.
+In 2010 the Waikereru was established. The sheep that grazed the hills were removed, and a programme of intensive pest and weed control, planting in the foothills and natural regeneration in the valleys is well under way.
 
 This is by far the most ambitious phase of the project to date, aiming to restore 100 hectares of hill country as a haven for locally extinct indigenous species of birds, plants and animals, including brown kiwi, weka, robin, tomtit, kākāriki, kākā, rifleman, East Coast kaka beak and broom, forest and green gecko.
 
@@ -122,10 +122,10 @@ A predator-free fence in the Waikereru hills for Eastern brown kiwi, kākāriki,
 In 2019, the Wild Lab Tiaki Taiao educational programme for local kids will get under way, after a series of trial workshops. Key events since 2012 are covered in the ‘News’ section of the website.
 
 
-## A ten year plan for Waikereru Ecosanctuary
+## A ten year plan for Waikereru
 
 {% include figure image_path="/assets/images/history/april-2018-from-eastern-hills.jpg" caption="View from the eastern hills, April 2018: Malcolm Rutherford" %}
 
-In 2017 the trustees met to discuss a [10 year plan](/assets/documents/TenYearPlan2017To2027Minutes.pdf) to guide the future development of the Waikereru Ecosanctuary.
+In 2017 the trustees met to discuss a [10 year plan](/assets/documents/TenYearPlan2017To2027Minutes.pdf) to guide the future development of the Waikereru.
 
-[Ten year plan for Waikereru Ecosanctuary: 2017-2027](/assets/documents/TenYearPlan2017To2027.pdf)
+[Ten year plan for Waikereru: 2017-2027](/assets/documents/TenYearPlan2017To2027.pdf)
