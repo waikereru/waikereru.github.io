@@ -8,7 +8,7 @@ categories:
   - News
 ---
 
-Great news - our founder Jeremy Salmond has been awarded the NZIA Gold Medal, and the citation includes his design work at Waikereru Ecosanctuary.
+Great news - our founder Jeremy Salmond has been awarded the NZIA Gold Medal, and the citation includes his design work at Waikereru.
 
 Check out this lovely short documentary:
 {% include video id="299541771" provider="vimeo" %}

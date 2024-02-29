@@ -7,9 +7,11 @@ header:
   image: /assets/images/splash/splash_home.jpg
 ---
 
-Welcome to the **Waikereru Ecosanctuary** - an Ark in the Bush. The Ecosanctuary is a haven for rare and endangered species of native birds, plants and animals. It is reached by a winding gravel road up an inland valley, just 9 kilometres from Gisborne city on the Tai Rawhiti / East Coast of New Zealand.
+Welcome to **Waikereru** - an Ark in the Bush. Waikereru is a haven for rare and endangered species of indigenous birds, plants and animals. It is reached by a winding gravel road up an inland valley, just 9 kilometres from Gisborne city on the Tai Rawhiti / East Coast of New Zealand.
 
-From high hill ridges to the west, three streams tumble down steep valleys and across a plain, entering the Waimatā River to the east. A rare surviving strip of lowland bush (Longbush Reserve) runs beside the Waimatā River. The bush is alive with the sound of birds, including tui, bellbirds, fantails, kingfishers, whiteheads and many kereru or native pigeons.
+From high hill ridges to the west, three streams tumble down steep valleys and across a plain, entering the Waimatā River to the east. A rare surviving strip of lowland bush (Longbush Reserve) runs beside the Waimatā River. The bush is alive with the sound of birds, including tui, bellbirds, fantails, kingfishers, tomtits, whiteheads and many kereru or native pigeons. 
+
+Waikereru is a hub for ecological innovation, with the Wild Lab Tiaki Taiao programme for local children; the Tuia 1769 Garden, featuring rare and endangered plants from the Tairāwhiti region; and the Seed Island project, aimed at speeding up the restoration of biodiverse natural forest.  It served as a catalyst for the Waimatā River restoration project and the 'Let the River Speak' Marsden research programme.
 
 ## Nau mai, haere mai!
 
@@ -18,7 +20,7 @@ From high hill ridges to the west, three streams tumble down steep valleys and a
 
 Waikereru is on land owned by Dame Anne and Jeremy Salmond.  ***Longbush Reserve*** is open to the public – access is on the right, opposite 910 Riverside Road.
 
-***Waikereru Ecosanctuary*** (including the *Welcome Shelter* and *1769 Garden*) can be [visited by arrangement](mailto:info@waikereru.org) – please contact us at [info@waikereru.org](mailto:info@waikereru.org). Access is on the left, at 846 Riverside Road.
+***Waikereru*** (including the *Welcome Shelter* and *1769 Garden*) can be [visited by arrangement](mailto:info@waikereru.org) – please contact us at [info@waikereru.org](mailto:info@waikereru.org). Access is on the left, at 846 Riverside Road.
 
 We treat the Ecosanctuary like a marae – visitors are very welcome, but the trustees need to know you’re coming! The Waikereru Hills are actively managed, with trapping and shooting. For health and safety reasons, access is by specific arrangement only.
 

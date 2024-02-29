@@ -124,7 +124,7 @@ Background research on their Tairāwhiti collections was carried out by Ewen Cam
 
 <a id="kiekie"></a>**Kiekie** (*Freycinetia banksii*) in the 1769 garden is a valued weaving material used for kete (kits), whāriki (fine mats) and tukutuku (woven wall) panels. The fruit of Kiekie is also delicious . For more information on Māori uses of the plant [click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=kiekie&FromSearch=true).
 
-<a id="northern-rātā"></a>**Northern Rātā** (*Metrosiderous robusta*) - This Northern Rātā will give shelter to those in the Welcome Shelter, and marks the entrance to the rest of Waikereru Ecosanctuary.  In Māori, people of influence are compared to a sheltering rātā tree (Rātā whakaruruhau).  
+<a id="northern-rātā"></a>**Northern Rātā** (*Metrosiderous robusta*) - This Northern Rātā will give shelter to those in the Welcome Shelter, and marks the entrance to the rest of Waikereru.  In Māori, people of influence are compared to a sheltering rātā tree (Rātā whakaruruhau).  
 
 <a id="kāretu"></a>**Kāretu** - Holy grass (*Hierochloe redolens*) - This grass grows on either side of the bridge as you enter the garden. Found throughout New Zealand, it was collected on Banks and Solander on their first day ashore.  Kāretu is used for weaving necklaces and anklets which were worn as perfumed decorations. It does not smell much when first picked, but the fresh grassy smell intensifies over the following months. For more information on Māori uses of the plant [click here](https://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?Direction=previous&theSearchString=karetu&FromSearch=true).
 
