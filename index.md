@@ -14,11 +14,11 @@ From high hill ridges to the west, three streams tumble down steep valleys and a
 Waikereru is a hub for ecological innovation. Its visionary projects include:
 - The **Wild Lab Tiaki Taiao** wilderness programme for local children
 - The **Tuia 1769 Garden**, featuring rare and endangered plants from Tairāwhiti
-- The **Seed Island project** to speed up the restoration of biodiverse natural forest in highly erodible hill country.
+- The **Seed Island project** to speed up the restoration of biodiverse natural forest in erodible hill country.
 
 It also helped to inspire:
-- The **Waimatā River restoration project**
-- The **'Let the River Speak' Marsden research programme** (see Waimatā River button)
+- The **Waimatā River restoration** project
+- The **'Let the River Speak' Marsden research programme** (see [Waimatā River](/river/))
 - **'Recloaking Papatūanuku'**, a project to restore 2 million ha of indigenous forest across Aotearoa New Zealand.
 
 
