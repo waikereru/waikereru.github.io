@@ -10,39 +10,6 @@ header:
 
 ---
 
-## Waimatā River Resources
-
-### Facebook Page
-
-- [Waimatā Catchment Restoration Project on Facebook](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
-
-### Research
-
-- [Research Report 1](/assets/documents/WaimataReport1.pdf) (Landscapes and Rivers of the Waimatā)
-- [Research Report 2](/assets/documents/WaimataReport2.pdf) (Native Land Court Records of Blocks on the Waimatā)
-- [Research Report 3](/assets/documents/WaimataReport3.pdf) (Settler History post 1880)
-- [Research Report 4](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Biodiversity in the Waimatā)
-- [Research Report 5](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (A Place Belonging to the Heart)
-- [Rivers, residents, and restoration: Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/CairnsEtAlAugust2021.pdf) - Danielle Cairns, Gary Brierley, and Gretel Boswijk
-- [Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand](/assets/documents/HarveyEtAlAugust2021.pdf) - Harvey, Brierley, Easton, Watson, Tunnicliffe
-- [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
-- [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
-- [Let the Rivers Speak - Thinking about waterways in Aotearoa New Zealand](/assets/documents/2019_08_LetTheRiversSpeak.pdf) - Anne Salmond, Gary Brierley and Dan Hikuroa
-- [Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area](/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf) - Dr. Brad Coombes
-- [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
-
-### Feedback from Meetings
-
-- [Community Meeting - July 2021](/assets/documents/WaimataCatchmentProjectMeetingJuly2021.pdf) 
-- [Community Meeting - May 2021](/assets/documents/WaimataCatchmentProjectMeetingMay2021.pdf)
-- [Meeting with Gisborne District Council and DoC - November 2018](/assets/documents/ListeningToTheWaimataRiverNov2018.pdf)
-
-### Funding Applications
-
-- [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
-- [Waimatā River Restoration Project](/assets/documents/WaimataRiverRestorationProject.pdf) (Supporting document)
-
-
 ## Waimatā River
 
 The waters of the Waimatā run past the places where our shared history began. Fed by springs and streams, its headwaters rise in the hills north-east of Gisborne and run down to the city, with its harbour and port.
@@ -107,3 +74,56 @@ In July 2020, after another workshop was held at the Waimatā River Valley Hall,
 The Waimatā River restoration project is now in full swing, supported by a $500,000 grant from the Erosion Control funding.  This pilot project is funding fencing and planting on 7 properties, and farm environment plans for all farms in the catchment.
 
 Waimatā Catchment Restoration Inc. now has its own [Facebook page](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/), where you can keep in touch with the project as it progresses.
+
+
+## Waimatā River Resources
+
+### Research Reports
+
+- [Research Report 1](/assets/documents/WaimataReport1.pdf) (Landscapes and Rivers of the Waimatā)
+- [Research Report 2](/assets/documents/WaimataReport2.pdf) (Native Land Court Records of Blocks on the Waimatā)
+- [Research Report 3](/assets/documents/WaimataReport3.pdf) (Settler History post 1880)
+- [Research Report 4](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Biodiversity in the Waimatā)
+- [Research Report 5](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (A Place Belonging to the Heart)
+- [Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area](/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf) - Dr. Brad Coombes
+- [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
+
+### Articles
+
+- 2008: [Last Glacial Aggradation and Postglacial Sediment Production from the Non-Glacial Waipaoa and Waimata Catchments, Hikurangi Margin, North Island, New Zealand](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=PC&vid=64UAUCK_INST:NEWUI&search_scope=UOA_CI&tab=UOA_CI&docid=cdi_openaire_primary_doi_fbcbba3cf34ea67e74f169f110044306) - Marden, Michael et al.
+- 2016: [An Approach for Measuring Confinement and Assessing the Influence of Valley Setting on River Forms and Processes.](https://auckland.primo.exlibrisgroup.com/permalink/64UAUCK_INST/p27258/cdi_proquest_journals_1779605381) - Fryirs, Kirstie A. et al.
+2018: [“Engineering Geomorphological Reconnaissance of the December 2018 Waimata Valley Mud Volcano Eruption, Gisborne, New Zealand.](https://auckland.primo.exlibrisgroup.com/permalink/64UAUCK_INST/p27258/cdi_openaire_primary_doi_ee6bbd15d1c839827c0150042ed1efae) - Leighton, Alex et al.
+- 2019: [Let the Rivers Speak - Thinking about waterways in Aotearoa New Zealand](/assets/documents/2019_08_LetTheRiversSpeak.pdf) - Anne Salmond, Gary Brierley and Dan Hikuroa
+- 2020: [Rivers, residents, and restoration: Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/CairnsEtAlAugust2021.pdf) - Danielle Cairns, Gary Brierley, and Gretel Boswijk
+- 2021: [Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand](/assets/documents/HarveyEtAlAugust2021.pdf) - Harvey, Brierley, Easton, Watson, Tunnicliffe
+- 2022: [Tai Timu, Tai Pari, the Ebb and Flow of the Tides: Working with the Waimatā from the Mountains to the Sea](https://auckland.primo.exlibrisgroup.com/permalink/64UAUCK_INST/p27258/cdi_crossref_primary_10_1080_00288330_2022_2096084) Salmond, Anne et al. 
+- 2023: [Managing at source and at scale: The use of geomorphic river stories to support rehabilitation of Anthropocene riverscapes in the East Coast Region of Aotearoa New Zealand](/assets/documents/fenvs-11-1162099.pdf) - Fuller, I. C. et al.
+
+### Resources
+
+- [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
+- [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
+- [Waimatā Catchment Restoration Project on Facebook](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
+
+### Theses
+
+- 2020: [Engineering geological investigation of a recent mud volcano eruption, Waimata Valley](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265333611402091) - Leighton, Alex
+- 2021: [Integrating Process-Based Assessments of River Sensitivity through River Styles and Semi-Quantitative Sediment Connectivity Modelling to Inform Land Use Management in the Waimatā Catchment, Gisborne, New Zealand ](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265417260902091) - Harvey, Khendra Claire
+- 2021: [Rivers, residents and restoration : Local relations to the Waimatā River, Aotearoa New Zealand](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265417245802091) - Cairns, Danielle
+- 2022: [An exploration of the potential role of storytelling in development of catchment management plans (CMPs)](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265553579002091) - Stevens, Elliot
+- 2023: [Hydrological Responses to Differing Land Cover Scenarios to Better Inform Farm and Catchment Planning Initiatives for the Waimatā River, Gisborne, New Zealand ](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265553570202091) - Burgess, Jazmine
+
+<!-- 
+
+### Feedback from Meetings
+
+- [Community Meeting - July 2021](/assets/documents/WaimataCatchmentProjectMeetingJuly2021.pdf) 
+- [Community Meeting - May 2021](/assets/documents/WaimataCatchmentProjectMeetingMay2021.pdf)
+- [Meeting with Gisborne District Council and DoC - November 2018](/assets/documents/ListeningToTheWaimataRiverNov2018.pdf)
+
+### Funding Applications
+
+- [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
+- [Waimatā River Restoration Project](/assets/documents/WaimataRiverRestorationProject.pdf) (Supporting document) 
+
+-->
