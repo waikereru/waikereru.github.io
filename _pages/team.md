@@ -14,7 +14,7 @@ header:
 
 When Anne and Jeremy Salmond first visited Longbush together in 1970 after a family picnic at Longbush Reserve, they were struck by its beauty.
 
-**[Jeremy Salmond](https://salmondreed.co.nz/about#jeremy-salmond)** is a conservation architect and founding partner of [Salmond Reed Architects](http://salmondreed.co.nz/) in Auckland. He is the author of Old New Zealand Houses 1800-1940 and is a former Chairman of [ICOMOS](http://www.icomos.org.nz/) (International Commission of Monuments and Sites) in New Zealand, and has been awarded the Queen’s Service Order and the NZIA Gold Medal.
+**[Jeremy Salmond](https://salmondreed.co.nz/about#jeremy-salmond)** was a conservation architect and founding partner of [Salmond Reed Architects](http://salmondreed.co.nz/) in Auckland. He was the author of Old New Zealand Houses 1800-1940, a former Chairman of [ICOMOS](http://www.icomos.org.nz/) (International Commission of Monuments and Sites) in New Zealand, and was awarded the Queen’s Service Order and the NZIA Gold Medal.
 
 {% include figure image_path="/assets/images/people/PeopleJeremySalmond.jpg" %}
 
@@ -25,12 +25,12 @@ When Anne and Jeremy Salmond first visited Longbush together in 1970 after a fam
 
 ## The trustees
 
-The Trustees of the Longbush Ecological Trust are all long-standing contributors to Longbush Ecosanctuary. They are: Dame Anne Salmond, Chairperson; Jeremy Salmond, Treasurer; Steve Sawyer; Tim Salmond; Jennie Harre-Hindmarsh; Steve Salmond; Graeme Atkins and Lois Easton.
+The Trustees of the Longbush Ecological Trust are all long-standing contributors to Longbush Ecosanctuary. They are: Dame Anne Salmond, Chairperson; Steve Sawyer; Tim Salmond; Jennie Harre-Hindmarsh; Steve Salmond; Graeme Atkins and Lois Easton.
 
 Each trustee is responsible for one aspect of the overall project:
 
 - **Dame Anne** is the sponsor for [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), which aims to extend Longbush Reserve along the banks of the Waimatā River.
-- **Jeremy Salmond** is the Chief Designer for Waikereru.
+- **Jeremy Salmond** was the Chief Designer for Waikereru.
 - **Steve Sawyer** is the sponsor for the [Titi Colony](/assets/documents/LongbushTitiColony.pdf) and the **Kiwi Haven** in the Longbush Ecosanctuary.
 - **Tim Salmond** is the sponsor for Walk Longbush, creating a network of tracks through the bush.
 - **Jennie Harre-Hindmarsh** is the sponsor for the Wild Lab Tiaki Taiao educational programme for local children.
@@ -49,14 +49,6 @@ At the end of 2002, Anne and Jeremy contacted **[Steve Sawyer](/assets/documents
 
 Steve coordinates the Kiwi Recovery Programme in the Gisborne-East Coast Region. He is an expert in pest and weed control, and native reptile and seabird restoration. He and his Ecoworks NZ team were the first in the world to successfully use acoustic attraction methods to establish breeding grey faced petrel and fluttering shearwater (at Young Nick’s Head), and a breeding colony of gannets.
 
-### Abigail Salmond
-
-Abigail is a senior ecologist, formerly at Auckland Regional Council and Gisborne District Council, who now works for Wildlands Consultancy.
-
-{% include figure image_path="/assets/images/people/PeopleAbigailSalmond.jpg" %}
-
-Abi has initiated the Predator-Free Wainui project, and produced a fine report on the ecology of the Waimatā River catchment. Abigail has a passion for protecting and restoring wetlands, and an expert knowledge of ecological restoration.
-
 ### Malcolm Rutherford
 
 Malcolm is the Queen Elizabeth II Trust representative for Tairāwhiti, and a horticulturalist and ecological restoration specialist who trained at the University of Oxford Botanic Gardens.
@@ -74,17 +66,6 @@ Graeme is a tohunga taiao, an expert in mātauranga taiao (ancestral knowledge r
 {% include figure image_path="/assets/images/people/PeopleGraemeAtkins.jpg" %}
 
 Graeme has an unrivalled knowledge of Tairāwhiti native plants, animals, fish and reptiles. He’s our go-to-man for rare and endangered species of plants for the 1769 Garden, and advisor on mātauranga taiao for Waikereru.
-
-## Head Gardener
-
-### Gavin Boulter
-
-Gavin was brought up in Southland, and trained in horticulture at Cromwell Polytechnic.  He's also worked in orchards, garden centres and landscaping firms. With ​his Dad David, Gavin is a partner in Ataahua Landscapes.  
-
-Gavin looks after the wider landscape at Waikereru, mulching and weeding new plantings, helping to maintain the Orchiston Harakeke collection, the 1769 Garden, the kauri spiral and many of our other specialist plantings, and mowing the grassy areas.​
-
-{% include figure image_path="/assets/images/people/PeopleGavinBoulter.jpg" %}
-
 
 ## Kai tiaki, Rene Orchiston Pā Harakeke
 
