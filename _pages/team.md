@@ -25,7 +25,7 @@ When Anne and Jeremy Salmond first visited Longbush together in 1970 after a fam
 
 ## The trustees
 
-The Trustees of the Longbush Ecological Trust are all long-standing contributors to Longbush Ecosanctuary. They are: Dame Anne Salmond, Chairperson; Steve Sawyer; Tim Salmond; Jennie Harre-Hindmarsh; Steve Salmond; Graeme Atkins and Lois Easton.
+The Trustees of the Longbush Ecological Trust are all long-standing contributors to Longbush Ecosanctuary. They are: Dame Anne Salmond, Chairperson; Jeremy Salmond; Steve Sawyer; Tim Salmond; Jennie Harre-Hindmarsh; Steve Salmond; Graeme Atkins and Lois Easton.
 
 Each trustee is responsible for one aspect of the overall project:
 
