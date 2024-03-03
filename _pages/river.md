@@ -76,6 +76,20 @@ The Waimatā River restoration project is now in full swing, supported by a $500
 Waimatā Catchment Restoration Inc. now has its own [Facebook page](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/), where you can keep in touch with the project as it progresses.
 
 
+## Let the River Speak
+
+***Ko au te awa, ko te awa ko au. Kei te mate te awa, kei te mate ahau.***<br/>
+*I am the river, and the river is me.  If the river is dying, so am I.*
+
+This Marsden research project, led by Principal Investigators Dame Anne Salmond and Dr. Dan Hikuroa at the University of Auckland, builds on New Zealand legislation which, for the first time in the world, recognises a river as having its own life and rights.
+
+In this research, the Waimatā is regarded as a living community of land, water, plants, animals and people. We aim to explore the life of this river community through time, from its beginnings about 1 million years ago to the present, examining its dynamics and working with others to restore it to a state of ora - health, well being and flourishing.
+
+At present, the Waimatā river community faces many challenges, including past land use decisions, climate change and biodiversity losses. In severe rain events, rafts of forestry slash, logs and trees surge down steep, highly erodible hillsides, carving out gullies and choking the river with sediment.  As they are swept down river, the rafts jam on bridges and steep corners, creating dams and mini-tsunamis when the dams burst, destroying river banks, roads, bridges, fences, paddocks, orchards, farm buildings and homes.  During these flood events, sewage and wastewater are released into the Waimatā, making it toxic for freshwater species and people. As slash and sediment are deposited on the bed of the river, it is rising, threatening Gisborne city, which is built on a flood plain. 
+
+In response to these challenges, the *'Let the River Speak'* research team are studying the geology, geomorphology, hydrology, ecology, human history and social life of the Waimatā river, drawing upon mātauranga as well as cutting edge science to understand its dynamics. We aim to work with local people on planning for flood resilience, sustainable land use and the restoration of riparian forests and wetlands in the catchment, so that the Waimatā river community can thrive and flourish.
+
+
 ## Waimatā River Resources
 
 ### Research Reports
