@@ -85,9 +85,17 @@ This Marsden research project, led by Principal Investigators Dame Anne Salmond 
 
 In this research, the Waimatā is regarded as a living community of land, water, plants, animals and people. We aim to explore the life of this river community through time, from its beginnings about 1 million years ago to the present, examining its dynamics and working with others to restore it to a state of ora - health, well being and flourishing.
 
-At present, the Waimatā river community faces many challenges, including past land use decisions, climate change and biodiversity losses. In severe rain events, rafts of forestry slash, logs and trees surge down steep, highly erodible hillsides, carving out gullies and choking the river with sediment.  As they are swept down river, the rafts jam on bridges and steep corners, creating dams and mini-tsunamis when the dams burst, destroying river banks, roads, bridges, fences, paddocks, orchards, farm buildings and homes.  During these flood events, sewage and wastewater are released into the Waimatā, making it toxic for freshwater species and people. As slash and sediment are deposited on the bed of the river, it is rising, threatening Gisborne city, which is built on a flood plain. 
+At present, the Waimatā river community faces many challenges, including past land use decisions, climate change and biodiversity losses. 
 
-In response to these challenges, the *'Let the River Speak'* research team are studying the geology, geomorphology, hydrology, ecology, human history and social life of the Waimatā river, drawing upon mātauranga as well as cutting edge science to understand its dynamics. We aim to work with local people on planning for flood resilience, sustainable land use and the restoration of riparian forests and wetlands in the catchment, so that the Waimatā river community can thrive and flourish.
+The river, which is tightly constrained by its terraces, acts like a chute. In severe rain events, rafts of forestry slash, logs and trees surge down steep, highly erodible hillsides, carving out gullies and choking the river with sediment. 
+
+As they are swept down river, the rafts jam on bridges and steep corners, creating dams and mini-tsunamis when the dams burst, destroying river banks, roads, bridges, fences, paddocks, orchards, farm buildings and homes. 
+
+During these flood events, sewage and wastewater are released into the Waimatā, making it toxic for freshwater species and people. As slash and sediment are deposited on the bed of the river, it is rising, threatening Gisborne city, which is built on a flood plain.
+
+In response to these challenges, the *'Let the River Speak'* research team are studying the geology, geomorphology, hydrology, ecology, human history and social life of the Waimatā river, drawing upon mātauranga as well as cutting edge science to understand its dynamics. We aim to work with local people on planning for flood resilience, sustainable land use and the restoration of riparian forests and wetlands in the catchment, so that the Waimatā river community can flourish and thrive.
+
+- [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
 
 
 ## Waimatā River Resources
@@ -127,17 +135,18 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2022: [An exploration of the potential role of storytelling in development of catchment management plans (CMPs)](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265553579002091) - Stevens, Elliot
 - 2023: [Hydrological Responses to Differing Land Cover Scenarios to Better Inform Farm and Catchment Planning Initiatives for the Waimatā River, Gisborne, New Zealand ](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265553570202091) - Burgess, Jazmine
 
-<!-- 
+### Funding Applications
+
+- [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
+- [Waimatā River Restoration Project](/assets/documents/WaimataRiverRestorationProject.pdf) (Supporting document) 
+
+
+<!--
 
 ### Feedback from Meetings
 
 - [Community Meeting - July 2021](/assets/documents/WaimataCatchmentProjectMeetingJuly2021.pdf) 
 - [Community Meeting - May 2021](/assets/documents/WaimataCatchmentProjectMeetingMay2021.pdf)
 - [Meeting with Gisborne District Council and DoC - November 2018](/assets/documents/ListeningToTheWaimataRiverNov2018.pdf)
-
-### Funding Applications
-
-- [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
-- [Waimatā River Restoration Project](/assets/documents/WaimataRiverRestorationProject.pdf) (Supporting document) 
 
 -->
