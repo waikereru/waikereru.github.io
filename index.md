@@ -19,9 +19,8 @@ Waikereru is a hub for ecological innovation. Its visionary projects include:
 It also helped to inspire:
 - The [**Waimatā River restoration**](/river/#waimatā-catchment-restoration-inc-established) project
 - The [**'Let the River Speak'**](/river/#let-the-river-speak) Marsden research programme
-- [**'Recloaking Papatūanuku'**](https://pureadvantage.org/recloaking-papatuanuku/), a project to restore 2 million ha of indigenous forest across Aotearoa New Zealand.
-
-{% include video id="mvgxmb4sShA" provider="youtube" %}
+- [**'Recloaking Papatūanuku'**](https://pureadvantage.org/recloaking-papatuanuku/), a project to [restore 2 million ha of indigenous forest](https://www.youtube.com/watch?v=mvgxmb4sShA) across Aotearoa New Zealand.
+- 
 
 ## Nau mai, haere mai!
 
