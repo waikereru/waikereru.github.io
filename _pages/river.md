@@ -112,13 +112,13 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 ### Articles
 
-- 2008: [Last Glacial Aggradation and Postglacial Sediment Production from the Non-Glacial Waipaoa and Waimata Catchments, Hikurangi Margin, North Island, New Zealand](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=PC&vid=64UAUCK_INST:NEWUI&search_scope=UOA_CI&tab=UOA_CI&docid=cdi_openaire_primary_doi_fbcbba3cf34ea67e74f169f110044306) - Marden, Michael et al.
-- 2016: [An Approach for Measuring Confinement and Assessing the Influence of Valley Setting on River Forms and Processes.](https://auckland.primo.exlibrisgroup.com/permalink/64UAUCK_INST/p27258/cdi_proquest_journals_1779605381) - Fryirs, Kirstie A. et al.
-- 2018: [“Engineering Geomorphological Reconnaissance of the December 2018 Waimata Valley Mud Volcano Eruption, Gisborne, New Zealand.](https://auckland.primo.exlibrisgroup.com/permalink/64UAUCK_INST/p27258/cdi_openaire_primary_doi_ee6bbd15d1c839827c0150042ed1efae) - Leighton, Alex et al.
+- 2008: [Last Glacial Aggradation and Postglacial Sediment Production from the Non-Glacial Waipaoa and Waimata Catchments, Hikurangi Margin, North Island, New Zealand](/assets/documents/MardenArticleLTRS.pdf) - Marden, Michael et al.
+- 2016: [An Approach for Measuring Confinement and Assessing the Influence of Valley Setting on River Forms and Processes.](/assets/documents/FryirsAndBrierleyLTRS.pdf) - Fryirs, Kirstie A. et al.
+- 2018: [“Engineering Geomorphological Reconnaissance of the December 2018 Waimata Valley Mud Volcano Eruption, Gisborne, New Zealand.](/assets/documents/LeightonMudVolcanoLTRS.pdf) - Leighton, Alex et al.
 - 2019: [Let the Rivers Speak - Thinking about waterways in Aotearoa New Zealand](/assets/documents/2019_08_LetTheRiversSpeak.pdf) - Anne Salmond, Gary Brierley and Dan Hikuroa
 - 2020: [Rivers, residents, and restoration: Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/CairnsEtAlAugust2021.pdf) - Danielle Cairns, Gary Brierley, and Gretel Boswijk
 - 2021: [Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand](/assets/documents/HarveyEtAlAugust2021.pdf) - Harvey, Brierley, Easton, Watson, Tunnicliffe
-- 2022: [Tai Timu, Tai Pari, the Ebb and Flow of the Tides: Working with the Waimatā from the Mountains to the Sea](https://auckland.primo.exlibrisgroup.com/permalink/64UAUCK_INST/p27258/cdi_crossref_primary_10_1080_00288330_2022_2096084) Salmond, Anne et al. 
+- 2022: [Tai Timu, Tai Pari, the Ebb and Flow of the Tides: Working with the Waimatā from the Mountains to the Sea](/assets/documents/TaiTimuTaiPari.pdf) Salmond, Anne et al. 
 - 2023: [Managing at source and at scale: The use of geomorphic river stories to support rehabilitation of Anthropocene riverscapes in the East Coast Region of Aotearoa New Zealand](/assets/documents/fenvs-11-1162099.pdf) - Fuller, I. C. et al.
 
 ### Resources
@@ -129,11 +129,11 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 ### Theses
 
-- 2020: [Engineering geological investigation of a recent mud volcano eruption, Waimata Valley](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265333611402091) - Leighton, Alex
-- 2021: [Integrating Process-Based Assessments of River Sensitivity through River Styles and Semi-Quantitative Sediment Connectivity Modelling to Inform Land Use Management in the Waimatā Catchment, Gisborne, New Zealand ](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265417260902091) - Harvey, Khendra Claire
-- 2021: [Rivers, residents and restoration : Local relations to the Waimatā River, Aotearoa New Zealand](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265417245802091) - Cairns, Danielle
-- 2022: [An exploration of the potential role of storytelling in development of catchment management plans (CMPs)](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265553579002091) - Stevens, Elliot
-- 2023: [Hydrological Responses to Differing Land Cover Scenarios to Better Inform Farm and Catchment Planning Initiatives for the Waimatā River, Gisborne, New Zealand ](https://auckland.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=64UAUCK_INST:NEWUI&search_scope=Theses_search&tab=Theses&docid=alma99265553570202091) - Burgess, Jazmine
+- 2020: [Engineering geological investigation of a recent mud volcano eruption, Waimata Valley](/assets/documents/Leighton-2020-thesis.pdf) - Leighton, Alex
+- 2021: [Integrating Process-Based Assessments of River Sensitivity through River Styles and Semi-Quantitative Sediment Connectivity Modelling to Inform Land Use Management in the Waimatā Catchment, Gisborne, New Zealand ](/assets/documents/Harvey-2021-thesis.pdf) - Harvey, Khendra Claire
+- 2021: [Rivers, residents and restoration : Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/Cairns-2021-thesis.pdf) - Cairns, Danielle
+- 2022: [An exploration of the potential role of storytelling in development of catchment management plans (CMPs)](/assets/documents/Stevens-2022-thesis.pdf) - Stevens, Elliot
+- 2023: [Hydrological Responses to Differing Land Cover Scenarios to Better Inform Farm and Catchment Planning Initiatives for the Waimatā River, Gisborne, New Zealand ](/assets/documents/Burgess-2023-thesis.pdf) - Burgess, Jazmine
 
 ### Funding Applications
 
