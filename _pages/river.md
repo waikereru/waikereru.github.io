@@ -96,6 +96,7 @@ During these flood events, sewage and wastewater are released into the Waimatā,
 In response to these challenges, the *'Let the River Speak'* research team are studying the geology, geomorphology, hydrology, ecology, human history and social life of the Waimatā river, drawing upon mātauranga as well as cutting edge science to understand its dynamics. We aim to work with local people on planning for flood resilience, sustainable land use and the restoration of riparian forests and wetlands in the catchment, so that the Waimatā river community can flourish and thrive.
 
 - [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
+- [The Root of the Matter: Forests & Colonial Histories in Aotearoa New Zealand](/assets/documents/2023-the-root-of-the-matter.pdf) - Anne Salmond, Manu Caddie
 
 
 ## Waimatā River Resources

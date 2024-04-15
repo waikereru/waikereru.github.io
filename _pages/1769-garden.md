@@ -265,3 +265,4 @@ Many populations are also threatened by the spread of aggressive weeds, which su
 ## Links
 
 * [**The 1769 Garden** on Radio New Zealand's *Our Changing World*](https://www.rnz.co.nz/national/programmes/ourchangingworld/audio/2018621206/the-1769-garden)
+* [Banks & Solander Botanical Collections Tai Rawhiti](/assets/documents/1769-final-tairawhiti-species-banks-and-solander.pdf) (Ewen Cameron, Botanist, Auckland War Memorial Museum)
