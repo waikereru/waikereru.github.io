@@ -1,5 +1,5 @@
 ---
-title: "Te Wharau School visit"
+title: "Pest Free NZ Workshop"
 layout: single
 classes: wide
 header:
@@ -8,7 +8,7 @@ categories:
   - News
 ---
 
-It was great to welcome Pest Free NZ  and their 'state-of-the-art' trapping workshop to Waikereru.
+It was great to welcome Pest Free NZ and their 'state-of-the-art' trapping workshop to Waikereru.
 
 Cam Speedy, Steve Sawyer, Dave Hughes and Guido Haag all gave terrific presentations, exchanging ideas and experience with local trappers.
 
