@@ -269,3 +269,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# External scripts
+head_scripts:
+  - https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js

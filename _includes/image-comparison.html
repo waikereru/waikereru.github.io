@@ -1,0 +1,20 @@
+<div id="{{ include.id }}"></div>
+<script>
+var slider = new juxtapose.JXSlider('#{{ include.id }}',
+    [
+        {
+            src: '{{ include.before_image }}',
+            label: '{{ include.before_label | default: "Before" }}'
+        },
+        {
+            src: '{{ include.after_image }}',
+            label: '{{ include.after_label | default: "After" }}'
+        }
+    ],
+    {
+        startingPosition: "50%",
+        showLabels: true,
+        showCredits: false,
+        makeResponsive: true
+    });
+</script>
