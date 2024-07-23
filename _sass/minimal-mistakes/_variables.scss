@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$font-path:        "/assets/fonts";
+$font-path: "/assets/fonts";
 $doc-font-size: 16 !default;
 
 /* paragraph indention */
@@ -16,7 +16,7 @@ $indent-var: 1.3em !default;
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
 $sans-serif: futura-pt, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
@@ -33,7 +33,7 @@ $garamond: Garamond, serif !default;
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
 $legible-font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $caption-font-family: $legible-font-family !default;
 
 
@@ -67,7 +67,7 @@ $masthead-border-color: #222 !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$main-background-color: rgba(255,255,255,0.55);
+$main-background-color: rgba(255, 255, 255, 0.55);
 $masthead-background-color: #000 !default;
 
 $primary-color: #7a8288 !default;
@@ -140,7 +140,7 @@ $small: 600px !default;
 $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
-$x-large: 1440px !default;
+$x-large: 1600px !default;
 
 /*
    Grid
@@ -166,4 +166,4 @@ $intro-transition: intro 0.3s both !default;
    Images
    ========================================================================== */
 
-$backdrop-image             : "/assets/images/backdrop.jpg"
+$backdrop-image : "/assets/images/backdrop.jpg"
