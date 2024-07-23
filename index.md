@@ -13,7 +13,7 @@ From high hill ridges to the west, three streams tumble down steep valleys and a
 
 Waikereru is a hub for ecological innovation. Its visionary projects include:
 - The [**Wild Lab Tiaki Taiao**](/wildlab/) wilderness programme for local children
-- The [**Tuia 1769 Garden**](/1769-garden/), featuring rare and endangered plants from Tairāwhiti
+- The [**Tuia 1769 Seed Archive**](/1769-garden/), featuring rare and endangered plants from Tairāwhiti
 - The [**Seed Island project**](/news/seed-islands-update/) to speed up the restoration of biodiverse natural forest in erodible hill country.
 
 It also helped to inspire:
@@ -28,7 +28,7 @@ It also helped to inspire:
 
 Waikereru is on land owned by Dame Anne and Jeremy Salmond.  ***Longbush Reserve*** is open to the public – access is on the right, opposite 910 Riverside Road.
 
-***Waikereru*** (including the *Welcome Shelter* and *1769 Garden*) can be [visited by arrangement](mailto:info@waikereru.org) – please contact us at [info@waikereru.org](mailto:info@waikereru.org). Access is on the left, at 846 Riverside Road.
+***Waikereru*** (including the *Welcome Shelter* and *1769 Seed Archive*) can be [visited by arrangement](mailto:info@waikereru.org) – please contact us at [info@waikereru.org](mailto:info@waikereru.org). Access is on the left, at 846 Riverside Road.
 
 We treat the Ecosanctuary like a marae – visitors are very welcome, but the trustees need to know you’re coming! The Waikereru Hills are actively managed, with trapping and shooting. For health and safety reasons, access is by specific arrangement only.
 

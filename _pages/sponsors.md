@@ -61,8 +61,8 @@ In the case of our first titi translocation, because the titi chicks stayed long
 
 In addition, the Longbush Ecosanctuary project is supported by:
 
-- The **J.N. and H.B Williams Memorial Trusts**, who have generously supported the restoration of Longbush Reserve, the reintroduction of native robins and the building of a bridge in the Reserve, and the creation of the 1769 Garden.
-- The **J.D. Stout Trust**, which has helped to fund a freshwater restoration project at the Ecosanctuary, and the 1769 Garden.
+- The **J.N. and H.B Williams Memorial Trusts**, who have generously supported the restoration of Longbush Reserve, the reintroduction of native robins and the building of a bridge in the Reserve, and the creation of the 1769 Seed Archive.
+- The **J.D. Stout Trust**, which has helped to fund a freshwater restoration project at the Ecosanctuary, and the 1769 Seed Archive.
 - The **Department of Conservation’s Biodiversity Fund** (with thanks to Andy Bassett and Alan White)
 - The **Department of Conservation Lower North Island** office (with thanks to Reg Kemper, John Lucas and De-Arne Robinson), for their generous contributions to the Ecosanctuary.
 - **Eastern Institute of Technology’s Conservation Corps** (with thanks to Andy Carrie)
@@ -74,9 +74,9 @@ In addition, the Longbush Ecosanctuary project is supported by:
 - The **[Lion Foundation](http://www.lionfoundation.org.nz/)** is supporting our work in the Orchiston Harakeke collection & Arboretum, and the Welcome Shelter. 
 - The **[Eastern & Central Community Trust](http://www.ecct.org.nz/)**
 - The **Les Renner Trust**, which has given a generous donation to make the ongoing titi project possible.
-- The **[Lotteries Commission](http://www.communitymatters.govt.nz/)** has given a generous grant for pest and weed control, and another to upgrade the perimeter fence to exclude deer & goats, and to​ finish the 1769 Garden.
+- The **[Lotteries Commission](http://www.communitymatters.govt.nz/)** has given a generous grant for pest and weed control, and another to upgrade the perimeter fence to exclude deer & goats, and to​ finish the 1769 Seed Archive.
 - The **[Sir John Logan Campbell Trust](http://www.jlcampbell.co.nz/)** and the **[Chartwell Trust](http://www.chartwell.org.nz/)**, which contributed to the Welcome Shelter.
-- The **[Eastland Community Trust](http://www.ect.org.nz/)**, for their generous contribution to the Welcome Shelter, the 1769 Garden and adjoining tracks.
+- The **[Eastland Community Trust](http://www.ect.org.nz/)**, for their generous contribution to the Welcome Shelter, the 1769 Seed Archive and adjoining tracks.
 - The **[Pacific Development and Conservation Trust](https://www.communitymatters.govt.nz/pacific-development-and-conservation-trust)**, which helps to support the Orchiston Harakeke collection.
 - The **[Air New Zealand Environment Trust](https://www.airnewzealand.co.nz/sustainability)**, for fabulous support of the Wild Lab and our collaboration with Eastland Institute of Technology.
 - The **[Queen Elizabeth II Trust](https://qeiinationaltrust.org.nz/)**, for their grant towards the Kohanga Kiwi via the Stephenson Fund.

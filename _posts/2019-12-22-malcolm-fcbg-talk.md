@@ -1,5 +1,5 @@
 ---
-title: "1769 Garden talk @ FCBG"
+title: "1769 Seed Archive talk @ FCBG"
 layout: single
 classes: wide
 header:
@@ -8,7 +8,7 @@ categories:
   - News
 ---
 
-Malcolm Rutherford's recent talk on the 1769 Garden to the Friends of the Christchurch Botanical Garden was much appreciated. See the report on Malcolm's talk and Ewen Cameron's research in their latest newsletter.
+Malcolm Rutherford's recent talk on the 1769 Seed Archive to the Friends of the Christchurch Botanical Garden was much appreciated. See the report on Malcolm's talk and Ewen Cameron's research in their latest newsletter.
 
 [![foo](/assets/images/news/malcolm-rutherford-fcbg-talk-2019.jpg)](/assets/documents/FCBGNewsletter118Summer2019-20-1.pdf)
 

@@ -35,7 +35,7 @@ Each trustee is responsible for one aspect of the overall project:
 - **Tim Salmond** is the sponsor for Walk Longbush, creating a network of tracks through the bush.
 - **Jennie Harre-Hindmarsh** is the sponsor for the Wild Lab Tiaki Taiao educational programme for local children.
 - **Lois Easton** is the sponsor for the Waimatā River and wetland restoration projects
-- **Graeme Atkins** is the sponsor for the 1769 Garden and mātauranga about indigenous species at Waikereru.
+- **Graeme Atkins** is the sponsor for the 1769 Seed Archive and mātauranga about indigenous species at Waikereru.
 - **Steve Salmond** is Webmaster and IT advisor for Waikereru.
 
 
@@ -55,7 +55,7 @@ Malcolm is the Queen Elizabeth II Trust representative for Tairāwhiti, and a ho
 
 {% include figure image_path="/assets/images/people/PeopleMalcolmRutherford.jpg" %}
 
-Malcolm is a skilled photographer and hunter, who keeps finding rare native plants in the hills and bush at Waikereru. We’re very lucky to have him as the part-time Curator of the 1769 Garden.
+Malcolm is a skilled photographer and hunter, who keeps finding rare native plants in the hills and bush at Waikereru. We’re very lucky to have him as the part-time Curator of the 1769 Seed Archive.
 
 ### Graeme Atkins
 
@@ -65,7 +65,7 @@ Graeme is a tohunga taiao, an expert in mātauranga taiao (ancestral knowledge r
 
 {% include figure image_path="/assets/images/people/PeopleGraemeAtkins.jpg" %}
 
-Graeme has an unrivalled knowledge of Tairāwhiti native plants, animals, fish and reptiles. He’s our go-to-man for rare and endangered species of plants for the 1769 Garden, and advisor on mātauranga taiao for Waikereru.
+Graeme has an unrivalled knowledge of Tairāwhiti native plants, animals, fish and reptiles. He’s our go-to-man for rare and endangered species of plants for the 1769 Seed Archive, and advisor on mātauranga taiao for Waikereru.
 
 ## Kai tiaki, Rene Orchiston Pā Harakeke
 

@@ -117,7 +117,7 @@ During 2012, ten chicks were reared at Longbush, and 16 chicks in 2016, flying o
 
 These are the first steps towards establishing an inland oi [grey-faced petrel] colony at Waikereru - a world first. Although oi and other seabirds were a traditional source of guano to feed the native plants and trees, inland colonies of oi (once numerous) are now rare in New Zealand.
 
-A predator-free fence in the Waikereru hills for Eastern brown kiwi, kākāriki, kākā and rifleman is also planned, with a kiwi creche behind the Welcome Shelter – the **Kohanga Kiwi / Kiwi Haven**. In front of the Welcome Shelter, the 1769 Garden has been established, with tracks around Pā Hill and the pond.
+A predator-free fence in the Waikereru hills for Eastern brown kiwi, kākāriki, kākā and rifleman is also planned, with a kiwi creche behind the Welcome Shelter – the **Kohanga Kiwi / Kiwi Haven**. In front of the Welcome Shelter, the 1769 Seed Archive has been established, with tracks around Pā Hill and the pond.
 
 In 2019, the Wild Lab Tiaki Taiao educational programme for local kids will get under way, after a series of trial workshops. Key events since 2012 are covered in the ‘News’ section of the website.
 

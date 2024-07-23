@@ -18,7 +18,7 @@ Sarosh, [recipient of an AMP National Scholarship](http://architecturenow.co.nz/
 
 The Welcome Shelter is designed as an outdoor classroom, with a large floating roof over three elegant wooden ‘boxes’ used for storage, a composting toilet, water and a lookout tower. Small terraces and planting boxes create a space in the landscape to welcome visitors, and to explore different aspects of Longbush and its rare and endangered species of plants and animals.
 
-The 1769 garden, based on descendants of plants collected on the East Coast by scientists from James Cook’s ship Endeavour, now growing at Kew Gardens in England, will be planted around the Welcome Shelter in time for the 250th anniversary of the Endeavour’s arrival.
+The 1769 Seed Archive, based on descendants of plants collected on the East Coast by scientists from James Cook’s ship Endeavour, now growing at Kew Gardens in England, will be planted around the Welcome Shelter in time for the 250th anniversary of the Endeavour’s arrival.
 
 At the Welcome Shelter, stories will be told about the pre-human landscape at Longbush, its plant and animal inhabitants, the impact of the first Polynesian arrivals and Maori settlement, the first European arrivals and its settler history.
 

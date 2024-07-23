@@ -1,5 +1,5 @@
 ---
-title: "BGANZ visit the 1769 Garden"
+title: "BGANZ visit the 1769 Seed Archive"
 layout: single
 classes: wide
 header:
@@ -8,6 +8,6 @@ categories:
   - News
 ---
 
-Fantastic to see the experts turning up to inspect the 1769 Garden. Malcolm Rutherford, its curator, showing the Garden off to delegates from [BGANZ, Botanical Gardens of Australia and New Zealand](https://www.bganz.org.au/).
+Fantastic to see the experts turning up to inspect the 1769 Seed Archive. Malcolm Rutherford, its curator, showing the Garden off to delegates from [BGANZ, Botanical Gardens of Australia and New Zealand](https://www.bganz.org.au/).
 
 {% include figure image_path="/assets/images/news/bganz-at-1769-garden.jpg" %}

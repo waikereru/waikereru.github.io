@@ -40,7 +40,7 @@ Explores the impact and management of introduced mammalian predators in Tairāwh
 <a href="" class="btn btn--primary" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/wildlabtiakitaiao/pesky-predators?hide_gdpr_banner=1&primary_color=ff0303'});return false;">Request a Booking</a>
 
 
-## 1769 Garden – Our Shared History through Flora & Fauna
+## 1769 Seed Archive – Our Shared History through Flora & Fauna
 
 **The Big IDEAS**
 - To study flora/fauna from a micro level (from the moth's perspective) and understand the Flora and Fauna's place in the ecosystem.

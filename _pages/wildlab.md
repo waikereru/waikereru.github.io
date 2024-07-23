@@ -50,7 +50,7 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 - Rivers in Tears
 - Pesky Predators
 - Navigation & Storytelling
-- 1769 Garden – Flora & Fauna
+- 1769 Seed Archive – Flora & Fauna
 - Oi – The Amazing Seabird
 - Koura – The Plight of Freshwater Crayfish
 - Harakeke – The Special Powers of Flax
