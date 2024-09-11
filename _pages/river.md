@@ -95,10 +95,7 @@ During these flood events, sewage and wastewater are released into the Waimatā,
 
 In response to these challenges, the *'Let the River Speak'* research team are studying the geology, geomorphology, hydrology, ecology, human history and social life of the Waimatā river, drawing upon mātauranga as well as cutting edge science to understand its dynamics. We aim to work with local people on planning for flood resilience, sustainable land use and the restoration of riparian forests and wetlands in the catchment, so that the Waimatā river community can flourish and thrive.
 
-- [Tears of Rangi: Water, power, and people in New Zealand](https://www.haujournal.org/index.php/hau/article/view/hau4.3.017) - Anne Salmond
 - [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
-- [The Root of the Matter: Forests & Colonial Histories in Aotearoa New Zealand](/assets/documents/2023-the-root-of-the-matter.pdf) - Anne Salmond, Manu Caddie
-
 
 ## Waimatā River Resources
 
@@ -115,6 +112,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 ### Articles
 
 - 2008: [Last Glacial Aggradation and Postglacial Sediment Production from the Non-Glacial Waipaoa and Waimata Catchments, Hikurangi Margin, North Island, New Zealand](/assets/documents/MardenArticleLTRS.pdf) - Marden, Michael et al.
+- 2014: [Tears of Rangi: Water, power, and people in New Zealand](https://www.haujournal.org/index.php/hau/article/view/hau4.3.017) - Anne Salmond
 - 2016: [An Approach for Measuring Confinement and Assessing the Influence of Valley Setting on River Forms and Processes.](/assets/documents/FryirsAndBrierleyLTRS.pdf) - Fryirs, Kirstie A. et al.
 - 2018: [“Engineering Geomorphological Reconnaissance of the December 2018 Waimata Valley Mud Volcano Eruption, Gisborne, New Zealand.](/assets/documents/LeightonMudVolcanoLTRS.pdf) - Leighton, Alex et al.
 - 2019: [Let the Rivers Speak - Thinking about waterways in Aotearoa New Zealand](/assets/documents/2019_08_LetTheRiversSpeak.pdf) - Anne Salmond, Gary Brierley and Dan Hikuroa
@@ -122,6 +120,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2021: [Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand](/assets/documents/HarveyEtAlAugust2021.pdf) - Harvey, Brierley, Easton, Watson, Tunnicliffe
 - 2022: [Tai Timu, Tai Pari, the Ebb and Flow of the Tides: Working with the Waimatā from the Mountains to the Sea](/assets/documents/TaiTimuTaiPari.pdf) Salmond, Anne et al. 
 - 2023: [Managing at source and at scale: The use of geomorphic river stories to support rehabilitation of Anthropocene riverscapes in the East Coast Region of Aotearoa New Zealand](/assets/documents/fenvs-11-1162099.pdf) - Fuller, I. C. et al.
+- 2023: [The Root of the Matter: Forests & Colonial Histories in Aotearoa New Zealand](/assets/documents/2023-the-root-of-the-matter.pdf) - Anne Salmond, Manu Caddie
 
 ### Resources
 
