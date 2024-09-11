@@ -121,6 +121,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2022: [Tai Timu, Tai Pari, the Ebb and Flow of the Tides: Working with the Waimatā from the Mountains to the Sea](/assets/documents/TaiTimuTaiPari.pdf) Salmond, Anne et al. 
 - 2023: [Managing at source and at scale: The use of geomorphic river stories to support rehabilitation of Anthropocene riverscapes in the East Coast Region of Aotearoa New Zealand](/assets/documents/fenvs-11-1162099.pdf) - Fuller, I. C. et al.
 - 2023: [The Root of the Matter: Forests & Colonial Histories in Aotearoa New Zealand](/assets/documents/2023-the-root-of-the-matter.pdf) - Anne Salmond, Manu Caddie
+- 2024: [The Spiral of Life: Regeneration, Rivers and Forests in Aotearoa New Zealand](/assets/documents/2024_The_Spiral_Of_Life.pdf) - Anne Salmond
 
 ### Resources
 
