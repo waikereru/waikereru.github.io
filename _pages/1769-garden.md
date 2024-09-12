@@ -5,7 +5,7 @@ title: 1769 Seed Archive
 author_profile: false
 classes: wide
 header:
-    image: /assets/images/splash/splash_1769_garden.jpg
+    image: /assets/images/splash/splash_1769_seed_archive.jpg
 sidebar:
     nav: "garden"
 rows_and_mounds:
