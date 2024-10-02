@@ -11,7 +11,7 @@ header:
 
 **Waikereru Wild Lab Tiaki Taiao** inspires kaiako and akonga in creative, inquiry-based workshops to understand what has happened to local ecosystems since human arrival, and to take part in restoring these to a state of ora (health, well-being).
 
-If you're interested in participating, you can get in touch at [info@waikereru.org](mailto:info@waikereru.org) - we'd love to hear from you!
+If you're interested in participating, you can get in touch at [wltt@waikereru.org](mailto:wltt@waikereru.org) or use the [booking form](#bookings) below - we'd love to hear from you!
 
 Many thanks to Shaun Akroyd (Ngāti Porou, Ngati Maru/Rongowhakaata) for his highly supportive and meticulous [independent review of the Wild Lab Tiaki Taiao programme at Waikereru](/assets/documents/WildLabTiakiTaiao_Evaluation_Report_ARE_December2021.pdf).
 
@@ -129,4 +129,11 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 
 ## Get in touch
 
-If you're interested in *Waikereru Wild Lab Tiaki Taiao*, you can get in touch at [info@waikereru.org](mailto:info@waikereru.org) - we'd love to hear from you!
+If you're interested in *Waikereru Wild Lab Tiaki Taiao*, you can get in touch at [wltt@waikereru.org](mailto:wltt@waikereru.org) or use the [booking form](#bookings) below - we'd love to hear from you!
+
+## Bookings
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/wildlabtiakitaiao/workshop?hide_landing_page_details=1&hide_gdpr_banner=1&primary_color=fb0303" style="min-width:320px;height:2000px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
