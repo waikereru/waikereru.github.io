@@ -52,7 +52,7 @@ From that moment, the lives of local people, plants and animals changed forever.
 
 {% include figure image_path="/assets/images/1769/welcome-shelter.jpg" caption="The Welcome Shelter" %}
 
-<a id="wild-lab"></a>In the [**Wild Lab / Tiaki Taiao**](/wildlab) workshops, delivered by a team led by Pete Jarratt and co-designed by Pete and Elle Jarratt with Longbush Trustees, scientists and mātauranga experts, rare endangered species are celebrated with a sense of wonder and fun. Through ancestral knowledge, science, art and immersive experience, groups explore the challenges faced by indigenous plants and animals, and how to safeguard their future.
+<a id="wild-lab"></a>In the [**Wild Lab / Tiaki Taiao**](/wildlab) workshops, delivered by a team led by **Pete Jarratt** and co-designed by Pete and Elle Jarratt with Longbush Trustees, scientists and mātauranga experts, rare endangered species are celebrated with a sense of wonder and fun. Through ancestral knowledge, science, art and immersive experience, groups explore the challenges faced by indigenous plants and animals, and how to safeguard their future.
 
 {% include figure image_path="/assets/images/news/makaraka-school-wild-lab.jpg" caption="Wild Lab session: Makaraka School" %}
 
