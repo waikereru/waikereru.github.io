@@ -101,11 +101,11 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 ### Research Reports
 
-- [Research Report 1](/assets/documents/WaimataReport1.pdf) (Landscapes and Rivers of the Waimatā)
-- [Research Report 2](/assets/documents/WaimataReport2.pdf) (Native Land Court Records of Blocks on the Waimatā)
-- [Research Report 3](/assets/documents/WaimataReport3.pdf) (Settler History post 1880)
-- [Research Report 4](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Biodiversity in the Waimatā)
-- [Research Report 5](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (A Place Belonging to the Heart)
+- [Landscapes and Rivers of the Waimatā](/assets/documents/WaimataReport1.pdf) (Research Report 1) - Carola Cullum, Gary Brierley, Mike Marden
+- [Native Land Court Records of Blocks on the Waimatā](/assets/documents/WaimataReport2.pdf) (Research Report 2) - Anne Salmond, Caroline Phillips
+- [Settler History post 1880](/assets/documents/WaimataReport3.pdf) (Research Report 3) - Sheridan Gundry
+- [Biodiversity in the Waimatā](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Research Report 4) - Abigail Salmond
+- [A Place Belonging to the Heart](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (Research Report 5) - Michelle Reeve
 - [Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area](/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf) - Dr. Brad Coombes
 - [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
 
@@ -121,7 +121,9 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2022: [Tai Timu, Tai Pari, the Ebb and Flow of the Tides: Working with the Waimatā from the Mountains to the Sea](/assets/documents/TaiTimuTaiPari.pdf) Salmond, Anne et al. 
 - 2023: [Managing at source and at scale: The use of geomorphic river stories to support rehabilitation of Anthropocene riverscapes in the East Coast Region of Aotearoa New Zealand](/assets/documents/fenvs-11-1162099.pdf) - Fuller, I. C. et al.
 - 2023: [The Root of the Matter: Forests & Colonial Histories in Aotearoa New Zealand](/assets/documents/2023-the-root-of-the-matter.pdf) - Anne Salmond, Manu Caddie
+- 2023: [River restoration as a sociocultural process: A case study from the Waimata Catchment, Aotearoa New Zealand](/assets/documents/2023RiverRestorationAsASocioculturalProcess.pdf) - Danielle Cairns, Gretel Boswijk, Gary Brierley
 - 2024: [The Spiral of Life: Regeneration, Rivers and Forests in Aotearoa New Zealand](/assets/documents/2024_The_Spiral_Of_Life.pdf) - Anne Salmond
+- 2024: [Problematising the Anthropocene: Geographic perspectives upon the riverscapes of Waimatā Catchment, Aotearoa New Zealand](/assets/documents/2024-ProblematisingTheAnthropocene.pdf) - Megan Thomas, Billie Lythberg, Dan Hikuroa, Gary Brierley
 
 ### Resources
 
@@ -136,6 +138,8 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2021: [Rivers, residents and restoration : Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/Cairns-2021-thesis.pdf) - Cairns, Danielle
 - 2022: [An exploration of the potential role of storytelling in development of catchment management plans (CMPs)](/assets/documents/Stevens-2022-thesis.pdf) - Stevens, Elliot
 - 2023: [Hydrological Responses to Differing Land Cover Scenarios to Better Inform Farm and Catchment Planning Initiatives for the Waimatā River, Gisborne, New Zealand ](/assets/documents/Burgess-2023-thesis.pdf) - Burgess, Jazmine
+- 2023: [Average Circulation Conditions that Precede River Flooding in Eastern Catchments of New Zealand](/assets/documents/AverageCirculationConditionsThesis.pdf) - Bridges, Amy
+
 
 ### Funding Applications
 
