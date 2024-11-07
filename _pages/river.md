@@ -118,7 +118,8 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2019: [Let the Rivers Speak - Thinking about waterways in Aotearoa New Zealand](/assets/documents/2019_08_LetTheRiversSpeak.pdf) - Anne Salmond, Gary Brierley and Dan Hikuroa
 - 2020: [Rivers, residents, and restoration: Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/CairnsEtAlAugust2021.pdf) - Danielle Cairns, Gary Brierley, and Gretel Boswijk
 - 2021: [Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand](/assets/documents/HarveyEtAlAugust2021.pdf) - Harvey, Brierley, Easton, Watson, Tunnicliffe
-- 2022: [Tai Timu, Tai Pari, the Ebb and Flow of the Tides: Working with the Waimatā from the Mountains to the Sea](/assets/documents/TaiTimuTaiPari.pdf) Salmond, Anne et al. 
+- 2022: [Tai Timu, Tai Pari, the Ebb and Flow of the Tides: Working with the Waimatā from the Mountains to the Sea](/assets/documents/TaiTimuTaiPari.pdf) - Salmond, Anne et al. 
+- 2022: [Te Mana o te Wai — Relating to and through the charisma of water](/assets/documents/HikuroaLythbergTeManaOTeWai2022.pdf) - Hikuroa, D. and B. Lythberg.
 - 2023: [Managing at source and at scale: The use of geomorphic river stories to support rehabilitation of Anthropocene riverscapes in the East Coast Region of Aotearoa New Zealand](/assets/documents/fenvs-11-1162099.pdf) - Fuller, I. C. et al.
 - 2023: [The Root of the Matter: Forests & Colonial Histories in Aotearoa New Zealand](/assets/documents/2023-the-root-of-the-matter.pdf) - Anne Salmond, Manu Caddie
 - 2023: [River restoration as a sociocultural process: A case study from the Waimata Catchment, Aotearoa New Zealand](/assets/documents/2023RiverRestorationAsASocioculturalProcess.pdf) - Danielle Cairns, Gretel Boswijk, Gary Brierley
