@@ -10,6 +10,10 @@ header:
 
 ---
 
+<div class="notice--success">
+  Visit our [Waimatā River Resources](#waimatā-river-resources) section for relevant articles, reports, theses etc.
+</div>
+
 ## Waimatā River
 
 The waters of the Waimatā run past the places where our shared history began. Fed by springs and streams, its headwaters rise in the hills north-east of Gisborne and run down to the city, with its harbour and port.
@@ -111,6 +115,9 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 ### Articles
 
+- 1999: [Late Holocene forest disturbance in Gisborne, New Zealand: A comparison of terrestrial and marine pollen records](/assets/documents/LateHoloceneForestDisturbanceInGisborneNewZealand.pdf) - Janet M. Wilmshurst, Dennis N. Eden & Paul C. Froggatt
+- 1999: [Interception and throughfall in a regenerating stand of kanuka, East Coast region, North Island, New Zealand, and implications for soil conservation](/assets/documents/RoweEtAl_KanukaInterception_JoHNZ_1999_v38.pdf) - L. K. Rowe, M. Marden and D. Rowan
+- 2007: [Last glacial aggradation and postglacial sediment production from the non-glacial Waipaoa and Waimata catchments, Hikurangi Margin, North Island, New Zealand](/assets/documents/MardenGeologyOfWaimata.pdf) - Marden, M. et al.
 - 2008: [Last Glacial Aggradation and Postglacial Sediment Production from the Non-Glacial Waipaoa and Waimata Catchments, Hikurangi Margin, North Island, New Zealand](/assets/documents/MardenArticleLTRS.pdf) - Marden, Michael et al.
 - 2014: [Tears of Rangi: Water, power, and people in New Zealand](https://www.haujournal.org/index.php/hau/article/view/hau4.3.017) - Anne Salmond
 - 2016: [An Approach for Measuring Confinement and Assessing the Influence of Valley Setting on River Forms and Processes.](/assets/documents/FryirsAndBrierleyLTRS.pdf) - Fryirs, Kirstie A. et al.
@@ -120,11 +127,19 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2021: [Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand](/assets/documents/HarveyEtAlAugust2021.pdf) - Harvey, Brierley, Easton, Watson, Tunnicliffe
 - 2022: [Tai Timu, Tai Pari, the Ebb and Flow of the Tides: Working with the Waimatā from the Mountains to the Sea](/assets/documents/TaiTimuTaiPari.pdf) - Salmond, Anne et al. 
 - 2022: [Te Mana o te Wai — Relating to and through the charisma of water](/assets/documents/HikuroaLythbergTeManaOTeWai2022.pdf) - Hikuroa, D. and B. Lythberg.
+- 2022: [Engineering geomorphological reconnaissance of the December 2018 Waimata Valley mud volcano eruption, Gisborne, New Zealand](/assets/documents/LeightonMudVolcanoLTRS.pdf) - Leighton, A. et al.
 - 2023: [Managing at source and at scale: The use of geomorphic river stories to support rehabilitation of Anthropocene riverscapes in the East Coast Region of Aotearoa New Zealand](/assets/documents/fenvs-11-1162099.pdf) - Fuller, I. C. et al.
 - 2023: [The Root of the Matter: Forests & Colonial Histories in Aotearoa New Zealand](/assets/documents/2023-the-root-of-the-matter.pdf) - Anne Salmond, Manu Caddie
 - 2023: [River restoration as a sociocultural process: A case study from the Waimata Catchment, Aotearoa New Zealand](/assets/documents/2023RiverRestorationAsASocioculturalProcess.pdf) - Danielle Cairns, Gretel Boswijk, Gary Brierley
 - 2024: [The Spiral of Life: Regeneration, Rivers and Forests in Aotearoa New Zealand](/assets/documents/2024_The_Spiral_Of_Life.pdf) - Anne Salmond
 - 2024: [Problematising the Anthropocene: Geographic perspectives upon the riverscapes of Waimatā Catchment, Aotearoa New Zealand](/assets/documents/2024-ProblematisingTheAnthropocene.pdf) - Megan Thomas, Billie Lythberg, Dan Hikuroa, Gary Brierley
+
+### Reports
+
+- 2016: [Storm-initiated debris flows and plantation forestry: protocols for monitoring & post-storm data capture](/assets/documents/LandcareReport_GDC_Storm_event_protocol_final.pdf) - Chris Phillips, Michael Marden, Les Basher, Nick Spencer
+- 2018: [Waimata River Riparian Zone Description and Guidance for Restoration](/assets/documents/1845-GSDC148-Waimata-River-riparian-zone-description-and-guidance-for-restoration.pdf) - Adam Forbes, David Norton and Grace Marshall
+- 2022: [Pre-human vegetation of the Pakowhai Wetland QEII National Trust covenant](/assets/documents/Final_report_Wilmshurst_PakowhaiWetlandQEII_2022.pdf) - Wilmshurst, Janet
+
 
 ### Resources
 
@@ -140,6 +155,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2022: [An exploration of the potential role of storytelling in development of catchment management plans (CMPs)](/assets/documents/Stevens-2022-thesis.pdf) - Stevens, Elliot
 - 2023: [Hydrological Responses to Differing Land Cover Scenarios to Better Inform Farm and Catchment Planning Initiatives for the Waimatā River, Gisborne, New Zealand ](/assets/documents/Burgess-2023-thesis.pdf) - Burgess, Jazmine
 - 2023: [Average Circulation Conditions that Precede River Flooding in Eastern Catchments of New Zealand](/assets/documents/AverageCirculationConditionsThesis.pdf) - Bridges, Amy
+- 2024 [Assessment of nature-based flood management (NBFM) approaches in the upper Waimatā Catchment, Gisborne](/assets/documents/MastersDissertationKayaVanDeventer-Hollands.pdf) - Hollands, Kaya
 
 
 ### Funding Applications
