@@ -114,8 +114,14 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - [Settler History post 1880](/assets/documents/WaimataReport3.pdf) (Research Report 3) - Sheridan Gundry
 - [Biodiversity in the Waimatā](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Research Report 4) - Abigail Salmond
 - [A Place Belonging to the Heart](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (Research Report 5) - Michelle Reeve
-- [Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area](/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf) - Dr. Brad Coombes
-- [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
+
+### Reports
+
+- 2000: [Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area](/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf) - Dr. Brad Coombes
+- 2006: [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
+- 2016: [Storm-initiated debris flows and plantation forestry: protocols for monitoring & post-storm data capture](/assets/documents/LandcareReport_GDC_Storm_event_protocol_final.pdf) - Chris Phillips, Michael Marden, Les Basher, Nick Spencer
+- 2018: [Waimata River Riparian Zone Description and Guidance for Restoration](/assets/documents/1845-GSDC148-Waimata-River-riparian-zone-description-and-guidance-for-restoration.pdf) - Adam Forbes, David Norton and Grace Marshall
+- 2022: [Pre-human vegetation of the Pakowhai Wetland QEII National Trust covenant](/assets/documents/Final_report_Wilmshurst_PakowhaiWetlandQEII_2022.pdf) - Wilmshurst, Janet
 
 ### Articles
 
@@ -136,13 +142,6 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2023: [River restoration as a sociocultural process: A case study from the Waimata Catchment, Aotearoa New Zealand](/assets/documents/2023RiverRestorationAsASocioculturalProcess.pdf) - Danielle Cairns, Gretel Boswijk, Gary Brierley
 - 2024: [The Spiral of Life: Regeneration, Rivers and Forests in Aotearoa New Zealand](/assets/documents/2024_The_Spiral_Of_Life.pdf) - Anne Salmond
 - 2024: [Problematising the Anthropocene: Geographic perspectives upon the riverscapes of Waimatā Catchment, Aotearoa New Zealand](/assets/documents/2024-ProblematisingTheAnthropocene.pdf) - Megan Thomas, Billie Lythberg, Dan Hikuroa, Gary Brierley
-
-### Reports
-
-- 2016: [Storm-initiated debris flows and plantation forestry: protocols for monitoring & post-storm data capture](/assets/documents/LandcareReport_GDC_Storm_event_protocol_final.pdf) - Chris Phillips, Michael Marden, Les Basher, Nick Spencer
-- 2018: [Waimata River Riparian Zone Description and Guidance for Restoration](/assets/documents/1845-GSDC148-Waimata-River-riparian-zone-description-and-guidance-for-restoration.pdf) - Adam Forbes, David Norton and Grace Marshall
-- 2022: [Pre-human vegetation of the Pakowhai Wetland QEII National Trust covenant](/assets/documents/Final_report_Wilmshurst_PakowhaiWetlandQEII_2022.pdf) - Wilmshurst, Janet
-
 
 ### Resources
 
