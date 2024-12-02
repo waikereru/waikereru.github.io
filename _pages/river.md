@@ -11,10 +11,10 @@ header:
 ---
 
 {% capture river-resources-text %}
-Visit our [Waimatā River Resources](#waimatā-river-resources) section for relevant articles, reports, theses etc.
+**Visit our [Waimatā River Resources](#waimatā-river-resources) section for relevant articles, reports, theses etc.**
 {% endcapture %}
 
-<div class="notice--success">
+<div class="notice--danger">
   {{ river-resources-text | markdownify }}
 </div>
 
@@ -121,7 +121,6 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 - 1999: [Late Holocene forest disturbance in Gisborne, New Zealand: A comparison of terrestrial and marine pollen records](/assets/documents/LateHoloceneForestDisturbanceInGisborneNewZealand.pdf) - Janet M. Wilmshurst, Dennis N. Eden & Paul C. Froggatt
 - 1999: [Interception and throughfall in a regenerating stand of kanuka, East Coast region, North Island, New Zealand, and implications for soil conservation](/assets/documents/RoweEtAl_KanukaInterception_JoHNZ_1999_v38.pdf) - L. K. Rowe, M. Marden and D. Rowan
-- 2007: [Last glacial aggradation and postglacial sediment production from the non-glacial Waipaoa and Waimata catchments, Hikurangi Margin, North Island, New Zealand](/assets/documents/MardenGeologyOfWaimata.pdf) - Marden, M. et al.
 - 2008: [Last Glacial Aggradation and Postglacial Sediment Production from the Non-Glacial Waipaoa and Waimata Catchments, Hikurangi Margin, North Island, New Zealand](/assets/documents/MardenArticleLTRS.pdf) - Marden, Michael et al.
 - 2014: [Tears of Rangi: Water, power, and people in New Zealand](https://www.haujournal.org/index.php/hau/article/view/hau4.3.017) - Anne Salmond
 - 2016: [An Approach for Measuring Confinement and Assessing the Influence of Valley Setting on River Forms and Processes.](/assets/documents/FryirsAndBrierleyLTRS.pdf) - Fryirs, Kirstie A. et al.
