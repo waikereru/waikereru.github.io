@@ -10,8 +10,12 @@ header:
 
 ---
 
+{% capture river-resources-text %}
+Visit our [Waimatā River Resources](#waimatā-river-resources) section for relevant articles, reports, theses etc.
+{% endcapture %}
+
 <div class="notice--success">
-  Visit our [Waimatā River Resources](#waimatā-river-resources) section for relevant articles, reports, theses etc.
+  {{ river-resources-text | markdownify }}
 </div>
 
 ## Waimatā River
