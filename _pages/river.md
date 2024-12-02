@@ -143,13 +143,6 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2024: [The Spiral of Life: Regeneration, Rivers and Forests in Aotearoa New Zealand](/assets/documents/2024_The_Spiral_Of_Life.pdf) - Anne Salmond
 - 2024: [Problematising the Anthropocene: Geographic perspectives upon the riverscapes of Waimatā Catchment, Aotearoa New Zealand](/assets/documents/2024-ProblematisingTheAnthropocene.pdf) - Megan Thomas, Billie Lythberg, Dan Hikuroa, Gary Brierley
 
-### Resources
-
-- [Jobs For Nature Programmes Tairāwhiti](/assets/documents/JobsForNatureProgrammesTairawhiti.pdf)
-- [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
-- [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
-- [Waimatā Catchment Restoration Project on Facebook](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
-
 ### Theses
 
 - 2020: [Engineering geological investigation of a recent mud volcano eruption, Waimata Valley](/assets/documents/Leighton-2020-thesis.pdf) - Leighton, Alex
@@ -160,6 +153,12 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2023: [Average Circulation Conditions that Precede River Flooding in Eastern Catchments of New Zealand](/assets/documents/AverageCirculationConditionsThesis.pdf) - Bridges, Amy
 - 2024 [Assessment of nature-based flood management (NBFM) approaches in the upper Waimatā Catchment, Gisborne](/assets/documents/MastersDissertationKayaVanDeventer-Hollands.pdf) - Hollands, Kaya
 
+### Resources
+
+- [Jobs For Nature Programmes Tairāwhiti](/assets/documents/JobsForNatureProgrammesTairawhiti.pdf)
+- [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
+- [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
+- [Waimatā Catchment Restoration Project on Facebook](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
 
 ### Funding Applications
 
