@@ -146,6 +146,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 ### Resources
 
+- [Jobs For Nature Programmes Tairāwhiti](/assets/documents/JobsForNatureProgrammesTairawhiti.pdf)
 - [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
 - [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
 - [Waimatā Catchment Restoration Project on Facebook](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
