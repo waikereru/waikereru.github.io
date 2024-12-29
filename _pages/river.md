@@ -131,6 +131,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2014: [Tears of Rangi: Water, power, and people in New Zealand](https://www.haujournal.org/index.php/hau/article/view/hau4.3.017) - Anne Salmond
 - 2016: [An Approach for Measuring Confinement and Assessing the Influence of Valley Setting on River Forms and Processes.](/assets/documents/FryirsAndBrierleyLTRS.pdf) - Fryirs, Kirstie A. et al.
 - 2018: [“Engineering Geomorphological Reconnaissance of the December 2018 Waimata Valley Mud Volcano Eruption, Gisborne, New Zealand.](/assets/documents/LeightonMudVolcanoLTRS.pdf) - Leighton, Alex et al.
+- 2018: [A geomorphic perspective on the rights of the river in Aotearoa New Zealand](/assets/documents/2018_Brierley_A_Geomorphic_Perspective.pdf) - Gary Brierley, Marc Tadaki, Dan Hikuroa, Brendon Blue, Charlotte Šunde, Jon Tunnicliffe, Anne Salmond
 - 2019: [Let the Rivers Speak - Thinking about waterways in Aotearoa New Zealand](/assets/documents/2019_08_LetTheRiversSpeak.pdf) - Anne Salmond, Gary Brierley and Dan Hikuroa
 - 2020: [Rivers, residents, and restoration: Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/CairnsEtAlAugust2021.pdf) - Danielle Cairns, Gary Brierley, and Gretel Boswijk
 - 2021: [Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand](/assets/documents/HarveyEtAlAugust2021.pdf) - Harvey, Brierley, Easton, Watson, Tunnicliffe
