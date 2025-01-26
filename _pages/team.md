@@ -29,25 +29,17 @@ The Trustees of the Longbush Ecological Trust are all long-standing contributors
 
 Each trustee is responsible for one aspect of the overall project:
 
-- **Dame Anne** is the sponsor for [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), which aims to extend Longbush Reserve along the banks of the Waimatā River.
-- **Jeremy Salmond** was the Chief Designer for Waikereru.
-- **Steve Sawyer** is the sponsor for the [Titi Colony](/assets/documents/LongbushTitiColony.pdf) and the **Kiwi Haven** in the Longbush Ecosanctuary.
+- **Dame Anne** is our Chair, and sponsor for [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), which aims to extend Longbush Reserve along the banks of the Waimatā River.
+- **Rick Thorpe** is the Trust's treasurer, and handles our financial affairs.
 - **Tim Salmond** is the sponsor for Walk Longbush, creating a network of tracks through the bush.
 - **Jennie Harre-Hindmarsh** is the sponsor for the Wild Lab Tiaki Taiao educational programme for local children.
-- **Lois Easton** is the sponsor for the Waimatā River and wetland restoration projects
-- **Graeme Atkins** is the sponsor for the 1769 Seed Archive and mātauranga about indigenous species at Waikereru.
+- **Lois Easton** is the sponsor for the Waimatā River and wetland restoration projects.
+- **Sarosh Muller** is responsible for design quality and art works at Waikereru.
 - **Steve Salmond** is Webmaster and IT advisor for Waikereru.
+- **Graeme Atkins** is kai tiaki for the 1769 Seed Archive and mātauranga about indigenous species at Waikereru.
 
 
 ## Our ecological experts
-
-### Steve Sawyer
-
-At the end of 2002, Anne and Jeremy contacted **[Steve Sawyer](/assets/documents/TheBirdWhispererSteveSawyer.pdf)**, who was about to leave the Department of Conservation to set up his own ecological restoration business, [Ecoworks NZ](http://www.ecoworks.co.nz/). Steve is a vital part of the Longbush project, bringing vision and expertise to its execution.
-
-{% include figure image_path="/assets/images/people/PeopleSteveSawyer.jpg" %}
-
-Steve coordinates the Kiwi Recovery Programme in the Gisborne-East Coast Region. He is an expert in pest and weed control, and native reptile and seabird restoration. He and his Ecoworks NZ team were the first in the world to successfully use acoustic attraction methods to establish breeding grey faced petrel and fluttering shearwater (at Young Nick’s Head), and a breeding colony of gannets.
 
 ### Malcolm Rutherford
 
@@ -66,6 +58,15 @@ Graeme is a tohunga taiao, an expert in mātauranga taiao (ancestral knowledge r
 {% include figure image_path="/assets/images/people/PeopleGraemeAtkins.jpg" %}
 
 Graeme has an unrivalled knowledge of Tairāwhiti native plants, animals, fish and reptiles. He’s our go-to-man for rare and endangered species of plants for the 1769 Seed Archive, and advisor on mātauranga taiao for Waikereru.
+
+### Steve Sawyer
+
+At the end of 2002, Anne and Jeremy contacted **[Steve Sawyer](/assets/documents/TheBirdWhispererSteveSawyer.pdf)**, who was about to leave the Department of Conservation to set up his own ecological restoration business, [Ecoworks NZ](http://www.ecoworks.co.nz/). Steve is a vital part of the Longbush project, bringing vision and expertise to its execution.
+
+{% include figure image_path="/assets/images/people/PeopleSteveSawyer.jpg" %}
+
+Steve coordinates the Kiwi Recovery Programme in the Gisborne-East Coast Region. He is an expert in pest and weed control, and native reptile and seabird restoration. He and his Ecoworks NZ team were the first in the world to successfully use acoustic attraction methods to establish breeding grey faced petrel and fluttering shearwater (at Young Nick’s Head), and a breeding colony of gannets.
+
 
 ## Kai tiaki, Rene Orchiston Pā Harakeke
 
