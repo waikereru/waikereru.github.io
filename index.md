@@ -26,9 +26,11 @@ It also helped to inspire:
 {% capture visitor-info-text %}
 **Visiting Waikereru**
 
-Waikereru is on private land owned by Dame Anne and Jeremy Salmond.  ***Longbush Reserve*** (on the right side of Riverside Road) is open to the public for bushwalks only. **No events or gatherings please**. Access opposite 910 Riverside Road. As visitors to **Longbush Reserve**, please note you’re responsible for your own health and safety. Stay on the tracks, be careful around electric fences, traps and streams, and take care of our precious bush.
+Waikereru is on private land owned by Dame Anne and Jeremy Salmond.
 
-***Waikereru*** (including the *Welcome Shelter* and *1769 Seed Archive*) is home to the *Wildlab Tiaki Taiao* for local school children. It can be visited by the public on open days only, or by [private arrangement](mailto:info@waikereru.org).
+***Longbush Reserve*** (on the right side of Riverside Road) is open to the public for bushwalks only. **No events or gatherings please**. Access opposite 910 Riverside Road. As visitors to **Longbush Reserve**, please note you’re responsible for your own health and safety. Stay on the tracks, be careful around electric fences, traps and streams, and take care of our precious bush.
+
+***Waikereru Ecosanctuary*** (including the *Welcome Shelter* and *1769 Seed Archive*) is home to the *Wildlab Tiaki Taiao* for local school children. It can be visited by the public on open days only, or by [private arrangement](mailto:info@waikereru.org).
 
 The **Waikereru Hills** are actively managed with trapping and shooting, and are not open to the public.
 {% endcapture %}
