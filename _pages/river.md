@@ -121,7 +121,13 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2006: [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
 - 2016: [Storm-initiated debris flows and plantation forestry: protocols for monitoring & post-storm data capture](/assets/documents/LandcareReport_GDC_Storm_event_protocol_final.pdf) - Chris Phillips, Michael Marden, Les Basher, Nick Spencer
 - 2018: [Waimata River Riparian Zone Description and Guidance for Restoration](/assets/documents/1845-GSDC148-Waimata-River-riparian-zone-description-and-guidance-for-restoration.pdf) - Adam Forbes, David Norton and Grace Marshall
+- 2021: [How to establish "seed islands" of natives](/assets/documents/2021-Tanes-Tree-Trust-flier-how-to-establish-seed-islands-of-natives_19-apr-2022-16-41-35.pdf) - Tane's Tree Trust
 - 2022: [Pre-human vegetation of the Pakowhai Wetland QEII National Trust covenant](/assets/documents/Final_report_Wilmshurst_PakowhaiWetlandQEII_2022.pdf) - Wilmshurst, Janet
+- 2022: [Vegetation and Flora of Waikereru Ecosanctuary](/assets/documents/2022-Oct-FloraOfWaikereruMarleyFordLandcareResearch.pdf) - Marley Ford
+- 2022: [A biodiversity survey of Waikereru, Waimatā, Gisborne](/assets/documents/MarleyFordBotanicalSurvey2022.pdf) - Marley Ford, Mark Smale and Kelly Gilbride
+- 2023: [Waikereru Ecosanctuary Pest Mammal Monitoring](/assets/documents/2023-May-Pest-Control-report.pdf) - Ecoworks New Zealand
+- 2024: [Year 2 planted Seed Islands - Milestones 3 & 4 Progress report](/assets/documents/2024_Jan_TTT_Year2PlantedSeedIslandsLongbush.pdf) - Tane's Tree Trust
+- 2024: [Waikereru Seed Islands Progress Report](/assets/documents/Final report_Seed_Islands_Oct_2024.pdf) - Ecoworks New Zealand
 
 ### Articles
 
@@ -157,10 +163,14 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 ### Resources
 
+- [Bibliography: Mike Marden](/assets/documents/Reference-material-for-Transition-Advisory-Group.pdf)
 - [Jobs For Nature Programmes Tairāwhiti](/assets/documents/JobsForNatureProgrammesTairawhiti.pdf)
 - [Sheridan Gundry's short illustrated account of the Waimatā River](/assets/documents/SheridanGundryWaimataRiver.pdf) (Please don't copy the images)
 - [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
 - [Waimatā Catchment Restoration Project on Facebook](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
+- [Te Tairāwhiti Qualitative Report](/assets/documents/te-tairawhiti-qualitative-report-fa-online-spread-june-2024-1.pdf)
+- [Waikereru Pest Management Plan 2024](/assets/documents/WaikereruPestManagementPlan2024.pdf)
+- [Waikereru Weed Management Plan 2024](/assets/documents/WaikereruWeedManagementPlan2024.pdf)
 
 ### Funding Applications
 
