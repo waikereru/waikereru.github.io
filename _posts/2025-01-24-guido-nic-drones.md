@@ -3,7 +3,7 @@ title: "Guido and Nic at work at Waikereru"
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/news/guido-drone.jpg
+  teaser: /assets/images/news/guido-drone-teaser.jpg
 categories:
   - News
 ---
