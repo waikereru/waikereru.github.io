@@ -177,6 +177,16 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
 - [Waimatā River Restoration Project](/assets/documents/WaimataRiverRestorationProject.pdf) (Supporting document) 
 
+### Ecological Restoration Techniques
+
+- 2005: [Stabilising characteristics of New Zealand indigenous riparian colonising plants](/assets/documents/Marden%20et%20al_Stabilising%20characteristics%20riparian%20species_2005_Plant%20&%20Soil.pdf) - M. Marden, D. Rowan & C. Phillips
+- 2018: [Biomass and root attributes of eight of New Zealand’s most common indigenous evergreen conifer and broadleaved forest species during the first 5 years of establishment](/assets/documents/Marden_et_al-2018-Conifer%20&%20Broadleaved%20species_New_Zealand_Journal_of_Forestry_Science.pdf) - Michael Marden, Suzanne Lambie and Chris Phillips
+- 2018: [Root system attributes of 12 juvenile indigenous early colonising shrub and tree species with potential for mitigating erosion in New Zealand](/assets/documents/Marden%20et%20al_2018_NZJFS%20Riparian%20plant%20trial_10.1186_s40490-018-0115-9.pdf) - M. Marden1, S. Lambie and D. Rowan
+- 2020: [Potential effectiveness of low-density plantings of mānuka (Leptospermum scoparium) as an erosion mitigation strategy in steeplands, northern Hawke’s Bay, New Zealand](/assets/documents/Marden%20et%20al_manuka%20Tutira%20paper%202020.pdf) - Michael Marden, Suzanne Lambie and Chris Phillips
+- 2025: [Total plant biomass, carbon stock, and species- and age-specific allometry for 12 of New Zealand’s early-colonising indigenous shrub and tree species to 5 years of age](/assets/documents/Marden+et+al_Riparain%20whole%20plant%20biomass_2025.pdf) - Michael Marden, Norman William Herbert Mason, Suzanne Lambie and Donna Rowan
+- [Native plants for riparian stabilisation](/assets/documents/Riparian%20posters_stacked.pdf) (Posters)
+- [Podocarp species posters](/assets/documents/Podocarp%20posters_stacked.pdf) (Posters)
+
 
 <!--
 
