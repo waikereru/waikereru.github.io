@@ -127,6 +127,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2023: [Waikereru Ecosanctuary Pest Mammal Monitoring](/assets/documents/2023-May-Pest-Control-report.pdf) - Ecoworks New Zealand
 - 2024: [Year 2 planted Seed Islands - Milestones 3 & 4 Progress report](/assets/documents/2024_Jan_TTT_Year2PlantedSeedIslandsLongbush.pdf) - Tane's Tree Trust
 - 2024: [Waikereru Seed Islands Progress Report](/assets/documents/Final report_Seed_Islands_Oct_2024.pdf) - Ecoworks New Zealand
+- 2024: [Ecological impacts of Cyclone Gabrielle](/assets/documents/Cyclone_Gabrielle_Integrated_ecological_assessment_Full_report_5March2025_Compressed.pdf)
 
 ### Articles
 
