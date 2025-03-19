@@ -120,7 +120,6 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2000: [Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area](/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf) - Dr. Brad Coombes
 - 2006: [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
 - 2016: [Storm-initiated debris flows and plantation forestry: protocols for monitoring & post-storm data capture](/assets/documents/LandcareReport_GDC_Storm_event_protocol_final.pdf) - Chris Phillips, Michael Marden, Les Basher, Nick Spencer
-- 2018: [Waimata River Riparian Zone Description and Guidance for Restoration](/assets/documents/1845-GSDC148-Waimata-River-riparian-zone-description-and-guidance-for-restoration.pdf) - Adam Forbes, David Norton and Grace Marshall
 - 2021: [How to establish "seed islands" of natives](/assets/documents/2021-Tanes-Tree-Trust-flier-how-to-establish-seed-islands-of-natives_19-apr-2022-16-41-35.pdf) - Tane's Tree Trust
 - 2022: [Pre-human vegetation of the Pakowhai Wetland QEII National Trust covenant](/assets/documents/Final_report_Wilmshurst_PakowhaiWetlandQEII_2022.pdf) - Wilmshurst, Janet
 - 2022: [Vegetation and Flora of Waikereru Ecosanctuary](/assets/documents/2022-Oct-FloraOfWaikereruMarleyFordLandcareResearch.pdf) - Marley Ford
@@ -180,6 +179,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 ### Ecological Restoration Techniques
 
 - 2005: [Stabilising characteristics of New Zealand indigenous riparian colonising plants](/assets/documents/Marden%20et%20al_Stabilising%20characteristics%20riparian%20species_2005_Plant%20&%20Soil.pdf) - M. Marden, D. Rowan & C. Phillips
+- 2018: [Waimata River Riparian Zone Description and Guidance for Restoration](/assets/documents/1845-GSDC148-Waimata-River-riparian-zone-description-and-guidance-for-restoration.pdf) - Adam Forbes, David Norton and Grace Marshall
 - 2018: [Biomass and root attributes of eight of New Zealand’s most common indigenous evergreen conifer and broadleaved forest species during the first 5 years of establishment](/assets/documents/Marden_et_al-2018-Conifer%20&%20Broadleaved%20species_New_Zealand_Journal_of_Forestry_Science.pdf) - Michael Marden, Suzanne Lambie and Chris Phillips
 - 2018: [Root system attributes of 12 juvenile indigenous early colonising shrub and tree species with potential for mitigating erosion in New Zealand](/assets/documents/Marden%20et%20al_2018_NZJFS%20Riparian%20plant%20trial_10.1186_s40490-018-0115-9.pdf) - M. Marden1, S. Lambie and D. Rowan
 - 2020: [Potential effectiveness of low-density plantings of mānuka (Leptospermum scoparium) as an erosion mitigation strategy in steeplands, northern Hawke’s Bay, New Zealand](/assets/documents/Marden%20et%20al_manuka%20Tutira%20paper%202020.pdf) - Michael Marden, Suzanne Lambie and Chris Phillips
