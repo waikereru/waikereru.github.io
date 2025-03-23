@@ -14,7 +14,7 @@ They include Dr. John Craig and Anne Stewart from Tahi Estate, a fabulous large-
 
 Celia Wade-Brown and companions:
 
-{% include figure image_path="/assets/images/news/celia-and-companions.png" caption="Celia Wade-Brown and companions" %}
+{% include figure image_path="/assets/images/news/celia-et-al.png" caption="Celia Wade-Brown and companions" %}
 
 Dr John Craig and Anne Stewart with Malcolm Rutherford, inspecting the stone mounds with their rare Tairawhiti plants:
 
