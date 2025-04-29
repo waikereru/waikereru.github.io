@@ -121,12 +121,19 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2006: [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
 - 2016: [Storm-initiated debris flows and plantation forestry: protocols for monitoring & post-storm data capture](/assets/documents/LandcareReport_GDC_Storm_event_protocol_final.pdf) - Chris Phillips, Michael Marden, Les Basher, Nick Spencer
 - 2021: [How to establish "seed islands" of natives](/assets/documents/2021-Tanes-Tree-Trust-flier-how-to-establish-seed-islands-of-natives_19-apr-2022-16-41-35.pdf) - Tane's Tree Trust
+- 2021: [The coastal habitats of Tairawhiti](/assets/documents/2060-GSDC162-The-coastal-habitats-of-Tairawhiti-A-review-of-the-scientific-local-and-customary-knowledge.pdf)
 - 2022: [Pre-human vegetation of the Pakowhai Wetland QEII National Trust covenant](/assets/documents/Final_report_Wilmshurst_PakowhaiWetlandQEII_2022.pdf) - Wilmshurst, Janet
 - 2022: [Vegetation and Flora of Waikereru Ecosanctuary](/assets/documents/2022-Oct-FloraOfWaikereruMarleyFordLandcareResearch.pdf) - Marley Ford
 - 2022: [A biodiversity survey of Waikereru, Waimatā, Gisborne](/assets/documents/MarleyFordBotanicalSurvey2022.pdf) - Marley Ford, Mark Smale and Kelly Gilbride
 - 2023: [Waikereru Ecosanctuary Pest Mammal Monitoring](/assets/documents/2023-May-Pest-Control-report.pdf) - Ecoworks New Zealand
 - 2024: [Year 2 planted Seed Islands - Milestones 3 & 4 Progress report](/assets/documents/2024_Jan_TTT_Year2PlantedSeedIslandsLongbush.pdf) - Tane's Tree Trust
 - 2024: [Waikereru Seed Islands Progress Report](/assets/documents/Final report_Seed_Islands_Oct_2024.pdf) - Ecoworks New Zealand
+
+### Impacts of Cyclone Gabrielle
+
+- 2019: [Restoration need not cost the earth – managed natural regeneration at Waikereru (Longbush) Ecosanctuary](https://pureadvantage.org/restoration-need-not-cost-the-earth/) - Dr. Marie Doole
+- 2023: [Rapid assessment of land damage – Cyclone Gabrielle](/assets/documents/Rapid-assessment-of-land-damage-Cyclone-Gabrielle-Manaaki-Whenua-Landcare-Research-report.pdf) - Manaaki Whenua - Landcare Research
+- 2024: [Extreme Weather Events Impact on Health & Wellbeing in Tairāwhiti & Hawkes Bay](https://teweu.nz/extreme-weather-events-impact-on-health-wellbeing-in-tairawhiti/) - Te Weu Tairāwhiti
 - 2024: [Ecological impacts of Cyclone Gabrielle](/assets/documents/Cyclone_Gabrielle_Integrated_ecological_assessment_Full_report_5March2025_Compressed.pdf)
 
 ### Articles
