@@ -1,5 +1,5 @@
 ---
-title: "1769 Seed Archive and Seed Islands a magnet for visitors"
+title: "Case Studies: A Story of Plant Travel"
 layout: single
 classes: wide
 header:
