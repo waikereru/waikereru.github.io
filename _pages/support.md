@@ -35,7 +35,7 @@ You can support the work of Waikereru by making a tax-deductible donation to The
   <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" hidden="" style="display: none !important;">
 </form>
 
-
+<!--
 Alternatively, you can send a cheque to:
 
 **The Treasurer**,<br/>
@@ -43,7 +43,7 @@ Longbush Ecological Trust,<br/>
 14 Glen Road,<br/>
 Stanley Bay,<br/>
 Auckland 0624
-
+-->
 
 # Sponsors
 
