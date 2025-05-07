@@ -2,7 +2,7 @@
 main:
   - title: "News"
     url: /news/
-  - title: "Support Us"
+  - title: "Support"
     url: /support/
   - title: "Team"
     url: /team/
