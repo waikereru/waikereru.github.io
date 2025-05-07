@@ -21,11 +21,9 @@ It also helped to inspire:
 - The [**'Let the River Speak'**](/river/#let-the-river-speak) Marsden research programme
 - [**'Recloaking Papatūanuku'**](https://pureadvantage.org/recloaking-papatuanuku/), a project to [restore 2 million ha of indigenous forest](https://www.youtube.com/watch?v=mvgxmb4sShA) across Aotearoa New Zealand.
 
-## Nau mai, haere mai!
+## Visiting Waikereru
 
 {% capture visitor-info-text %}
-**Visiting Waikereru**
-
 Waikereru is on private land owned by Dame Anne and Jeremy Salmond.
 
 ***Longbush Reserve*** (on the right side of Riverside Road) is open to the public for bushwalks only. **No events or gatherings please**. Access opposite 910 Riverside Road. As visitors to **Longbush Reserve**, please note you’re responsible for your own health and safety. Stay on the tracks, be careful around electric fences, traps and streams, and take care of our precious bush.

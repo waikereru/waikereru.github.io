@@ -2,8 +2,8 @@
 main:
   - title: "News"
     url: /news/
-  - title: "Sponsors"
-    url: /sponsors/
+  - title: "Support Us"
+    url: /support/
   - title: "Team"
     url: /team/
   - title: "Seed Archive"

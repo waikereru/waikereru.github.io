@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /sponsors/
+permalink: /support/
 title: Donations
 tagline: The project has benefitted from generous help and sponsorship from many people and organisations in Gisborne and elsewhere.
 author_profile: true
