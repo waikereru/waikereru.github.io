@@ -46,14 +46,14 @@ Leading international scientists, Mātauranga mō Te Taiao experts and the award
 
 {% include figure image_path="/assets/images/wildlab/image008.jpg" caption="Stories on Pā Hill" %}
 
-**Ākonga Workshops** include:
-- Rivers in Tears
-- Pesky Predators
-- Navigation & Storytelling
-- 1769 Seed Archive – Flora & Fauna
-- Oi – The Amazing Seabird
-- Koura – The Plight of Freshwater Crayfish
-- Harakeke – The Special Powers of Flax
+**Ākonga Workshops**
+Our immersive workshops include:
+- ***Pesky Predator*** – Students design innovative conservation solutions while exploring predator management strategies
+- ***Ancient Wayfinding*** – Journey through navigation techniques with the Oi/Titi as master navigator
+- ***Native Pollinators*** – Discover plant-pollinator relationships through the fascinating Notoreas Moth
+- ***Rivers in Tears*** – Develop environmental stewardship through freshwater invertebrate exploration
+- ***Seabird Sanctuary*** – Engineer conservation solutions for the Grey-faced Petrel through interactive challenges
+- ***Koura Encounters*** – Experience freshwater ecosystems through multi-sensory activities focused on native crayfish
 
 **Coming soon**: 
 - Tech in the Bush – Soundscape
