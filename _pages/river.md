@@ -194,7 +194,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2025: [Total plant biomass, carbon stock, and species- and age-specific allometry for 12 of New Zealand’s early-colonising indigenous shrub and tree species to 5 years of age](/assets/documents/Marden+et+al_Riparain%20whole%20plant%20biomass_2025.pdf) - Michael Marden, Norman William Herbert Mason, Suzanne Lambie and Donna Rowan
 - [Native plants for riparian stabilisation](/assets/documents/Riparian%20posters_stacked.pdf) (Posters)
 - [Podocarp species posters](/assets/documents/Podocarp%20posters_stacked.pdf) (Posters)
-
+- 2025: [Native understory characteristics of pine plantation stands in Tairāwhiti, New Zealand](/assets/documents/TTTMilestone15TairawhitiReport1-Aug-2025.pdf) - Meg Graeme, Mark Kimberley and Mike Bergin
 
 <!--
 
