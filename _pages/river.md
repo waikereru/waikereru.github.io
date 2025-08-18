@@ -195,6 +195,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - [Native plants for riparian stabilisation](/assets/documents/Riparian%20posters_stacked.pdf) (Posters)
 - [Podocarp species posters](/assets/documents/Podocarp%20posters_stacked.pdf) (Posters)
 - 2025: [Native understory characteristics of pine plantation stands in Tairāwhiti, New Zealand](/assets/documents/TTTMilestone15TairawhitiReport1-Aug-2025.pdf) - Meg Graeme, Mark Kimberley and Mike Bergin
+- 2025: [End of Extinction - A proposal to end the threat of further extinction and extend the range and abundance of our unique forest fauna and flora.](/assets/documents/EndOfExtinctionProposalV3.pdf) - James R Lynch
 
 <!--
 
