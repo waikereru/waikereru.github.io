@@ -135,6 +135,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2023: [Rapid assessment of land damage – Cyclone Gabrielle](/assets/documents/Rapid-assessment-of-land-damage-Cyclone-Gabrielle-Manaaki-Whenua-Landcare-Research-report.pdf) - Manaaki Whenua - Landcare Research
 - 2024: [Extreme Weather Events Impact on Health & Wellbeing in Tairāwhiti & Hawkes Bay](https://teweu.nz/extreme-weather-events-impact-on-health-wellbeing-in-tairawhiti/) - Te Weu Tairāwhiti
 - 2024: [Ecological impacts of Cyclone Gabrielle](/assets/documents/Cyclone_Gabrielle_Integrated_ecological_assessment_Full_report_5March2025_Compressed.pdf)
+- 2025: [What controlled the occurrence of more than 116,000 human‑mapped landslides triggered by Cyclone Gabrielle, New Zealand?](/assets/documents/2025%20Landslides%20Cyclone%20Gabrielle.pdf) - Massey, C. et al.
 
 ### Articles
 
