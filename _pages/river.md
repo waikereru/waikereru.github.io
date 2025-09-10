@@ -203,12 +203,3 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 - [Submission On The Overseas Investment (National Interest Test And Other Matters) Amendment Bill](/assets/documents/2025%20Overseas%20Investment%20Bill%20JK%202025.pdf) - Jane Kelsey
 - [Submission On Amendments To The Nes (Commercial Forestry)](/assets/documents/2025%20NES%20Amendments%20submission.pdf) - Anne Salmond
-<!--
-
-### Feedback from Meetings
-
-- [Community Meeting - July 2021](/assets/documents/WaimataCatchmentProjectMeetingJuly2021.pdf) 
-- [Community Meeting - May 2021](/assets/documents/WaimataCatchmentProjectMeetingMay2021.pdf)
-- [Meeting with Gisborne District Council and DoC - November 2018](/assets/documents/ListeningToTheWaimataRiverNov2018.pdf)
-
--->
