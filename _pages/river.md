@@ -105,6 +105,11 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 - [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
 
+## Thinking about sustainable futures for Tairawhiti and Aotearoa 
+
+- [Submission On The Overseas Investment (National Interest Test And Other Matters) Amendment Bill](/assets/documents/2025%20Overseas%20Investment%20Bill%20JK%202025.pdf) - Jane Kelsey
+- [Submission On Amendments To The Nes (Commercial Forestry)](/assets/documents/2025%20NES%20Amendments%20submission.pdf) - Anne Salmond
+
 ## Waimatā River Resources
 
 ### Research Reports
