@@ -202,4 +202,4 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 ### Thinking about sustainable futures for Tairawhiti and Aotearoa 
 
 - [Submission On The Overseas Investment (National Interest Test And Other Matters) Amendment Bill](/assets/documents/2025%20Overseas%20Investment%20Bill%20JK%202025.pdf) - Jane Kelsey
-- [Submission On Amendments To The Nes (Commercial Forestry)](/assets/documents/2025%20NES%20Amendments%20submission.pdf) - Anne Salmond
+- [Submission On Amendments To The NES (Commercial Forestry)](/assets/documents/2025%20NES%20Amendments%20submission.pdf) - Anne Salmond
