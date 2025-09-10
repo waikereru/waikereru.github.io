@@ -105,11 +105,6 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 - [Marsden Fund Full Research Proposal: Let the River Speak](/assets/documents/20-UOA-260_Salmond_LTRS.pdf)
 
-## Thinking about sustainable futures for Tairawhiti and Aotearoa 
-
-- [Submission On The Overseas Investment (National Interest Test And Other Matters) Amendment Bill](/assets/documents/2025%20Overseas%20Investment%20Bill%20JK%202025.pdf) - Jane Kelsey
-- [Submission On Amendments To The Nes (Commercial Forestry)](/assets/documents/2025%20NES%20Amendments%20submission.pdf) - Anne Salmond
-
 ## Waimatā River Resources
 
 ### Research Reports
@@ -160,7 +155,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2023: [Managing at source and at scale: The use of geomorphic river stories to support rehabilitation of Anthropocene riverscapes in the East Coast Region of Aotearoa New Zealand](/assets/documents/fenvs-11-1162099.pdf) - Fuller, I. C. et al.
 - 2023: [The Root of the Matter: Forests & Colonial Histories in Aotearoa New Zealand](/assets/documents/2023-the-root-of-the-matter.pdf) - Anne Salmond, Manu Caddie
 - 2023: [River restoration as a sociocultural process: A case study from the Waimata Catchment, Aotearoa New Zealand](/assets/documents/2023RiverRestorationAsASocioculturalProcess.pdf) - Danielle Cairns, Gretel Boswijk, Gary Brierley
-- 2023: [Interferometric Synthetic Aperture Radar (InSAR) and field-based observations of rainfall-triggered landslides from the November 2021 storm, Gisborne/Tairawhiti, New Zealand](/assets/documents/InterferometricSyntheticApertureRadarObservations.pdf) - Cook, M., Brook, M., & Cave, M.
+- 2023: [Interferometric Synthetic Aperture Radar (InSAR) and field-based observations of rainfall-triggered landslides from the November 2021 storm, Gisborne/Tairawhiti, New Zealand](/assets/documents/InterferometricSyntheticApertureRadarObservations.pdf) - Cook, M., Brook, M., & Cave, M.
 - 2024: [The Spiral of Life: Regeneration, Rivers and Forests in Aotearoa New Zealand](/assets/documents/2024_The_Spiral_Of_Life.pdf) - Anne Salmond
 - 2024: [Problematising the Anthropocene: Geographic perspectives upon the riverscapes of Waimatā Catchment, Aotearoa New Zealand](/assets/documents/2024-ProblematisingTheAnthropocene.pdf) - Megan Thomas, Billie Lythberg, Dan Hikuroa, Gary Brierley
 
@@ -203,6 +198,11 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2025: [Native understory characteristics of pine plantation stands in Tairāwhiti, New Zealand](/assets/documents/TTTMilestone15TairawhitiReport1-Aug-2025.pdf) - Meg Graeme, Mark Kimberley and Mike Bergin
 - 2025: [End of Extinction - A proposal to end the threat of further extinction and extend the range and abundance of our unique forest fauna and flora.](/assets/documents/EndOfExtinctionProposalV3.pdf) - James R Lynch
 - 2025: [Alt-F Reset: Examining the drivers of forestry in New Zealand](/assets/documents/Parliamentary%20Commissioner%20for%20the%20Environment%20examining-the-drivers-of-forestry-in-new-zealand_web.pdf) - Parliamentary Commissioner for the Environment
+
+### Thinking about sustainable futures for Tairawhiti and Aotearoa 
+
+- [Submission On The Overseas Investment (National Interest Test And Other Matters) Amendment Bill](/assets/documents/2025%20Overseas%20Investment%20Bill%20JK%202025.pdf) - Jane Kelsey
+- [Submission On Amendments To The Nes (Commercial Forestry)](/assets/documents/2025%20NES%20Amendments%20submission.pdf) - Anne Salmond
 <!--
 
 ### Feedback from Meetings
