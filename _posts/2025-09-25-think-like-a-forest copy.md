@@ -12,4 +12,4 @@ Our Chair Dame Anne has enjoyed working with a fantastic team of Tairāwhiti loc
 
 After Cyclone Gabrielle, its a blaze of light on the horizon, thanks to Renee Raroa, Graeme Atkins, Sam Rowland, Nedine Thatcher-Swann and Hilton Collier, among so many others.
 	
-{% include figure image_path="assets\images\news\TAG-photo.jpg" %}
+{% include figure image_path="assets/images/news/TAG-photo.jpg" %}
