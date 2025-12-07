@@ -126,6 +126,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2022: [Vegetation and Flora of Waikereru Ecosanctuary](/assets/documents/2022-Oct-FloraOfWaikereruMarleyFordLandcareResearch.pdf) - Marley Ford
 - 2022: [A biodiversity survey of Waikereru, Waimatā, Gisborne](/assets/documents/MarleyFordBotanicalSurvey2022.pdf) - Marley Ford, Mark Smale and Kelly Gilbride
 - 2023: [Waikereru Ecosanctuary Pest Mammal Monitoring](/assets/documents/2023-May-Pest-Control-report.pdf) - Ecoworks New Zealand
+- 2023: [Ecological Survey And Assessment Of Waimanu Forest, Gisborne](/assets/documents/12925-Ecological-assessment-of-Waimanu-Forest.pdf) - For Aratu Forests Limited
 - 2024: [Year 2 planted Seed Islands - Milestones 3 & 4 Progress report](/assets/documents/2024_Jan_TTT_Year2PlantedSeedIslandsLongbush.pdf) - Tane's Tree Trust
 - 2024: [Waikereru Seed Islands Progress Report](/assets/documents/Final report_Seed_Islands_Oct_2024.pdf) - Ecoworks New Zealand
 
