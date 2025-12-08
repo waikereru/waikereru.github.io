@@ -119,6 +119,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 - 2000: [Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area](/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf) - Dr. Brad Coombes
 - 2006: [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
+- 2015: [An assessment of the freshwater environments at the Longbush Eco-sanctuary](/assets/documents/MurrayPalmerLlongbushFinalFreshwaterSurveyReport.pdf) - Palmer, Murray
 - 2016: [Storm-initiated debris flows and plantation forestry: protocols for monitoring & post-storm data capture](/assets/documents/LandcareReport_GDC_Storm_event_protocol_final.pdf) - Chris Phillips, Michael Marden, Les Basher, Nick Spencer
 - 2021: [How to establish "seed islands" of natives](/assets/documents/2021-Tanes-Tree-Trust-flier-how-to-establish-seed-islands-of-natives_19-apr-2022-16-41-35.pdf) - Tane's Tree Trust
 - 2021: [The coastal habitats of Tairawhiti](/assets/documents/2060-GSDC162-The-coastal-habitats-of-Tairawhiti-A-review-of-the-scientific-local-and-customary-knowledge.pdf)
