@@ -107,14 +107,6 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 ## Waimatā River Resources
 
-### Research Reports
-
-- [Landscapes and Rivers of the Waimatā](/assets/documents/WaimataReport1.pdf) (Research Report 1) - Carola Cullum, Gary Brierley, Mike Marden
-- [Native Land Court Records of Blocks on the Waimatā](/assets/documents/WaimataReport2.pdf) (Research Report 2) - Anne Salmond, Caroline Phillips
-- [Settler History post 1880](/assets/documents/WaimataReport3.pdf) (Research Report 3) - Sheridan Gundry
-- [Biodiversity in the Waimatā](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Research Report 4) - Abigail Salmond
-- [A Place Belonging to the Heart](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (Research Report 5) - Michelle Reeve
-
 ### Waikereru Reports
 - 2000: [Archaeological Assessment of Longbush](/assets/documents/2000%20ArchaeologicalAssessmentGordonJackman.pdf) - Jackman & Black Archaeology
 - 2013: [Longbush Ecosanctuary: assessment of baseline flora and vegetation by landform](/assets/documents/2013%20Longbush%20botanical%20survey%20Mark%20Smale.pdf) - Manaaki Whenua - Landcare Research
@@ -130,6 +122,14 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2024: [Waikereru Five-Minute Bird Counts](/assets/documents/2023%20Dec%20Bird%20Counts%20Waikererū%205MBC%20Dec2023.pdf) - Ecoworks New Zealand
 - 2024: [Waikereru Seed Islands Progress Report](/assets/documents/Final report_Seed_Islands_Oct_2024.pdf) - Ecoworks New Zealand
 - 2024: [Year 2 planted Seed Islands - Milestones 3 & 4 Progress report](/assets/documents/2024_Jan_TTT_Year2PlantedSeedIslandsLongbush.pdf) - Tane's Tree Trust
+
+### Research Reports
+
+- [Landscapes and Rivers of the Waimatā](/assets/documents/WaimataReport1.pdf) (Research Report 1) - Carola Cullum, Gary Brierley, Mike Marden
+- [Native Land Court Records of Blocks on the Waimatā](/assets/documents/WaimataReport2.pdf) (Research Report 2) - Anne Salmond, Caroline Phillips
+- [Settler History post 1880](/assets/documents/WaimataReport3.pdf) (Research Report 3) - Sheridan Gundry
+- [Biodiversity in the Waimatā](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Research Report 4) - Abigail Salmond
+- [A Place Belonging to the Heart](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (Research Report 5) - Michelle Reeve
 
 ### Reports
 
