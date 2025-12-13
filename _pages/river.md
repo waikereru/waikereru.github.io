@@ -116,7 +116,6 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - [A Place Belonging to the Heart](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (Research Report 5) - Michelle Reeve
 
 ### Waikereru Reports
-restoration-need-not-cost-the-earth/) - Dr. Marie Doole
 - 2000: [Archaeological Assessment of Longbush](/assets/documents/2000%20ArchaeologicalAssessmentGordonJackman.pdf) - Jackman & Black Archaeology
 - 2013: [Longbush Ecosanctuary: assessment of baseline flora and vegetation by landform](/assets/documents/2013%20Longbush%20botanical%20survey%20Mark%20Smale.pdf) - Manaaki Whenua - Landcare Research
 - 2014: [Longbush Reserve Habitat Restoration Plan](/assets/documents/2014%20Longbush%20Reserve%20Habitat%20restoration%20plan.pdf) - Ecoworks New Zealand
