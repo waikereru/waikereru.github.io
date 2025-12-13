@@ -131,7 +131,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - [Biodiversity in the Waimatā](/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf) (Research Report 4) - Abigail Salmond
 - [A Place Belonging to the Heart](/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf) (Research Report 5) - Michelle Reeve
 
-### Reports
+### Other Reports
 
 - 2000: [Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area](/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf) - Dr. Brad Coombes
 - 2006: [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
