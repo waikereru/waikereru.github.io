@@ -120,11 +120,14 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2013: [Longbush Ecosanctuary: assessment of baseline flora and vegetation by landform](/assets/documents/2013%20Longbush%20botanical%20survey%20Mark%20Smale.pdf) - Manaaki Whenua - Landcare Research
 - 2014: [Longbush Reserve Habitat Restoration Plan](/assets/documents/2014%20Longbush%20Reserve%20Habitat%20restoration%20plan.pdf) - Ecoworks New Zealand
 - 2015: [An assessment of the freshwater environments at the Longbush Eco-sanctuary](/assets/documents/MurrayPalmerLlongbushFinalFreshwaterSurveyReport.pdf) - Palmer, Murray
-- 2019: [Restoration need not cost the earth – managed natural regeneration at Waikereru (Longbush) Ecosanctuary](https://pureadvantage.org/- 2022: [Vegetation and Flora of Waikereru Ecosanctuary](/assets/documents/2022-Oct-FloraOfWaikereruMarleyFordLandcareResearch.pdf) - Marley Ford
+- 2019: [Restoration need not cost the earth – managed natural regeneration at Waikereru Ecosanctuary](https://pureadvantage.org/restoration-need-not-cost-the-earth/) - Dr. Marie Doole
+- 2022: [Vegetation and Flora of Waikereru Ecosanctuary](/assets/documents/2022-Oct-FloraOfWaikereruMarleyFordLandcareResearch.pdf) - Marley Ford
 - 2021: [Wild Lab Tiaki Taiao Evaluation Report](/assets/documents/2021%20WildLabTiakiTaiao%20Evaluation%20Report.pdf) - Akroyd Research and Evaluation Ltd.
 - 2022: [A biodiversity survey of Waikereru, Waimatā, Gisborne](/assets/documents/MarleyFordBotanicalSurvey2022.pdf) - Marley Ford, Mark Smale and Kelly Gilbride
 - 2022: [Evaluation of species and sites for establishing seed islands, Waikereru Ecosanctuary](/assets/documents/2022%20March%20TTT%20report%20Waikereru%20seed%20island%20project%20Michael%20and%20David%20Bergin%20-%20plot%20assessment%20&%20recommendations.pdf) - David Bergin
+- 2022: [Waikereru Baseline Bird Counts](/assets/documents/2022%20Waikereru%20Baseline%20Bird%20Counts.pdf) - Ecoworks New Zealand
 - 2023: [Waikereru Ecosanctuary Pest Mammal Monitoring](/assets/documents/2023-May-Pest-Control-report.pdf) - Ecoworks New Zealand
+- 2024: [Waikereru Five-Minute Bird Counts](/assets/documents/2023%20Dec%20Bird%20Counts%20Waikererū%205MBC%20Dec2023.pdf) - Ecoworks New Zealand
 - 2024: [Waikereru Seed Islands Progress Report](/assets/documents/Final report_Seed_Islands_Oct_2024.pdf) - Ecoworks New Zealand
 - 2024: [Year 2 planted Seed Islands - Milestones 3 & 4 Progress report](/assets/documents/2024_Jan_TTT_Year2PlantedSeedIslandsLongbush.pdf) - Tane's Tree Trust
 
