@@ -122,6 +122,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2024: [Waikereru Five-Minute Bird Counts](/assets/documents/2023%20Dec%20Bird%20Counts%20Waikererū%205MBC%20Dec2023.pdf) - Ecoworks New Zealand
 - 2024: [Waikereru Seed Islands Progress Report](/assets/documents/Final report_Seed_Islands_Oct_2024.pdf) - Ecoworks New Zealand
 - 2024: [Year 2 planted Seed Islands - Milestones 3 & 4 Progress report](/assets/documents/2024_Jan_TTT_Year2PlantedSeedIslandsLongbush.pdf) - Tane's Tree Trust
+- 2025: [Case Studies: A Story of Plant Travel](https://www.masseypress.ac.nz/media/iehdgy0e/case-studies.pdf) - Salmond, Anne, A Second Paradise, in eds. Felicity Smith and Mark Jones (Palmerston North, Massey University Press), 270-296.
 
 ### Research Reports
 
@@ -169,6 +170,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2023: [Interferometric Synthetic Aperture Radar (InSAR) and field-based observations of rainfall-triggered landslides from the November 2021 storm, Gisborne/Tairawhiti, New Zealand](/assets/documents/InterferometricSyntheticApertureRadarObservations.pdf) - Cook, M., Brook, M., & Cave, M.
 - 2024: [The Spiral of Life: Regeneration, Rivers and Forests in Aotearoa New Zealand](/assets/documents/2024_The_Spiral_Of_Life.pdf) - Anne Salmond
 - 2024: [Problematising the Anthropocene: Geographic perspectives upon the riverscapes of Waimatā Catchment, Aotearoa New Zealand](/assets/documents/2024-ProblematisingTheAnthropocene.pdf) - Megan Thomas, Billie Lythberg, Dan Hikuroa, Gary Brierley
+- 2025: [Listening to Rivers: Sharing river stories from Aotearoa New Zealand in a European context](/assets/documents/ListeningToRivers2025.pdf) - Anne Salmond, Billie Lythberg, Dan Hikuroa and Gary Brierley
 
 ### Theses
 
