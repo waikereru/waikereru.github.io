@@ -122,6 +122,8 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2024: [Waikereru Five-Minute Bird Counts](/assets/documents/2023%20Dec%20Bird%20Counts%20Waikererū%205MBC%20Dec2023.pdf) - Ecoworks New Zealand
 - 2024: [Waikereru Seed Islands Progress Report](/assets/documents/Final report_Seed_Islands_Oct_2024.pdf) - Ecoworks New Zealand
 - 2024: [Year 2 planted Seed Islands - Milestones 3 & 4 Progress report](/assets/documents/2024_Jan_TTT_Year2PlantedSeedIslandsLongbush.pdf) - Tane's Tree Trust
+- 2024: [Waikereru Pest Management Plan 2024](/assets/documents/WaikereruPestManagementPlan2024.pdf)
+- 2024: [Waikereru Weed Management Plan 2024](/assets/documents/WaikereruWeedManagementPlan2024.pdf)
 - 2025: [Case Studies: A Story of Plant Travel](https://www.masseypress.ac.nz/media/iehdgy0e/case-studies.pdf) - Salmond, Anne, A Second Paradise, in eds. Felicity Smith and Mark Jones (Palmerston North, Massey University Press), 270-296.
 
 ### Research Reports
@@ -136,6 +138,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 - 2000: [Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area](/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf) - Dr. Brad Coombes
 - 2006: [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
+- 2014: [The importance of the social components of biotransformation in the treatment of wastewater](/assets/documents/Wastewater%20Report%20Gisborne%202013.pdf) - Te Turanganui a Kiwa Gisborne Wastewater Technical Advisory Group
 - 2016: [Storm-initiated debris flows and plantation forestry: protocols for monitoring & post-storm data capture](/assets/documents/LandcareReport_GDC_Storm_event_protocol_final.pdf) - Chris Phillips, Michael Marden, Les Basher, Nick Spencer
 - 2021: [How to establish "seed islands" of natives](/assets/documents/2021-Tanes-Tree-Trust-flier-how-to-establish-seed-islands-of-natives_19-apr-2022-16-41-35.pdf) - Tane's Tree Trust
 - 2021: [The coastal habitats of Tairawhiti](/assets/documents/2060-GSDC162-The-coastal-habitats-of-Tairawhiti-A-review-of-the-scientific-local-and-customary-knowledge.pdf)
@@ -144,7 +147,9 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 ### Impacts of Cyclone Gabrielle
 
+- 2023: [Waimatā River Flooding Slash Debris Summary](/assets/documents/Waimata%20Pine%20Slash%20Impacts%20Feb2023.pdf) - Ecoworks New Zealand
 - 2023: [Rapid assessment of land damage – Cyclone Gabrielle](/assets/documents/Rapid-assessment-of-land-damage-Cyclone-Gabrielle-Manaaki-Whenua-Landcare-Research-report.pdf) - Manaaki Whenua - Landcare Research
+- 2023: [Land Inquiry Cyclone Gabrielle Submission](/assets/documents/Land%20Inquiry%20Submission%20Waimata%20Catchment%20Group.pdf) - Waimatā Catchment Group
 - 2024: [Extreme Weather Events Impact on Health & Wellbeing in Tairāwhiti & Hawkes Bay](https://teweu.nz/extreme-weather-events-impact-on-health-wellbeing-in-tairawhiti/) - Te Weu Tairāwhiti
 - 2024: [Ecological impacts of Cyclone Gabrielle](/assets/documents/Cyclone_Gabrielle_Integrated_ecological_assessment_Full_report_5March2025_Compressed.pdf)
 - 2025: [What controlled the occurrence of more than 116,000 human‑mapped landslides triggered by Cyclone Gabrielle, New Zealand?](/assets/documents/2025%20Landslides%20Cyclone%20Gabrielle.pdf) - Massey, C. et al.
@@ -190,8 +195,6 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - [Waimatā Catchment Map](/assets/documents/raukumara_hi-res_opt.pdf) with blocks and ancestral place names, by Hamish MacDonald
 - [Waimatā Catchment Restoration Project on Facebook](https://www.facebook.com/Waimata-Catchment-Restoration-Project-112407203838612/)
 - [Te Tairāwhiti Qualitative Report](/assets/documents/te-tairawhiti-qualitative-report-fa-online-spread-june-2024-1.pdf)
-- [Waikereru Pest Management Plan 2024](/assets/documents/WaikereruPestManagementPlan2024.pdf)
-- [Waikereru Weed Management Plan 2024](/assets/documents/WaikereruWeedManagementPlan2024.pdf)
 
 ### Funding Applications
 
