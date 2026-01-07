@@ -209,10 +209,14 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 
 ### Ecological Restoration
 
+- 1994: [Vegetation and slopes - stabilisation, protection and ecology](/assets/documents/Watson%20et%20al%201997_Kanuka%20Radiata%20slope%20stability%20book%20chapter.pdf) - Watson, Alex et al.
+- 1998: [Root-wood strength deterioration in Kanuka after clearfelling](/assets/documents/Watson%20et%20al_kanuka%20root%20decay_1997.pdf) - Watson, Alex et al.
+- 1999: [Interception and throughfall in a regenerating stand of kanuka, and implications for soil conservation](/assets/documents/Rowe%20et%20al._Kanuka%20Interception_JoHNZ_1999_v38.pdf) - L. K. Rowe et al.
 - 2005: [Stabilising characteristics of New Zealand indigenous riparian colonising plants](/assets/documents/Marden%20et%20al_Stabilising%20characteristics%20riparian%20species_2005_Plant%20&%20Soil.pdf) - M. Marden, D. Rowan & C. Phillips
 - 2018: [Waimata River Riparian Zone Description and Guidance for Restoration](/assets/documents/1845-GSDC148-Waimata-River-riparian-zone-description-and-guidance-for-restoration.pdf) - Adam Forbes, David Norton and Grace Marshall
 - 2018: [Biomass and root attributes of eight of New Zealand’s most common indigenous evergreen conifer and broadleaved forest species during the first 5 years of establishment](/assets/documents/Marden_et_al-2018-Conifer%20&%20Broadleaved%20species_New_Zealand_Journal_of_Forestry_Science.pdf) - Michael Marden, Suzanne Lambie and Chris Phillips
 - 2018: [Root system attributes of 12 juvenile indigenous early colonising shrub and tree species with potential for mitigating erosion in New Zealand](/assets/documents/Marden%20et%20al_2018_NZJFS%20Riparian%20plant%20trial_10.1186_s40490-018-0115-9.pdf) - M. Marden1, S. Lambie and D. Rowan
+- 2019: [Root biomass allocation in southern temperate forests](/assets/documents/Easdale%20et%20al_Root%20biomass.pdf) - Tomás A. Easdale et al.
 - 2020: [Potential effectiveness of low-density plantings of mānuka (Leptospermum scoparium) as an erosion mitigation strategy in steeplands, northern Hawke’s Bay, New Zealand](/assets/documents/Marden%20et%20al_manuka%20Tutira%20paper%202020.pdf) - Michael Marden, Suzanne Lambie and Chris Phillips
 - 2025: [Total plant biomass, carbon stock, and species- and age-specific allometry for 12 of New Zealand’s early-colonising indigenous shrub and tree species to 5 years of age](/assets/documents/Marden+et+al_Riparain%20whole%20plant%20biomass_2025.pdf) - Michael Marden, Norman William Herbert Mason, Suzanne Lambie and Donna Rowan
 - [Native plants for riparian stabilisation](/assets/documents/Riparian%20posters_stacked.pdf) (Posters)
@@ -220,7 +224,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2025: [Native understory characteristics of pine plantation stands in Tairāwhiti, New Zealand](/assets/documents/TTTMilestone15TairawhitiReport1-Aug-2025.pdf) - Meg Graeme, Mark Kimberley and Mike Bergin
 - 2025: [End of Extinction - A proposal to end the threat of further extinction and extend the range and abundance of our unique forest fauna and flora.](/assets/documents/EndOfExtinctionProposalV3.pdf) - James R Lynch
 - 2025: [Alt-F Reset: Examining the drivers of forestry in New Zealand](/assets/documents/Parliamentary%20Commissioner%20for%20the%20Environment%20examining-the-drivers-of-forestry-in-new-zealand_web.pdf) - Parliamentary Commissioner for the Environment
-
+- 2025: [Transitioning Exotic Forest to Native - Draft Preliminary Guidelines for Transitional Forestry](/assets/documents/Transition%20summary%20report%20DRAFT%20for%20review%2022-10-2025.pdf)
 ### Thinking about sustainable futures for Tairawhiti and Aotearoa 
 
 - [Submission On Amendments To The Overseas Investment Act](/assets/documents/2025%20Submission%20on%20OIA%20amendments.pdf) - Anne Salmond
