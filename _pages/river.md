@@ -167,6 +167,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2008: [Last Glacial Aggradation and Postglacial Sediment Production from the Non-Glacial Waipaoa and Waimata Catchments, Hikurangi Margin, North Island, New Zealand](/assets/documents/MardenArticleLTRS.pdf) - Marden, Michael et al.
 - 2014: [Tears of Rangi: Water, power, and people in New Zealand](https://www.haujournal.org/index.php/hau/article/view/hau4.3.017) - Anne Salmond
 - 2016: [An Approach for Measuring Confinement and Assessing the Influence of Valley Setting on River Forms and Processes.](/assets/documents/FryirsAndBrierleyLTRS.pdf) - Fryirs, Kirstie A. et al.
+- 2017: [Tairāwhiti plants collected on Endeavour expedition, based on citations from the Florilegium](/assets/documents/Salmond%20TaiRawhitiPlantsFlorilegium.pdf) - Salmond, Anne
 - 2018: [“Engineering Geomorphological Reconnaissance of the December 2018 Waimata Valley Mud Volcano Eruption, Gisborne, New Zealand.](/assets/documents/LeightonMudVolcanoLTRS.pdf) - Leighton, Alex et al.
 - 2018: [A geomorphic perspective on the rights of the river in Aotearoa New Zealand](/assets/documents/2018_Brierley_A_Geomorphic_Perspective.pdf) - Gary Brierley, Marc Tadaki, Dan Hikuroa, Brendon Blue, Charlotte Šunde, Jon Tunnicliffe, Anne Salmond
 - 2019: [Let the Rivers Speak - Thinking about waterways in Aotearoa New Zealand](/assets/documents/2019_08_LetTheRiversSpeak.pdf) - Anne Salmond, Gary Brierley and Dan Hikuroa
@@ -182,6 +183,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2024: [The Spiral of Life: Regeneration, Rivers and Forests in Aotearoa New Zealand](/assets/documents/2024_The_Spiral_Of_Life.pdf) - Anne Salmond
 - 2024: [Problematising the Anthropocene: Geographic perspectives upon the riverscapes of Waimatā Catchment, Aotearoa New Zealand](/assets/documents/2024-ProblematisingTheAnthropocene.pdf) - Megan Thomas, Billie Lythberg, Dan Hikuroa, Gary Brierley
 - 2025: [Listening to Rivers: Sharing river stories from Aotearoa New Zealand in a European context](/assets/documents/ListeningToRivers2025.pdf) - Anne Salmond, Billie Lythberg, Dan Hikuroa and Gary Brierley
+- 2025: [Banks & Solander Botanical Collections Tai Rawhiti](/assets/documents/1769-final-tairawhiti-species-banks-and-solander.pdf) - Cameron, Ewen
 
 ### Theses
 
