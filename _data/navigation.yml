@@ -16,6 +16,7 @@ main:
     url: /shelter/
   - title: "History"
     url: /history/
+    
 garden:
   - title: "Introduction"
     url: /1769-garden/#page-title
@@ -48,3 +49,60 @@ garden:
   - title: "Links"
     url: /1769-garden/#links
 
+research:
+  - title: "Research Resources"
+    url: /research/#research-resources
+    children:
+      - title: "Waikereru Reports"
+        url: /research/#waikereru-reports
+      - title: "Research Reports"
+        url: /research/#research-reports
+      - title: "Other Reports"
+        url: /research/#other-reports
+      - title: "Cyclone Gabrielle"
+        url: /research/#impacts-of-cyclone-gabrielle
+      - title: "Articles"
+        url: /research/#articles
+      - title: "Theses"
+        url: /research/#theses
+      - title: "Resources"
+        url: /research/#resources
+      - title: "Funding Applications"
+        url: /research/#funding-applications
+      - title: "Ecological Restoration"
+        url: /research/#ecological-restoration
+      - title: "Sustainable Futures"
+        url: /research/#thinking-about-sustainable-futures-for-tairawhiti-and-aotearoa
+  - title: "History"
+    url: /research/#history
+    children:
+      - title: "The Land"
+        url: /research/#the-land
+      - title: "The Project"
+        url: /research/#the-project
+        children:
+          - title: "Stage 1 - Longbush Reserve"
+            url: /research/#stage-one---longbush-reserve
+          - title: "Stage 2 - Wildlife Corridors"
+            url: /research/#stage-two---the-wildlife-corridors
+          - title: "Stage 3 - Waikereru"
+            url: /research/#stage-three---waikereru
+  - title: "Waimatā River"
+    url: /research/#waimatā-river
+    children:
+      - title: "The Waimatā is in trouble"
+        url: /research/#the-waimatā-is-in-trouble
+      - title: "The Tide is Turning"
+        url: /research/#the-tide-is-turning
+      - title: "Future of the Waimatā"
+        url: /research/#the-future-of-the-waimatā
+      - title: "Te Awaroa"
+        url: /research/#te-awaroa
+      - title: "Guardians of the Waimatā"
+        url: /research/#guardians-of-the-waimatā
+      - title: "Catchment Group"
+        url: /research/#waimatā-catchment-restoration-inc-established
+      - title: "Let the River Speak"
+        url: /research/#let-the-river-speak
+
+  
