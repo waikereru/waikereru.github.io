@@ -10,12 +10,10 @@ main:
     url: /1769-garden/
   - title: "Wild Lab"
     url: /wildlab/
-  - title: "Waimatā River"
-    url: /river/
   - title: "Welcome Shelter"
     url: /shelter/
-  - title: "History"
-    url: /history/
+  - title: "Research"
+    url: /research/
     
 garden:
   - title: "Introduction"
