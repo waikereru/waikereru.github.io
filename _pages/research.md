@@ -110,7 +110,7 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2023: [Average Circulation Conditions that Precede River Flooding in Eastern Catchments of New Zealand](/assets/documents/AverageCirculationConditionsThesis.pdf) - Bridges, Amy
 - 2024 [Assessment of nature-based flood management (NBFM) approaches in the upper Waimatā Catchment, Gisborne](/assets/documents/MastersDissertationKayaVanDeventer-Hollands.pdf) - Hollands, Kaya
 
-### Resources
+### Other Resources
 
 - [Bibliography: Mike Marden](/assets/documents/Reference-material-for-Transition-Advisory-Group.pdf)
 - [Jobs For Nature Programmes Tairāwhiti](/assets/documents/JobsForNatureProgrammesTairawhiti.pdf)
