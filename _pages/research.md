@@ -11,6 +11,14 @@ sidebar:
     nav: "research"
 ---
 
+'Waikereru,' an ancestral place name, means 'water frequented by kereru (native pigeons).'  It refers to the birds that live around the streams, in the forest and along the banks of the Waimatā river.
+
+We see Waikereru as a living community of land, water, plants, animals and people. In the research that guides the restoration work at Waikereru, we want to understand each of these different life forms, and how they've lived together and changed through time. 
+
+Waikereru sits at the heart of the Waimatā river community. In the ['Let the River Speak' research project](/research/#let-the-river-speak), we explore the life of the Waimatā river from its beginnings about a million years ago to the present, and the future. The aim is to restore ora (life, well-being, prosperity) to as many of these different life forms as possible.
+
+The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti plants, the [Wild Lab / Tiaki Taiao programme](/wildlab/) for local school children, the pā harakeke, the restoration work with river, streams and forests and the ['Let the River Speak' research programme](/research/#let-the-river-speak) are all part of this regenerative project.
+
 
 ## Research Resources
 
