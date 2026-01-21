@@ -48,8 +48,8 @@ garden:
     url: /1769-garden/#links
 
 research:
-  - title: "Research Resources"
-    url: /research/#research-resources
+  - title: "Resources"
+    url: /research/#resources
     children:
       - title: "Waikereru Reports"
         url: /research/#waikereru-reports

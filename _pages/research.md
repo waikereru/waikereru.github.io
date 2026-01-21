@@ -20,7 +20,7 @@ Waikereru sits at the heart of the Waimatā river community. In the ['Let the Ri
 The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti plants, the [Wild Lab / Tiaki Taiao programme](/wildlab/) for local school children, the pā harakeke, the restoration work with river, streams and forests and the ['Let the River Speak' research programme](/research/#let-the-river-speak) are all part of this regenerative project.
 
 
-## Research Resources
+## Resources
 
 ### Waikereru Reports
 - 2000: [Archaeological Assessment of Longbush](/assets/documents/2000%20ArchaeologicalAssessmentGordonJackman.pdf) - Jackman & Black Archaeology
