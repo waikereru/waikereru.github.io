@@ -6,7 +6,7 @@ main:
     url: /support/
   - title: "Team"
     url: /team/
-  - title: "Seed Archive"
+  - title: "1769 Seed Archive"
     url: /1769-garden/
   - title: "Wild Lab"
     url: /wildlab/
@@ -14,6 +14,8 @@ main:
     url: /shelter/
   - title: "Research"
     url: /research/
+  - title: "History"
+    url: /history/
     
 garden:
   - title: "Introduction"
