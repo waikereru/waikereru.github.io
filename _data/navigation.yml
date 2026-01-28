@@ -73,20 +73,6 @@ research:
         url: /research/#ecological-restoration
       - title: "Sustainable Futures"
         url: /research/#thinking-about-sustainable-futures-for-tairawhiti-and-aotearoa
-  - title: "History"
-    url: /research/#history
-    children:
-      - title: "The Land"
-        url: /research/#the-land
-      - title: "The Project"
-        url: /research/#the-project
-        children:
-          - title: "Stage 1 - Longbush Reserve"
-            url: /research/#stage-one---longbush-reserve
-          - title: "Stage 2 - Wildlife Corridors"
-            url: /research/#stage-two---the-wildlife-corridors
-          - title: "Stage 3 - Waikereru"
-            url: /research/#stage-three---waikereru
   - title: "Waimatā River"
     url: /research/#waimatā-river
     children:
