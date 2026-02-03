@@ -126,7 +126,7 @@ In response to these challenges, the *'Let the River Speak'* research team are s
 - 2024: [Year 2 planted Seed Islands - Milestones 3 & 4 Progress report](/assets/documents/2024_Jan_TTT_Year2PlantedSeedIslandsLongbush.pdf) - Tane's Tree Trust
 - 2024: [Waikereru Pest Management Plan 2024](/assets/documents/WaikereruPestManagementPlan2024.pdf)
 - 2024: [Waikereru Weed Management Plan 2024](/assets/documents/WaikereruWeedManagementPlan2024.pdf)
-- 2025: [Case Studies: A Story of Plant Travel](https://www.masseypress.ac.nz/media/iehdgy0e/case-studies.pdf) - Salmond, Anne, A Second Paradise, in eds. Felicity Smith and Mark Jones (Palmerston North, Massey University Press), 270-296.
+- 2025: [Case Studies: A Story of Plant Travel](/assets/documents/Anne%20Salmond%20extract%20Case%20Studies.pdf) - Salmond, Anne, A Second Paradise, in eds. Felicity Smith and Mark Jones (Palmerston North, Massey University Press), 270-296.
 - 2025: [Waikereru growth rate plots](/assets/documents/Waikereru%20Plots.pdf)
 - 2025: [Waikereru growth rate data for indigenous species](/assets/documents/Waikereru%20Data.pdf)
 

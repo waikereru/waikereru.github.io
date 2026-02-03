@@ -115,7 +115,7 @@ When they came ashore in Tūranganui, Joseph Banks was sure they had found Terra
 
 There they were sketched by **Sydney Parkinson**, the Quaker artist; classified and described by Banks and Solander using the Linnaean method of counting the pistels and stamens on their flowers; and pressed between pages of a commentary on Milton’s *Paradise Lost.*  Many of these pressed plants still survive in herbaria collections in the United Kingdom, Australia and New Zealand.
 
-Banks and Solander collected specimens of 73 new species of plants in Turanganui-a-Kiwa; 115 in Anaura Bay; and 193 in Uawa (Tolaga Bay). 52 of these species are currently represented in the garden.
+Banks and Solander collected specimens of 73 new species of plants in Turanganui-a-Kiwa; 115 in Anaura Bay; and 193 in Uawa (Tolaga Bay). 52 of these species are currently represented in the garden. For Anne Salmond's account of their collecting in Tairāwhiti, and how this inspired the 1769 Seed Archive, [click here](/assets/documents/Anne%20Salmond%20extract%20Case%20Studies.pdf).
 
 Background research on their Tairāwhiti collections was carried out by Ewen Cameron, Curator (Botany) at Auckland War Memorial Museum, and Anne Salmond, Chair Longbush Ecological Trust: [click here](/assets/documents/1769TairawhitiSpeciesBanksAndSolander.pdf) for the illustrated plant list.
 
