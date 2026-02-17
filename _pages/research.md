@@ -61,7 +61,7 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2011: [An inventory of deep-seated landslides in the Waipaoa and Waimata catchments](https://natlib.govt.nz/records/29841380) - M. J. Page, B. Lukovic.
 - 2016: [Storm-initiated debris flows and plantation forestry: protocols for monitoring & post-storm data capture](/assets/documents/LandcareReport_GDC_Storm_event_protocol_final.pdf) - Chris Phillips, Michael Marden, Les Basher, Nick Spencer
 - 2021: [How to establish "seed islands" of natives](/assets/documents/2021-Tanes-Tree-Trust-flier-how-to-establish-seed-islands-of-natives_19-apr-2022-16-41-35.pdf) - Tane's Tree Trust
-- 2021: [The coastal habitats of Tairawhiti](/assets/documents/2060-GSDC162-The-coastal-habitats-of-Tairawhiti-A-review-of-the-scientific-local-and-customary-knowledge.pdf)
+- 2021: [The coastal habitats of Tairawhiti](/assets/documents/2060-GSDC162-The-coastal-habitats-of-Tairawhiti-A-review-of-the-scientific-local-and-customary-knowledge.pdf) - Phil M. Ross
 - 2022: [Pre-human vegetation of the Pakowhai Wetland QEII National Trust covenant](/assets/documents/Final_report_Wilmshurst_PakowhaiWetlandQEII_2022.pdf) - Wilmshurst, Janet
 - 2023: [Ecological Survey And Assessment Of Waimanu Forest, Gisborne](/assets/documents/12925-Ecological-assessment-of-Waimanu-Forest.pdf) - For Aratu Forests Limited
 - 2023: [2023 Bird Survey in the Upper Waimata Valley](/assets/documents/2023%20Waimata%20Valley%20bird%20survey%20report.pdf) - Malcolm Rutherford
@@ -76,7 +76,7 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2023: [Rapid assessment of land damage – Cyclone Gabrielle](/assets/documents/Rapid-assessment-of-land-damage-Cyclone-Gabrielle-Manaaki-Whenua-Landcare-Research-report.pdf) - Manaaki Whenua - Landcare Research
 - 2023: [Land Inquiry Cyclone Gabrielle Submission](/assets/documents/Land%20Inquiry%20Submission%20Waimata%20Catchment%20Group.pdf) - Waimatā Catchment Group
 - 2024: [Extreme Weather Events Impact on Health & Wellbeing in Tairāwhiti & Hawkes Bay](https://teweu.nz/extreme-weather-events-impact-on-health-wellbeing-in-tairawhiti/) - Te Weu Tairāwhiti
-- 2024: [Ecological impacts of Cyclone Gabrielle](/assets/documents/Cyclone_Gabrielle_Integrated_ecological_assessment_Full_report_5March2025_Compressed.pdf)
+- 2024: [Ecological impacts of Cyclone Gabrielle](/assets/documents/Cyclone_Gabrielle_Integrated_ecological_assessment_Full_report_5March2025_Compressed.pdf) - Manaaki Whenua – Landcare Research
 - 2025: [What controlled the occurrence of more than 116,000 human‑mapped landslides triggered by Cyclone Gabrielle, New Zealand?](/assets/documents/2025%20Landslides%20Cyclone%20Gabrielle.pdf) - Massey, C. et al.
 
 ### Mud Volcanoes
