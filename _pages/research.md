@@ -58,6 +58,7 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2000: [Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area](/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf) - Dr. Brad Coombes
 - 2006: [The Turanganui River - A Brief History](/assets/documents/TuranganuiRiverHistory.pdf) - Michael Spedding
 - 2014: [The importance of the social components of biotransformation in the treatment of wastewater](/assets/documents/Wastewater%20Report%20Gisborne%202013.pdf) - Te Turanganui a Kiwa Gisborne Wastewater Technical Advisory Group
+- 2011: [An inventory of deep-seated landslides in the Waipaoa and Waimata catchments](https://natlib.govt.nz/records/29841380) - M. J. Page, B. Lukovic.
 - 2016: [Storm-initiated debris flows and plantation forestry: protocols for monitoring & post-storm data capture](/assets/documents/LandcareReport_GDC_Storm_event_protocol_final.pdf) - Chris Phillips, Michael Marden, Les Basher, Nick Spencer
 - 2021: [How to establish "seed islands" of natives](/assets/documents/2021-Tanes-Tree-Trust-flier-how-to-establish-seed-islands-of-natives_19-apr-2022-16-41-35.pdf) - Tane's Tree Trust
 - 2021: [The coastal habitats of Tairawhiti](/assets/documents/2060-GSDC162-The-coastal-habitats-of-Tairawhiti-A-review-of-the-scientific-local-and-customary-knowledge.pdf)
@@ -65,15 +66,25 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2023: [Ecological Survey And Assessment Of Waimanu Forest, Gisborne](/assets/documents/12925-Ecological-assessment-of-Waimanu-Forest.pdf) - For Aratu Forests Limited
 - 2023: [2023 Bird Survey in the Upper Waimata Valley](/assets/documents/2023%20Waimata%20Valley%20bird%20survey%20report.pdf) - Malcolm Rutherford
 - 2024: [2024 Bird Survey in the Upper Waimata Valley](/assets/documents/2024%20Waimata%20bird%20survey%20report.pdf) - Malcolm Rutherford
+- 2025: [Waimatā Nature Based Solutions Toolbox Summary Report](/assets/documents/20250725_Waimata_%20NBS%20Toolbox%20report_final#2.pdf) - Tonkin & Taylor Ltd
 
-### Impacts of Cyclone Gabrielle
+### Impacts of Cyclones
 
+- 2017: [Cyclone Cook Slash Investigation](/assets/documents/cyclone-cook-slash-investigation-2017-report.pdf) - Dr. M. P. Cave et al. 
 - 2023: [Waimatā River Flooding Slash Debris Summary](/assets/documents/Waimata%20Pine%20Slash%20Impacts%20Feb2023.pdf) - Ecoworks New Zealand
+- 2023: [Assessment of Large Woody Debris](/assets/documents/Assessment-of-LWD-Waikanae-Tolaga-and-Tikapa-v2_sm.pdf) - Dr. M. P. Cave
 - 2023: [Rapid assessment of land damage – Cyclone Gabrielle](/assets/documents/Rapid-assessment-of-land-damage-Cyclone-Gabrielle-Manaaki-Whenua-Landcare-Research-report.pdf) - Manaaki Whenua - Landcare Research
 - 2023: [Land Inquiry Cyclone Gabrielle Submission](/assets/documents/Land%20Inquiry%20Submission%20Waimata%20Catchment%20Group.pdf) - Waimatā Catchment Group
 - 2024: [Extreme Weather Events Impact on Health & Wellbeing in Tairāwhiti & Hawkes Bay](https://teweu.nz/extreme-weather-events-impact-on-health-wellbeing-in-tairawhiti/) - Te Weu Tairāwhiti
 - 2024: [Ecological impacts of Cyclone Gabrielle](/assets/documents/Cyclone_Gabrielle_Integrated_ecological_assessment_Full_report_5March2025_Compressed.pdf)
 - 2025: [What controlled the occurrence of more than 116,000 human‑mapped landslides triggered by Cyclone Gabrielle, New Zealand?](/assets/documents/2025%20Landslides%20Cyclone%20Gabrielle.pdf) - Massey, C. et al.
+
+### Mud Volcanoes
+
+- 1908: Mud and Gas Blow-out at Waimata, Gisborne - Ackroyd, W.E, New Zealand Mines Records, 12, 64-65.
+- 1908: The eruption of the Waimata mud spring - Adams, J. H, New Zealand Mines Records, 12, 97-101.
+- 1931: Ejection of fault Brecia in the Waimata Survey District, Gisborne - Strong, S. W. S, The New Zealand Journal of Science and Technology, 12 257-267.
+- 2018: [“Engineering Geomorphological Reconnaissance of the December 2018 Waimata Valley Mud Volcano Eruption, Gisborne, New Zealand.](/assets/documents/LeightonMudVolcanoLTRS.pdf) - Leighton, Alex et al.
 
 ### Articles
 
@@ -83,7 +94,6 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2014: [Tears of Rangi: Water, power, and people in New Zealand](https://www.haujournal.org/index.php/hau/article/view/hau4.3.017) - Anne Salmond
 - 2016: [An Approach for Measuring Confinement and Assessing the Influence of Valley Setting on River Forms and Processes.](/assets/documents/FryirsAndBrierleyLTRS.pdf) - Fryirs, Kirstie A. et al.
 - 2017: [Tairāwhiti plants collected on Endeavour expedition, based on citations from the Florilegium](/assets/documents/Salmond%20TaiRawhitiPlantsFlorilegium.pdf) - Salmond, Anne
-- 2018: [“Engineering Geomorphological Reconnaissance of the December 2018 Waimata Valley Mud Volcano Eruption, Gisborne, New Zealand.](/assets/documents/LeightonMudVolcanoLTRS.pdf) - Leighton, Alex et al.
 - 2018: [A geomorphic perspective on the rights of the river in Aotearoa New Zealand](/assets/documents/2018_Brierley_A_Geomorphic_Perspective.pdf) - Gary Brierley, Marc Tadaki, Dan Hikuroa, Brendon Blue, Charlotte Šunde, Jon Tunnicliffe, Anne Salmond
 - 2019: [Let the Rivers Speak - Thinking about waterways in Aotearoa New Zealand](/assets/documents/2019_08_LetTheRiversSpeak.pdf) - Anne Salmond, Gary Brierley and Dan Hikuroa
 - 2020: [Rivers, residents, and restoration: Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/CairnsEtAlAugust2021.pdf) - Danielle Cairns, Gary Brierley, and Gretel Boswijk
@@ -102,6 +112,7 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 
 ### Theses
 
+- 1964: [The stratigraphy and structure of the Whangara-Waimata area, Gisborne, New Zealand](/assets/documents/ridd1964.pdf) - Ridd, M.F.
 - 2020: [Engineering geological investigation of a recent mud volcano eruption, Waimata Valley](/assets/documents/Leighton-2020-thesis.pdf) - Leighton, Alex
 - 2021: [Integrating Process-Based Assessments of River Sensitivity through River Styles and Semi-Quantitative Sediment Connectivity Modelling to Inform Land Use Management in the Waimatā Catchment, Gisborne, New Zealand ](/assets/documents/Harvey-2021-thesis.pdf) - Harvey, Khendra Claire
 - 2021: [Rivers, residents and restoration : Local relations to the Waimatā River, Aotearoa New Zealand](/assets/documents/Cairns-2021-thesis.pdf) - Cairns, Danielle
