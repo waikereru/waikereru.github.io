@@ -66,6 +66,7 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2023: [Ecological Survey And Assessment Of Waimanu Forest, Gisborne](/assets/documents/12925-Ecological-assessment-of-Waimanu-Forest.pdf) - For Aratu Forests Limited
 - 2023: [2023 Bird Survey in the Upper Waimata Valley](/assets/documents/2023%20Waimata%20Valley%20bird%20survey%20report.pdf) - Malcolm Rutherford
 - 2024: [2024 Bird Survey in the Upper Waimata Valley](/assets/documents/2024%20Waimata%20bird%20survey%20report.pdf) - Malcolm Rutherford
+- 2024: [River sedimentation management - Review, Scoping and Recommendations](/assets/documents/P0648%20-%20GisborneDC_River_Dredging%20Report_v0.3_DEC%202024.pdf) - Cussioli M., Berthot A., Carle E.
 - 2025: [Waimatā Nature Based Solutions Toolbox Summary Report](/assets/documents/20250725_Waimata_%20NBS%20Toolbox%20report_final#2.pdf) - Tonkin & Taylor Ltd
 
 ### Impacts of Cyclones
@@ -153,6 +154,7 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2025: [End of Extinction - A proposal to end the threat of further extinction and extend the range and abundance of our unique forest fauna and flora.](/assets/documents/EndOfExtinctionProposalV3.pdf) - James R Lynch
 - 2025: [Alt-F Reset: Examining the drivers of forestry in New Zealand](/assets/documents/Parliamentary%20Commissioner%20for%20the%20Environment%20examining-the-drivers-of-forestry-in-new-zealand_web.pdf) - Parliamentary Commissioner for the Environment
 - 2025: [Transitioning Exotic Forest to Native - Draft Preliminary Guidelines for Transitional Forestry](/assets/documents/Transition%20summary%20report%20DRAFT%20for%20review%2022-10-2025.pdf)
+- 2025: [A conceptual framework for the design and scaling of NbS: development and application](/assets/documents/Nature-based%20solutions%20EU.pdf) - Pérez-Silos, I. et. al
 
 ### Thinking about sustainable futures for Tairawhiti and Aotearoa 
 
