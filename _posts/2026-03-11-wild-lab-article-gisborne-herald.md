@@ -1,5 +1,5 @@
 ---
-title: "Juncus distegus"
+title: "Waikereru Ecosanctuary trip turns Gisborne pupils into stream scientists"
 layout: single
 classes: wide
 header:
