@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/steve/.claude/**)",
+      "Bash(Select-Object -First 1 Name)",
+    ]
+  }
+}
