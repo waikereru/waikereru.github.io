@@ -12,4 +12,4 @@ Check out this map of the blocks and ancestral place names in the Waimatā catch
 
 [![foo](/assets/images/news/waimata-catchment-map.jpg)](/assets/documents/raukumara_hi-res_opt.pdf)
 
-[Waimatā Catchment Map by Hamish MacDonald (PDF)](/assets/documents/raukumara_hi-res_opt.pdf)
+<a href="/assets/documents/raukumara_hi-res_opt.pdf" download>Waimatā Catchment Map by Hamish MacDonald (PDF)</a>

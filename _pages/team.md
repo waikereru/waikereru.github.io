@@ -27,7 +27,7 @@ When Anne and Jeremy Salmond first visited Longbush together in 1970 after a fam
 
 Each trustee is responsible for one aspect of the overall project:
 
-- **Dame Anne** is our Chair, and sponsor for [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), which aims to extend Longbush Reserve along the banks of the Waimatā River.
+- **Dame Anne** is our Chair, and sponsor for <a href="/assets/documents/MakeLongbushLonger.pdf" download>Make Longbush Longer</a>, which aims to extend Longbush Reserve along the banks of the Waimatā River.
 - **Rick Thorpe** is the Trust's treasurer, and handles our financial affairs.
 - **Tim Salmond** is the sponsor for Walk Longbush, creating a network of tracks through the bush.
 - **Jennie Harre-Hindmarsh** is the sponsor for the Wild Lab Tiaki Taiao educational programme for local children.
@@ -59,7 +59,7 @@ Graeme has an unrivalled knowledge of Tairāwhiti native plants, animals, fish a
 
 ### Steve Sawyer
 
-At the end of 2002, Anne and Jeremy contacted **[Steve Sawyer](/assets/documents/TheBirdWhispererSteveSawyer.pdf)**, who was about to leave the Department of Conservation to set up his own ecological restoration business, [Ecoworks NZ](http://www.ecoworks.co.nz/). Steve is a vital part of the Longbush project, bringing vision and expertise to its execution.
+At the end of 2002, Anne and Jeremy contacted **<a href="/assets/documents/TheBirdWhispererSteveSawyer.pdf" download>Steve Sawyer</a>**, who was about to leave the Department of Conservation to set up his own ecological restoration business, [Ecoworks NZ](http://www.ecoworks.co.nz/). Steve is a vital part of the Longbush project, bringing vision and expertise to its execution.
 
 {% include figure image_path="/assets/images/people/PeopleSteveSawyer.jpg" %}
 

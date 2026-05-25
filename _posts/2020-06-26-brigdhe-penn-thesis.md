@@ -12,4 +12,4 @@ Brighde Penn, who was brought up on Cave Road in the Waimatā Valley, has writte
 
 [![foo](/assets/images/news/BrighdePennDissertationCover.jpg)](/assets/documents/BrighdePennDissertation.pdf)
 
-[Costume Design As Integral To Environmental Education By Connecting Children To Nature (PDF)](/assets/documents/BrighdePennDissertation.pdf)
+<a href="/assets/documents/BrighdePennDissertation.pdf" download>Costume Design As Integral To Environmental Education By Connecting Children To Nature (PDF)</a>

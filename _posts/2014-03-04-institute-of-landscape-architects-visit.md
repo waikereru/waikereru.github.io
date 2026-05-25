@@ -14,4 +14,4 @@ It was a pleasure to have such thoughtful, expert and interesting visitors, and 
 
 {% include figure image_path="/assets/images/news/landscape-architects-visit.jpg" %}
 
-Read more about the visit [in this letter of support](/assets/documents/InstituteOfLandscapeArchitectsLetterOfSupport.pdf).
+Read more about the visit <a href="/assets/documents/InstituteOfLandscapeArchitectsLetterOfSupport.pdf" download>in this letter of support</a>.

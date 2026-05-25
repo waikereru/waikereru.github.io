@@ -16,5 +16,5 @@ We now have two excellent new plans for pest and weed control at Waikereru, by S
     <figcaption>New pest and weed management plans for 2024</figcaption>
 </figure>
 
-- [Waikereru Pest Management Plan 2024](/assets/documents/WaikereruPestManagementPlan2024.pdf)
-- [Waikereru Weed Management Plan 2024](/assets/documents/WaikereruWeedManagementPlan2024.pdf)
+- <a href="/assets/documents/WaikereruPestManagementPlan2024.pdf" download>Waikereru Pest Management Plan 2024</a>
+- <a href="/assets/documents/WaikereruWeedManagementPlan2024.pdf" download>Waikereru Weed Management Plan 2024</a>

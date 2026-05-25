@@ -12,4 +12,4 @@ Malcolm Rutherford's recent talk on the 1769 Seed Archive to the Friends of the 
 
 [![foo](/assets/images/news/malcolm-rutherford-fcbg-talk-2019.jpg)](/assets/documents/FCBGNewsletter118Summer2019-20-1.pdf)
 
-[Read more here](/assets/documents/FCBGNewsletter118Summer2019-20-1.pdf)
+<a href="/assets/documents/FCBGNewsletter118Summer2019-20-1.pdf" download>Read more here</a>

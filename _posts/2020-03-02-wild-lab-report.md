@@ -12,6 +12,6 @@ With heartfelt thanks to Pete and Elle Jarratt, Wild Lab Tiaki Taiao, our wilder
 
 [![foo](/assets/images/news/anzet-report.jpg)](/assets/documents/12022020_YearOneReportToANZET_WaikereruWildLabTiakiTaiao_AS_JHH.pdf)
 
-[Waikereru Wild Lab Tiaki Taiao - Year One 2019 Report to ANZET (PDF)](/assets/documents/12022020_YearOneReportToANZET_WaikereruWildLabTiakiTaiao_AS_JHH.pdf)
+<a href="/assets/documents/12022020_YearOneReportToANZET_WaikereruWildLabTiakiTaiao_AS_JHH.pdf" download>Waikereru Wild Lab Tiaki Taiao - Year One 2019 Report to ANZET (PDF)</a>
 
 

@@ -20,4 +20,4 @@ Sadly, though, those rates have just plummeted as a result of  government polici
 
 Given billions of dollars of damage and the huge harm caused to lives, livelihoods and landscapes in regions like Tairāwhiti, Hawkes Bay and Nelson, this is difficult to understand.
 
-- [Manaaki Whenua Waikereru Data - 2025](/assets/documents/ManaakiWhenuaWaikereruData2025.pdf)
+- <a href="/assets/documents/ManaakiWhenuaWaikereruData2025.pdf" download>Manaaki Whenua Waikereru Data - 2025</a>

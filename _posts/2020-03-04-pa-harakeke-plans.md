@@ -13,5 +13,5 @@ Janine Te Reo, kai-tiaki of the Rene Orchiston pā harakeke, has pointed out tha
 {% include figure image_path="/assets/images/news/PaHarakeke2020Landscape.jpg" %}
 {% include figure image_path="/assets/images/news/PaHarakeke2020Renewal.jpg" %}
 
-- [Pā Harakeke New Site Overview (PDF)](/assets/documents/PaHarakeke2020Landscape.pdf)
-- [Pā Harakeke Planting Breakdown (PDF)](/assets/documents/PaHarakeke2020Renewal.pdf)
+- <a href="/assets/documents/PaHarakeke2020Landscape.pdf" download>Pā Harakeke New Site Overview (PDF)</a>
+- <a href="/assets/documents/PaHarakeke2020Renewal.pdf" download>Pā Harakeke Planting Breakdown (PDF)</a>

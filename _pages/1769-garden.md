@@ -66,7 +66,7 @@ Planting the garden began in 2 June 2015, and continues to evolve, guided by Phi
 
 {% include gallery id="designer" %}
 
-For a thoughtful commentary on 3 local gardens that mark Endeavour​'s arrival, [see this paper](/assets/documents/SAHANZOnlineVersion.pdf) by Bindy Barclay and Prof. Jacky Bowring, Lincoln University.
+For a thoughtful commentary on 3 local gardens that mark Endeavour​'s arrival, <a href="/assets/documents/SAHANZOnlineVersion.pdf" download>see this paper</a> by Bindy Barclay and Prof. Jacky Bowring, Lincoln University.
 
 
 ## A blaze of yellow
@@ -115,9 +115,9 @@ When they came ashore in Tūranganui, Joseph Banks was sure they had found Terra
 
 There they were sketched by **Sydney Parkinson**, the Quaker artist; classified and described by Banks and Solander using the Linnaean method of counting the pistels and stamens on their flowers; and pressed between pages of a commentary on Milton’s *Paradise Lost.*  Many of these pressed plants still survive in herbaria collections in the United Kingdom, Australia and New Zealand.
 
-Banks and Solander collected specimens of 73 new species of plants in Turanganui-a-Kiwa; 115 in Anaura Bay; and 193 in Uawa (Tolaga Bay). 52 of these species are currently represented in the garden. For Anne Salmond's account of their collecting in Tairāwhiti, and how this inspired the 1769 Seed Archive, [click here](/assets/documents/Anne%20Salmond%20extract%20Case%20Studies.pdf).
+Banks and Solander collected specimens of 73 new species of plants in Turanganui-a-Kiwa; 115 in Anaura Bay; and 193 in Uawa (Tolaga Bay). 52 of these species are currently represented in the garden. For Anne Salmond's account of their collecting in Tairāwhiti, and how this inspired the 1769 Seed Archive, <a href="/assets/documents/Anne%20Salmond%20extract%20Case%20Studies.pdf" download>click here</a>.
 
-Background research on their Tairāwhiti collections was carried out by Ewen Cameron, Curator (Botany) at Auckland War Memorial Museum, and Anne Salmond, Chair Longbush Ecological Trust: [click here](/assets/documents/1769TairawhitiSpeciesBanksAndSolander.pdf) for the illustrated plant list.
+Background research on their Tairāwhiti collections was carried out by Ewen Cameron, Curator (Botany) at Auckland War Memorial Museum, and Anne Salmond, Chair Longbush Ecological Trust: <a href="/assets/documents/1769TairawhitiSpeciesBanksAndSolander.pdf" download>click here</a> for the illustrated plant list.
 
 
 ## Plant Profiles
@@ -265,5 +265,5 @@ Many populations are also threatened by the spread of aggressive weeds, which su
 ## Links
 
 * [**The 1769 Seed Archive** on Radio New Zealand's *Our Changing World*](https://www.rnz.co.nz/national/programmes/ourchangingworld/audio/2018621206/the-1769-garden)
-* [Banks & Solander Botanical Collections Tai Rawhiti](/assets/documents/1769-final-tairawhiti-species-banks-and-solander.pdf) (Ewen Cameron, Botanist, Auckland War Memorial Museum)
-* [Tairāwhiti plants collected on Endeavour expedition, based on citations from the Florilegium](/assets/documents/TaiRawhitiPlantsFlorilegium.pdf) - Anne Salmond, 2017
+* <a href="/assets/documents/1769-final-tairawhiti-species-banks-and-solander.pdf" download>Banks & Solander Botanical Collections Tai Rawhiti</a> (Ewen Cameron, Botanist, Auckland War Memorial Museum)
+* <a href="/assets/documents/TaiRawhitiPlantsFlorilegium.pdf" download>Tairāwhiti plants collected on Endeavour expedition, based on citations from the Florilegium</a> - Anne Salmond, 2017

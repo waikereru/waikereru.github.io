@@ -12,6 +12,6 @@ Led by trustee Lois Easton, we're planning to create a new wetland around the ol
 
 {% include figure image_path="/assets/images/news/wetland-concept-2020.jpg" %}
 
-[Waikereru Wetland Concept (PDF)](/assets/documents/WetlandRestorationWaikereru.pdf)
+<a href="/assets/documents/WetlandRestorationWaikereru.pdf" download>Waikereru Wetland Concept (PDF)</a>
 
 

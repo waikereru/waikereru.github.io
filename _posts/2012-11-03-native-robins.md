@@ -8,6 +8,6 @@ categories:
   - News
 ---
 
-Patsy Matthews from Ecoworks has been forwarding reports from the front line at Longbush, where a female native robin has just been released and teamed up with 'Dog Gully Guy,' a male robin who's been on his own since last season.  [Read all about it!](/assets/documents/RobinCourtship.pdf)
+Patsy Matthews from Ecoworks has been forwarding reports from the front line at Longbush, where a female native robin has just been released and teamed up with 'Dog Gully Guy,' a male robin who's been on his own since last season.  <a href="/assets/documents/RobinCourtship.pdf" download>Read all about it!</a>
 
 {% include figure image_path="/assets/images/news/native-robins.jpg" %}

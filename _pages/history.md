@@ -26,7 +26,7 @@ When legal title to the land was established in 1869, the local chiefs settled i
 
 {% include figure image_path="/assets/images/history/hirini-te-kani-card.jpg" caption="Hirini Te Kani, Te Aitanga-ā-Māhaki" %}
 
-In 1885 the ownership of the Whataupoko No.9 block passed to the New Zealand Native Land Settlement Company, which sold part of it to John Dunlop. From that time, the Waikereru Station (3300 acres) was worked as a pastoral farm, with two families, the Donners and the Hegartys, running the farm from 1895 to 1990. For further details, see [Gordon Jackman's excellent archaeological report on Waikereru](/assets/documents/ArchaeologicalAssessmentGordonJackman.pdf).
+In 1885 the ownership of the Whataupoko No.9 block passed to the New Zealand Native Land Settlement Company, which sold part of it to John Dunlop. From that time, the Waikereru Station (3300 acres) was worked as a pastoral farm, with two families, the Donners and the Hegartys, running the farm from 1895 to 1990. For further details, see <a href="/assets/documents/ArchaeologicalAssessmentGordonJackman.pdf" download>Gordon Jackman's excellent archaeological report on Waikereru</a>.
 
 {% include figure image_path="/assets/images/history/site-panorama-1942.jpg" caption="The site as it looked in 1942, Malcom Rutherford" %}
 
@@ -61,7 +61,7 @@ The owners worked with Andy Carrie from the Conservation Corps at Tairāwhiti Po
 
 The restoration of the bush along the Waimatā River is now complete (although ongoing maintenance is essential). The results to date have been dramatic.
 
-The forest floor has been colonised by kawakawa and other plants, and rare plants including black and hooded green orchids are re-emerging ([See list of plants at Longbush](/assets/documents/SpeciesList.pdf)).
+The forest floor has been colonised by kawakawa and other plants, and rare plants including black and hooded green orchids are re-emerging (<a href="/assets/documents/SpeciesList.pdf" download>See list of plants at Longbush</a>).
 
 The numbers of indigenous birds including kereru, tui, bell-bird, fantail, kingfisher and rūrū (native owls) have markedly increased, with sightings of rare species including whiteheads, weka and the New Zealand falcon.
 
@@ -97,9 +97,9 @@ The riverside bush and the hill area are protected by QEII covenants, with sever
 
 The corridors for wildlife are already in place, with good seed stocks and established populations of many species of native birds in the Ecosanctuary and the PMA across the river. Three creeks run from the ridgelines across the flats to the Waimatā River, providing a variety of habitats.
 
-In 2009 the **[Longbush Ecological Trust](/team/)**, which is responsible for the restoration of both Longbush Reserve and Waikereru, was set up to restore the covenanted areas. A [Management Plan](/assets/documents/LongbushAndWaikereruManagementPlan.pdf) was produced outlining future opportunities for the conservation of Longbush Reserve and Waikereru.
+In 2009 the **[Longbush Ecological Trust](/team/)**, which is responsible for the restoration of both Longbush Reserve and Waikereru, was set up to restore the covenanted areas. A <a href="/assets/documents/LongbushAndWaikereruManagementPlan.pdf" download>Management Plan</a> was produced outlining future opportunities for the conservation of Longbush Reserve and Waikereru.
 
-Medium-term initiatives include [Make Longbush Longer](/assets/documents/MakeLongbushLonger.pdf), a community project to restore bush to the banks of the Waimatā River; and Friends of the Waimatā, a community network which aims to restore the waters feeding the Waimatā to their original state, with clear, slow-flowing streams and ponds, full of life and indigenous freshwater species.
+Medium-term initiatives include <a href="/assets/documents/MakeLongbushLonger.pdf" download>Make Longbush Longer</a>, a community project to restore bush to the banks of the Waimatā River; and Friends of the Waimatā, a community network which aims to restore the waters feeding the Waimatā to their original state, with clear, slow-flowing streams and ponds, full of life and indigenous freshwater species.
 
 {% include figure image_path="/assets/images/river/river-source-preview.jpg" caption="Photo by Malcolm Rutherford" %}
 
@@ -109,7 +109,7 @@ This is by far the most ambitious phase of the project to date, aiming to restor
 
 This will be the largest fully protected area in the Tairāwhiti region (from Opotiki to Wairoa, including the hinterland) with the sustained predator and weed control that allows these species to survive and flourish.
 
-During 2011, a small predator-free enclosure was built in the Waikereru hills, and five oi (grey-faced petrel) chicks were successfully translocated and reared, and flew off to the Pacific ([see attached report](/assets/documents/FirstYearTitiProjectReport.pdf)). 
+During 2011, a small predator-free enclosure was built in the Waikereru hills, and five oi (grey-faced petrel) chicks were successfully translocated and reared, and flew off to the Pacific (<a href="/assets/documents/FirstYearTitiProjectReport.pdf" download>see attached report</a>). 
 
 During 2012, ten chicks were reared at Longbush, and 16 chicks in 2016, flying off on their Pacific migration.
 
@@ -126,6 +126,6 @@ In 2019, the Wild Lab Tiaki Taiao educational programme for local kids will get 
 
 {% include figure image_path="/assets/images/history/april-2018-from-eastern-hills.jpg" caption="View from the eastern hills, April 2018: Malcolm Rutherford" %}
 
-In 2017 the trustees met to discuss a [10 year plan](/assets/documents/TenYearPlan2017To2027Minutes.pdf) to guide the future development of Waikereru.
+In 2017 the trustees met to discuss a <a href="/assets/documents/TenYearPlan2017To2027Minutes.pdf" download>10 year plan</a> to guide the future development of Waikereru.
 
-[Ten year plan for Waikereru: 2017-2027](/assets/documents/TenYearPlan2017To2027.pdf)
+<a href="/assets/documents/TenYearPlan2017To2027.pdf" download>Ten year plan for Waikereru: 2017-2027</a>

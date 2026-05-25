@@ -10,5 +10,5 @@ categories:
 
 A marvellous story about the [1769 Seed Archive](/1769-garden) and its people (Philip Smith, Malcolm Rutherford, Graeme Atkins) in the latest [*New Zealand Gardener* ​magazine](https://www.facebook.com/nzgardener/).
 
-[View the article here (PDF)](/assets/documents/1769NzGardenerArticle.pdf)
+<a href="/assets/documents/1769NzGardenerArticle.pdf" download>View the article here (PDF)</a>
 
