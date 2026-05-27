@@ -267,3 +267,4 @@ Many populations are also threatened by the spread of aggressive weeds, which su
 * [**The 1769 Seed Archive** on Radio New Zealand's *Our Changing World*](https://www.rnz.co.nz/national/programmes/ourchangingworld/audio/2018621206/the-1769-garden)
 * <a href="/assets/documents/1769-final-tairawhiti-species-banks-and-solander.pdf" download>Banks & Solander Botanical Collections Tai Rawhiti</a> (Ewen Cameron, Botanist, Auckland War Memorial Museum)
 * <a href="/assets/documents/TaiRawhitiPlantsFlorilegium.pdf" download>Tairāwhiti plants collected on Endeavour expedition, based on citations from the Florilegium</a> - Anne Salmond, 2017
+* <a href="/assets/documents/Pa_Harakeke_Report.pdf" download>Pā Harakeke Collection Report (PDF)</a>
