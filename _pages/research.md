@@ -50,7 +50,7 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 ### Te Awaroa
 
 #### Articles
-- 2014: [Enacting new freshwater geographies: Te Awaroa and the transformative imagination](https://www.academia.edu/35955730/Enacting_new_freshwater_geographies_Te_Awaroa_and_the_transformative_imagination) - Salmond, Tadaki, Gregory
+- 2014: <a href="/assets/documents/Enacting_new_Freshwater_Geographies.pdf" download>Enacting new freshwater geographies: Te Awaroa and the transformative imagination</a> - Salmond, Tadaki, Gregory
 - 2014: [Tears of Rangi: Water, power, and people in New Zealand](https://www.haujournal.org/index.php/hau/article/view/hau4.3.017) - Anne Salmond
 - 2018: <a href="/assets/documents/2018_Brierley_A_Geomorphic_Perspective.pdf" download>A geomorphic perspective on the rights of the river in Aotearoa New Zealand</a> - Gary Brierley, Marc Tadaki, Dan Hikuroa, Brendon Blue, Charlotte Šunde, Jon Tunnicliffe, Anne Salmond
 
@@ -67,10 +67,10 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 
 #### LTRS Articles and Chapters
 - 2019: <a href="/assets/documents/2019_08_LetTheRiversSpeak.pdf" download>Let the Rivers Speak - Thinking about waterways in Aotearoa New Zealand</a> - Anne Salmond, Gary Brierley and Dan Hikuroa
-- 2019: [Rivers as Ancestors and other Realities: Governance of Waterways in Aotearoa New Zealand](https://www.academia.edu/76921876/Rivers_as_ancestors_and_other_realities) - Anne Salmond
+- 2019: <a href="/assets/documents/2018_Rivers_as_Ancestors_and_other_Reali.pdf" download>Rivers as Ancestors and other Realities: Governance of Waterways in Aotearoa New Zealand</a> - Anne Salmond
 - 2020: <a href="/assets/documents/CairnsEtAlAugust2021.pdf" download>Rivers, residents, and restoration: Local relations to the Waimatā River, Aotearoa New Zealand</a> - Danielle Cairns, Gary Brierley, and Gretel Boswijk
 - 2021: <a href="/assets/documents/HarveyEtAlAugust2021.pdf" download>Steps towards incorporating geomorphic considerations in farm and catchment management plans in the Waimatā Catchment, Aotearoa New Zealand</a> - Harvey, Brierley, Easton, Watson, Tunnicliffe
-- 2021: [Restoring Sociocultural Relationships with Rivers: Experiments in Fluvial Pluralism](https://doi.org/10.1002/9781119410010.ch3) - Dan Hikuroa, Gary Brierley, Marc Tadaki, Brendon Blue, Anne Salmond
+- 2021: <a href="/assets/documents/2021_Restoring_Sociocultural_Relationshi.pdf" download>Restoring Sociocultural Relationships with Rivers: Experiments in Fluvial Pluralism</a> - Dan Hikuroa, Gary Brierley, Marc Tadaki, Brendon Blue, Anne Salmond
 - 2022: <a href="/assets/documents/TaiTimuTaiPari.pdf" download>Tai Timu, Tai Pari, the Ebb and Flow of the Tides: Working with the Waimatā from the Mountains to the Sea</a> - Salmond, Anne et al.
 - 2022: <a href="/assets/documents/HikuroaLythbergTeManaOTeWai2022.pdf" download>Te Mana o te Wai — Relating to and through the charisma of water</a> - Hikuroa, D. and B. Lythberg.
 - 2023: <a href="/assets/documents/fenvs-11-1162099.pdf" download>Managing at source and at scale: The use of geomorphic river stories to support rehabilitation of Anthropocene riverscapes in the East Coast Region of Aotearoa New Zealand</a> - Fuller, I. C. et al.
