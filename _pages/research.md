@@ -61,7 +61,7 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - <a href="/assets/documents/BiodiversityInTheWaimataCatchmentReport.pdf" download>Biodiversity in the Waimatā</a> (Research Report 4) - Abigail Salmond
 - <a href="/assets/documents/WaimataAPlaceBelongingToTheHeart.pdf" download>A Place Belonging to the Heart</a> (Research Report 5) - Michelle Reeve
 - <a href="/assets/documents/SheridanGundryWaimataRiver.pdf" download>Sheridan Gundry’s short illustrated account of the Waimatā River</a> (Please don’t copy the images)
-- <a href="/assets/documents/raukumara_hi-res_opt.pdf" download>Waimatā Catchment Map</a> with blocks and ancestral place names, by Hamish MacDonald
+- <a href="/assets/documents/raukumara_hi-res_opt.pdf" download>Waimatā Catchment Map</a> with blocks and ancestral place names, by Hamish MacDonald (<a href="/assets/images/maps/raukumara_hi-res_opt.jpg" dowload>JPEG version</a>)
 
 ### Let the River Speak Articles, Theses and Reports
 
