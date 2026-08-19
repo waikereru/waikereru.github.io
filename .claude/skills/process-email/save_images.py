@@ -73,7 +73,7 @@ eml_path = sys.argv[1]
 if len(sys.argv) >= 3:
     output_dir = sys.argv[2]
 else:
-    output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'assets', 'images', 'news')
+    output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))), 'assets', 'images', 'news')
 
 saved = extract_and_save_images(eml_path, output_dir)
 
