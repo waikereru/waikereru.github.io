@@ -15,3 +15,5 @@ We're planning an intelligent AI-enabled system for trapping and monitoring at W
 {% include figure image_path="/assets/images/news/thermal-camera-view-corner-pines.jpg" caption="A view from the thermal camera" %}
 
 {% include figure image_path="/assets/images/news/h2-lure-device-example-corner-pines.jpg" caption="The H2 lure dispenser" %}
+
+{% include video id="jUdzlEjlaXg" provider="youtube" %}
