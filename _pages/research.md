@@ -129,6 +129,7 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2025: <a href="/assets/documents/Nature-based%20solutions%20EU.pdf" download>A conceptual framework for the design and scaling of NbS: development and application</a> - Pérez-Silos, I. et. al
 
 ### Other relevant publications
+- 1962: <a href="/assets/documents/PullarGisborneSoils.pdf" download>Soils And Agriculture Of Gisborne Plains</a> - W. A. Pullar, Soil Bureau
 - 1964: <a href="/assets/documents/ridd1964.pdf" download>The stratigraphy and structure of the Whangara-Waimata area, Gisborne, New Zealand</a> - Ridd, M.F.
 - 1999: <a href="/assets/documents/LateHoloceneForestDisturbanceInGisborneNewZealand.pdf" download>Late Holocene forest disturbance in Gisborne, New Zealand: A comparison of terrestrial and marine pollen records</a> - Janet M. Wilmshurst, Dennis N. Eden & Paul C. Froggatt
 - 1999: <a href="/assets/documents/RoweEtAl_KanukaInterception_JoHNZ_1999_v38.pdf" download>Interception and throughfall in a regenerating stand of kanuka, East Coast region, North Island, New Zealand, and implications for soil conservation</a> - L. K. Rowe, M. Marden and D. Rowan
