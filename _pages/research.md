@@ -143,9 +143,11 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2022: <a href="/assets/documents/Final_report_Wilmshurst_PakowhaiWetlandQEII_2022.pdf" download>Pre-human vegetation of the Pakowhai Wetland QEII National Trust covenant</a> - Wilmshurst, Janet
 - 2023: <a href="/assets/documents/12925-Ecological-assessment-of-Waimanu-Forest.pdf" download>Ecological Survey And Assessment Of Waimanu Forest, Gisborne</a> - For Aratu Forests Limited
 - 2023: <a href="/assets/documents/2023%20Waimata%20Valley%20bird%20survey%20report.pdf" download>2023 Bird Survey in the Upper Waimata Valley</a> - Malcolm Rutherford
-- 2024: <a href="/assets/documents/2024%20Waimata%20bird%20survey%20report.pdf" download>2024 Bird Survey in the Upper Waimata Valley</a> - Malcolm Rutherford
+- 2024: <a href="/assets/documents/2024%20Waimata%20bird%20survey%20report.pdf" download>2024 Bird Survey in the Upper Waimata Valley</a> - Malcolm Rutherford../assets/documents/
+- 2024: <a href="/assets/documents/CawRpt_4067_MonitoringOfTuranganuiEstuary2024_Final.pdf" download>Monitoring of Tūranganui Estuary: 2024</a> - Cawthron Report 4067
 - 2024: <a href="/assets/documents/P0648%20-%20GisborneDC_River_Dredging%20Report_v0.3_DEC%202024.pdf" download>River sedimentation management - Review, Scoping and Recommendations</a> - Cussioli M., Berthot A., Carle E.
 - 2025: <a href="/assets/documents/20250725_Waimata_%20NBS%20Toolbox%20report_final#2.pdf" download>Waimatā Nature Based Solutions Toolbox Summary Report</a> - Tonkin & Taylor Ltd
+- 2025: <a href="/assets/documents/EstuaryFineScaleMonitoring2025Tairawhiti.pdf" download>Ecological Monitoring of three Tairāwhiti estuaries: Kaitawa Estuary, Tūranganui Estuary and Te Wherowhero Lagoon</a> - Isabella Clere (Gisborne District Council)
 
 ### Other Resources
 - <a href="/assets/documents/Reference-material-for-Transition-Advisory-Group.pdf" download>Bibliography: Mike Marden</a>
