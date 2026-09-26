@@ -55,24 +55,24 @@ research:
     children:
       - title: "Waikereru Reports"
         url: /research/#waikereru-reports
-      - title: "Research Reports"
-        url: /research/#research-reports
-      - title: "Other Reports"
-        url: /research/#other-reports
-      - title: "Cyclone Gabrielle"
-        url: /research/#impacts-of-cyclone-gabrielle
-      - title: "Articles"
-        url: /research/#articles
-      - title: "Theses"
-        url: /research/#theses
-      - title: "Resources"
+      - title: "Te Awaroa"
+        url: /research/#te-awaroa
+      - title: "Let the River Speak Articles, Theses and Reports"
+        url: /research/#let-the-river-speak-articles-theses-and-reports
+      - title: "Non-LTRS Waimatā / Tūranganui Reports"
+        url: /research/#non-ltrs-reports
+      - title: "Mud Volcanoes"
+        url: /research/#mud-volcanoes
+      - title: "Impacts of Cyclones"
+        url: /research/#impacts-of-cyclones
+      - title: "Ecological Restoration"
+        url: /research/#ecological-restoration
+      - title: "Other relevant publications"
+        url: /research/#other-relevant-publications
+      - title: "Other Resources"
         url: /research/#other-resources
       - title: "Funding Applications"
         url: /research/#funding-applications
-      - title: "Ecological Restoration"
-        url: /research/#ecological-restoration
-      - title: "Sustainable Futures"
-        url: /research/#thinking-about-sustainable-futures-for-tairawhiti-and-aotearoa
   - title: "Waimatā River"
     url: /research/#waimatā-river
     children:
@@ -83,7 +83,7 @@ research:
       - title: "Future of the Waimatā"
         url: /research/#the-future-of-the-waimatā
       - title: "Te Awaroa"
-        url: /research/#te-awaroa
+        url: /research/#te-awaroa-1
       - title: "Guardians of the Waimatā"
         url: /research/#guardians-of-the-waimatā
       - title: "Catchment Group"

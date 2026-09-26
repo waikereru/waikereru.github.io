@@ -89,14 +89,14 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2023: <a href="/assets/documents/AverageCirculationConditionsThesis.pdf" download>Average Circulation Conditions that Precede River Flooding in Eastern Catchments of New Zealand</a> - Bridges, Amy
 - 2024: <a href="/assets/documents/MastersDissertationKayaVanDeventer-Hollands.pdf" download>Assessment of nature-based flood management (NBFM) approaches in the upper Waimatā Catchment, Gisborne</a> - Hollands, Kaya
 
-### Non-LTRS Waimatā / Tūranganui Reports
+### Non-LTRS Waimatā / Tūranganui Reports {#non-ltrs-reports}
 - 2006: <a href="/assets/documents/TuranganuiRiverHistory.pdf" download>The Turanganui River - A Brief History</a> - Michael Spedding
 - 2008: <a href="/assets/documents/MardenArticleLTRS.pdf" download>Last Glacial Aggradation and Postglacial Sediment Production from the Non-Glacial Waipaoa and Waimata Catchments, Hikurangi Margin, North Island, New Zealand</a> - Marden, Michael et al.
 - 2011: [An inventory of deep-seated landslides in the Waipaoa and Waimata catchments](https://natlib.govt.nz/records/29841380) - M. J. Page, B. Lukovic.
 - 2023: <a href="/assets/documents/2023%20Waimata%20Valley%20bird%20survey%20report.pdf" download>2023 Bird Survey in the Upper Waimata Valley</a> - Malcolm Rutherford
 - 2024: <a href="/assets/documents/2024%20Waimata%20bird%20survey%20report.pdf" download>2024 Bird Survey in the Upper Waimata Valley</a> - Malcolm Rutherford
 - 2024: <a href="/assets/documents/CawRpt_4067_MonitoringOfTuranganuiEstuary2024_Final.pdf" download>Monitoring of Tūranganui Estuary: 2024</a> - Cawthron Report 4067
-- 2025: <a href="/assets/documents/20250725_Waimata_%20NBS%20Toolbox%20report_final#2.pdf" download>Waimatā Nature Based Solutions Toolbox Summary Report</a> - Tonkin & Taylor Ltd
+- 2025: <a href="/assets/documents/20250725_Waimata_NBS_Toolbox_Report_Final.pdf" download>Waimatā Nature Based Solutions Toolbox Summary Report</a> - Tonkin & Taylor Ltd
 - 2025: <a href="/assets/documents/EstuaryFineScaleMonitoring2025Tairawhiti.pdf" download>Ecological Monitoring of three Tairāwhiti estuaries: Kaitawa Estuary, Tūranganui Estuary and Te Wherowhero Lagoon</a> - Isabella Clere (Gisborne District Council)
 
 ### Mud Volcanoes
