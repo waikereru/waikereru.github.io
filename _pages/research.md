@@ -89,6 +89,16 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 2023: <a href="/assets/documents/AverageCirculationConditionsThesis.pdf" download>Average Circulation Conditions that Precede River Flooding in Eastern Catchments of New Zealand</a> - Bridges, Amy
 - 2024: <a href="/assets/documents/MastersDissertationKayaVanDeventer-Hollands.pdf" download>Assessment of nature-based flood management (NBFM) approaches in the upper Waimatā Catchment, Gisborne</a> - Hollands, Kaya
 
+### Non-LTRS Waimatā / Tūranganui Reports
+- 2006: <a href="/assets/documents/TuranganuiRiverHistory.pdf" download>The Turanganui River - A Brief History</a> - Michael Spedding
+- 2008: <a href="/assets/documents/MardenArticleLTRS.pdf" download>Last Glacial Aggradation and Postglacial Sediment Production from the Non-Glacial Waipaoa and Waimata Catchments, Hikurangi Margin, North Island, New Zealand</a> - Marden, Michael et al.
+- 2011: [An inventory of deep-seated landslides in the Waipaoa and Waimata catchments](https://natlib.govt.nz/records/29841380) - M. J. Page, B. Lukovic.
+- 2023: <a href="/assets/documents/2023%20Waimata%20Valley%20bird%20survey%20report.pdf" download>2023 Bird Survey in the Upper Waimata Valley</a> - Malcolm Rutherford
+- 2024: <a href="/assets/documents/2024%20Waimata%20bird%20survey%20report.pdf" download>2024 Bird Survey in the Upper Waimata Valley</a> - Malcolm Rutherford
+- 2024: <a href="/assets/documents/CawRpt_4067_MonitoringOfTuranganuiEstuary2024_Final.pdf" download>Monitoring of Tūranganui Estuary: 2024</a> - Cawthron Report 4067
+- 2025: <a href="/assets/documents/20250725_Waimata_%20NBS%20Toolbox%20report_final#2.pdf" download>Waimatā Nature Based Solutions Toolbox Summary Report</a> - Tonkin & Taylor Ltd
+- 2025: <a href="/assets/documents/EstuaryFineScaleMonitoring2025Tairawhiti.pdf" download>Ecological Monitoring of three Tairāwhiti estuaries: Kaitawa Estuary, Tūranganui Estuary and Te Wherowhero Lagoon</a> - Isabella Clere (Gisborne District Council)
+
 ### Mud Volcanoes
 - 1908: Mud and Gas Blow-out at Waimata, Gisborne - Ackroyd, W.E, New Zealand Mines Records, 12, 64-65.
 - 1908: The eruption of the Waimata mud spring - Adams, J. H, New Zealand Mines Records, 12, 97-101.
@@ -134,20 +144,12 @@ The [1769 Seed Archive](/1769-garden/), with its rare and endangered Tairāwhiti
 - 1999: <a href="/assets/documents/LateHoloceneForestDisturbanceInGisborneNewZealand.pdf" download>Late Holocene forest disturbance in Gisborne, New Zealand: A comparison of terrestrial and marine pollen records</a> - Janet M. Wilmshurst, Dennis N. Eden & Paul C. Froggatt
 - 1999: <a href="/assets/documents/RoweEtAl_KanukaInterception_JoHNZ_1999_v38.pdf" download>Interception and throughfall in a regenerating stand of kanuka, East Coast region, North Island, New Zealand, and implications for soil conservation</a> - L. K. Rowe, M. Marden and D. Rowan
 - 2000: <a href="/assets/documents/BradCoombesPovertyBayEnvironmentalHistory.pdf" download>Ecological impacts and planning history - An environmental history of the Turanganui-a-Kiwa casebook area</a> - Dr. Brad Coombes
-- 2006: <a href="/assets/documents/TuranganuiRiverHistory.pdf" download>The Turanganui River - A Brief History</a> - Michael Spedding
-- 2008: <a href="/assets/documents/MardenArticleLTRS.pdf" download>Last Glacial Aggradation and Postglacial Sediment Production from the Non-Glacial Waipaoa and Waimata Catchments, Hikurangi Margin, North Island, New Zealand</a> - Marden, Michael et al.
-- 2011: [An inventory of deep-seated landslides in the Waipaoa and Waimata catchments](https://natlib.govt.nz/records/29841380) - M. J. Page, B. Lukovic.
 - 2014: <a href="/assets/documents/Wastewater%20Report%20Gisborne%202013.pdf" download>The importance of the social components of biotransformation in the treatment of wastewater</a> - Te Turanganui a Kiwa Gisborne Wastewater Technical Advisory Group
 - 2016: <a href="/assets/documents/FryirsAndBrierleyLTRS.pdf" download>An Approach for Measuring Confinement and Assessing the Influence of Valley Setting on River Forms and Processes.</a> - Fryirs, Kirstie A. et al.
 - 2021: <a href="/assets/documents/2060-GSDC162-The-coastal-habitats-of-Tairawhiti-A-review-of-the-scientific-local-and-customary-knowledge.pdf" download>The coastal habitats of Tairawhiti</a> - Phil M. Ross
 - 2022: <a href="/assets/documents/Final_report_Wilmshurst_PakowhaiWetlandQEII_2022.pdf" download>Pre-human vegetation of the Pakowhai Wetland QEII National Trust covenant</a> - Wilmshurst, Janet
 - 2023: <a href="/assets/documents/12925-Ecological-assessment-of-Waimanu-Forest.pdf" download>Ecological Survey And Assessment Of Waimanu Forest, Gisborne</a> - For Aratu Forests Limited
-- 2023: <a href="/assets/documents/2023%20Waimata%20Valley%20bird%20survey%20report.pdf" download>2023 Bird Survey in the Upper Waimata Valley</a> - Malcolm Rutherford
-- 2024: <a href="/assets/documents/2024%20Waimata%20bird%20survey%20report.pdf" download>2024 Bird Survey in the Upper Waimata Valley</a> - Malcolm Rutherford../assets/documents/
-- 2024: <a href="/assets/documents/CawRpt_4067_MonitoringOfTuranganuiEstuary2024_Final.pdf" download>Monitoring of Tūranganui Estuary: 2024</a> - Cawthron Report 4067
 - 2024: <a href="/assets/documents/P0648%20-%20GisborneDC_River_Dredging%20Report_v0.3_DEC%202024.pdf" download>River sedimentation management - Review, Scoping and Recommendations</a> - Cussioli M., Berthot A., Carle E.
-- 2025: <a href="/assets/documents/20250725_Waimata_%20NBS%20Toolbox%20report_final#2.pdf" download>Waimatā Nature Based Solutions Toolbox Summary Report</a> - Tonkin & Taylor Ltd
-- 2025: <a href="/assets/documents/EstuaryFineScaleMonitoring2025Tairawhiti.pdf" download>Ecological Monitoring of three Tairāwhiti estuaries: Kaitawa Estuary, Tūranganui Estuary and Te Wherowhero Lagoon</a> - Isabella Clere (Gisborne District Council)
 
 ### Other Resources
 - <a href="/assets/documents/Reference-material-for-Transition-Advisory-Group.pdf" download>Bibliography: Mike Marden</a>
